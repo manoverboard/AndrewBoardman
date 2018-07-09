@@ -1,10 +1,55 @@
 ---
-label: posts
+label: Blog
 hide_body: false
 is_partial: false
 fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: related_posts
+  label: Related posts
+  type: list
+  hidden: false
+  default: ''
+- name: sub_heading
+  label: Sub heading
+  type: text
+  hidden: false
+  default: ''
+- name: banner_image
+  label: Banner image
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
 - name: layout
   label: Layout
   type: text
   hidden: false
   default: post
+- name: sub-title
+  label: Sub title
+  type: text
+  hidden: false
+  default: ''
+- name: thumbnail
+  label: Thumbnail
+  type: text
+  hidden: false
+  default: ''
+- name: sub-heading
+  label: Sub heading
+  type: text
+  hidden: false
+  default: ''
