@@ -37,3 +37,8 @@ fields:
     required: true
   label: List 1 Info
   name: list_1_info
+- type: text
+  label: List 2 Title
+  name: list_2_title
+  config:
+    required: true
