@@ -1,26 +1,18 @@
 ---
-label: default
-hide_body: true
+label: Default
+hide_body: false
 is_partial: false
 fields:
-- type: text
-  name: title
-  label: Title
+- type: select
   config:
+    source:
+      type: simple
     required: true
-- type: textarea
-  name: description
-  label: Description
-  description: A short description of the page
-  config:
-    required: true
-- type: datetime
-  name: publish_date
-  label: Publish Date
-  config:
-    required: true
-- type: text
+    options:
+    - Home
+    - Blog Home
+    - Projects Home
+    - About
+  label: Layout
   name: layout
-  label: layout
-  hidden: true
-  default: post
+  default: Home
