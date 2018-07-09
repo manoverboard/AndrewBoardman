@@ -3,6 +3,10 @@ label: Blog
 hide_body: false
 is_partial: false
 fields:
+- type: include
+  template: default
+  label: Layout Style
+  name: layout_style
 - name: title
   label: Title
   type: text
@@ -53,7 +57,3 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: include
-  template: default
-  label: Layout Style
-  name: layout_style
