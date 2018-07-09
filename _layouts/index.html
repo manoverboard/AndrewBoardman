@@ -1,25 +1,27 @@
----
-layout: default
----
+{% include head.html %}
 
-{% comment %} About Page {% endcomment %}
+{% include nav.html %}
 
-
-{% assign stripped_content = content | strip_newlines %}
-{% if content and stripped_content != "" %}
-
-
-<section class="about">
-    {{ content }}
+<section class="home">
+    <img src="{{ page.main-image | relative_url }}">
+    <div class="content">
+        <h2>
+             {{ page.main-title }}
+        </h2>
+        <h3>
+             {{ page.sub-title }}
+        </h3>
+        <p>
+             {{ page.timing-pre }}
+        </p>
+    </div>
 </section>
 
-{% endif %}
 
+{% include twitter.html %}
 
-{% include services.html %}
+{% include latest_blog.html %}
 
-{% include news.html %}
+{% include latest_project.html %}
 
-{% include partners.html %}
-
-{% include staff.html %}
+{% include footer.html %}

@@ -1,0 +1,23 @@
+{% comment %}
+    as well as the latest document from the _project/ collection
+{% endcomment %}
+
+{% if page.show_latest_project %}
+<section class="latest-blog">
+    
+    <h3>Projects</h3>
+    
+    <article class="latest-post">
+        {% for post in site.posts limit:0 %}
+        
+        <h4>{{ post.title }}</h4>
+        <date>{{ post.date | date_to_string }}</date>
+            
+        <!-- Read more link -->
+        <a href="{{ post.url | absolute_url }}">Read more<span class="hidden">: {{ post.title }}</span></a>
+        
+        {% endfor %}
+    </article>
+
+</section>
+{% endif %}

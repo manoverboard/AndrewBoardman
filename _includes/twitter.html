@@ -1,0 +1,14 @@
+{% comment %}
+    Displays a twitter feed for the twitter user in _data/information.yml
+{% endcomment %}
+
+{% if page.show_twitter %}
+<section class="twitter">
+    
+    <h2>Twitter</h2>
+    <a class="twitter-timeline" data-height="300" data-dnt="true" data-tweet-limit="1" data-dnt="true" data-chrome="noheader nofooter noborders transparent noscrollbar" href="https://twitter.com/deckchairs"></a>
+    
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    
+</section>
+{% endif %}
