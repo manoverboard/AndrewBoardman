@@ -10,9 +10,9 @@ defaults:
       layout: page
   - scope:
       path: ""
-      type: blog
+      type: posts
     values:
-      layout: blog
+      layout: post
 collections:
   people:
     output: true
