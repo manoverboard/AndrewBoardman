@@ -1,0 +1,10 @@
+---
+label: About
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true

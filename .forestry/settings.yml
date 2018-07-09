@@ -11,10 +11,6 @@ collections:
   label: Projects
   create: all
   default_front_matter_template: project
-- path: _people
-  label: People
-  create: all
-  default_front_matter_template: person
 - path: _posts
   label: Posts
   create: all
