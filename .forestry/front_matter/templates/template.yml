@@ -1,0 +1,17 @@
+---
+label: Template
+hide_body: false
+is_partial: false
+fields:
+- type: select
+  name: select_template
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - Home
+    - Blog
+    - About
+    - Projects
+  label: Select Template
