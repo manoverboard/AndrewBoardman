@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: A - B
+short_title: A-B
+description: Andrew Boardman
 baseurl:
 permalink: "/:path/"
 defaults:
