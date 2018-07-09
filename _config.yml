@@ -5,20 +5,20 @@ baseurl:
 permalink: "/:path/"
 defaults:
   - scope:
-      path: ""
+      path: "_page"
     values:
-      layout: page
+    layout: page
   - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
+       path: ""
+       type: posts
+     values:
+     layout: post
 collections:
   posts:
     output: true
   projects:
     output: true
-    permalink: "/projects/:path/"
+ permalink: "/projects/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
