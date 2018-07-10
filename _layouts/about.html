@@ -1,25 +1,40 @@
----
-layout: default
----
+{% include head.html %}
 
-{% comment %} About Page {% endcomment %}
+{% include nav.html %}
 
+<img src="{{ page.main-image | relative_url }}">
 
-{% assign stripped_content = content | strip_newlines %}
-{% if content and stripped_content != "" %}
+<main class="about">
+    
+    <h2>
+        {{ page.sub-title }}
+    </h2>
+    <div>
+        {{ page.description }}
+    </div>
+    
+    <a class="button" href="{{ page.resume-link }}">
+        Resume
+    </a>
+    
+</main>
 
-
-<section class="about">
-    {{ content }}
+<section class="clients">
+    <h3>
+        {{ page.list_1_title }}
+    </h3>
+    
+    {% for list in page.listone %}
+        <ul>
+            <li>
+                <a href="{{ list.itemone }}">
+                    {{ list.linkone }}
+                </a>
+            </li>
+        </ul>
+    {% endfor %} 
 </section>
 
-{% endif %}
 
+{% include footer.html %}
 
-{% include services.html %}
-
-{% include news.html %}
-
-{% include partners.html %}
-
-{% include staff.html %}

@@ -9,14 +9,14 @@
 
 <img src="{{ page.main-image | relative_url }}">
 
-{% for post in site.blog %}
+{% for post in site.posts %}
 <div class="post">
     <h2>
         <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
     </h2>
-    
-    <div>{{ post.content | truncatewords: 30 }}</div>
     <date>{{ post.date | date_to_string }}</date>
 
 </div>
 {% endfor %}
+
+{% include footer.html %}
