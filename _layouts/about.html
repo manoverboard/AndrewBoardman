@@ -24,15 +24,40 @@
         {{ page.list_1_title }}
     </h3>
     
-    {% for list in page.listone %}
-        <ul>
-            <li>
-                <a href="{{ list.itemone }}">
-                    {{ list.linkone }}
-                </a>
-            </li>
-        </ul>
-    {% endfor %} 
+    <ul>
+        {% for list in page.ingredients %}
+            <li>{{ ingredient }}</li>
+        {% endfor %}
+    </ul>
+</section>
+
+<section class="articles">
+    <h3>
+        {{ page.list_2_title }}
+    </h3>
+    
+    <ul> {% for list in page.list2 %}
+        <li>
+            <a href="http://{{ list.link }}">
+                {{ list.item }}
+            </a>
+        </li>
+    {% endfor %} </ul>
+     
+</section>
+
+<section class="talks">
+    <h3>
+        {{ page.list_3_title }}
+    </h3>
+    
+   <ul> {% for list in page.list3 %}
+        <li>
+            <a href="http://{{ list.link }}">
+                {{ list.item }}
+            </a>
+        </li>
+    {% endfor %} </ul>
 </section>
 
 

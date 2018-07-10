@@ -1,6 +1,12 @@
 ---
-title: Projects
 layout: projects
+
+
+label: Heading
+type: text
+name: title
+title: Projects
+
 menu:
   navigation:
     identifier: _projects
