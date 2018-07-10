@@ -1,33 +1,31 @@
----
-layout: default
----
+{% include head.html %} {% include nav.html %}
 
-{% comment %}
-	This layout is used to by projects.md to display all of documents in
-	the _projects/ collection
-{% endcomment %}
+<main class="projects">
+    <h1>
+        {{ page.title}}
+    </h1>
 
+    <div class="project">
 
-<div class="project">
-    {% for project in site.projects %}
+        {% for project in site.projects %}
 
-    <div class="wrapper">
-        
-        <div class="image">
-        {% if project.banner_image and project.banner_image != "" %}
-        <img src="{{ project.banner_image | absolute_url }}" alt="{{ project.title }}">
-        {% else %}
-            <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ project.title }}">
-        {% endif %}
+        <div class="wrapper">
+
+            <div class="image">
+                {% if project.banner_image and project.banner_image != "" %}
+                <img src="{{ project.banner_image | absolute_url }}" alt="{{ project.title }}"> {% else %}
+                <img src="{{ " /img/placeholder.png " | absolute_url }}" alt="{{ project.title }}"> {% endif %}
+            </div>
+
+            <div class="content">
+                <h3><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></h3>
+                <p>{{ project.sub_heading | slice: 0, 80 }}</p>
+            </div>
+
         </div>
-        
-        <div class="content">
-            <h3><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></h3>
-            <p>{{ project.sub_heading | slice: 0, 80 }}</p>
-        </div>
-        
+
+        {% endfor %}
     </div>
+</main>
 
-    {% endfor %}
-</div>
-
+{% include footer.html %}

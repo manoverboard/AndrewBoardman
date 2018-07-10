@@ -2,12 +2,12 @@
 
 <header class="site-header">
     <nav class="main-nav">
-    <h1 class="logo">
-        <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
-    </h1>
+        <h1 class="logo">
+            <a href="{{ " / " | absolute_url }}">{{ site.title }}</a>
+        </h1>
 
-    <!-- Navigation begins -->
-    
+        <!-- Navigation begins -->
+
         <ul class="navigation">
             {% for link in site.menus.navigation %}
             <li class="{% if link.children %}nested {% endif %}{% if url == link.url %}current{% endif %}">
@@ -41,20 +41,15 @@
                   {% endif %}
                 </a>
             </li>
-            &mdash;
             {% endfor %}
         </ul>
     </nav>
     <!-- Navigation ends -->
-    
+
     <div class="meta">
         {% if page.date %}
-            <div class="post-date">{{ page.date | date_to_string }}</div>
+        <div class="post-date">{{ page.date | date_to_string }}</div>
         {% endif %}
     </div>
-    
-    <h1>
-        {{ page.title}}
-    </h1>
-    
+
 </header>

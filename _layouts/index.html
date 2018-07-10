@@ -1,27 +1,19 @@
-{% include head.html %}
-
-{% include nav.html %}
+{% include head.html %} {% include nav.html %}
 
 <section class="home">
-    <img src="{{ page.main-image | relative_url }}">
+    <img class="main-image" src="{{ page.main-image | relative_url }}">
     <div class="content">
         <h2>
-             {{ page.main-title }}
+            {{ page.main-title }}
         </h2>
         <h3>
-             {{ page.sub-title }}
+            {{ page.sub-title }}
         </h3>
         <p>
-             {{ page.timing-pre }}
+            {{ page.timing-pre }}
         </p>
     </div>
 </section>
 
 
-{% include latest_project.html %}
-
-{% include latest_blog.html %}
-
-{% include twitter.html %}
-
-{% include footer.html %}
+{% include latest_project.html %} {% include latest_blog.html %} {% include twitter.html %} {% include footer.html %}
