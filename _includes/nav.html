@@ -1,12 +1,13 @@
 {% comment %} Displays the site's navigation using the jekyll-menus plugin {% endcomment %} {% assign url = page.url | remove:'index.html' %}
 
 <header class="site-header">
+    <nav class="main-nav">
     <h1 class="logo">
         <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
     </h1>
 
     <!-- Navigation begins -->
-    <nav class="main-nav">
+    
         <ul class="navigation">
             {% for link in site.menus.navigation %}
             <li class="{% if link.children %}nested {% endif %}{% if url == link.url %}current{% endif %}">
