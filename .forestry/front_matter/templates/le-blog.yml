@@ -1,0 +1,20 @@
+---
+label: Le Blog
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: title
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: layout
+  default: ''
+- name: main-image
+  label: Main image
+  type: text
+  hidden: main-image
+  default: ''
