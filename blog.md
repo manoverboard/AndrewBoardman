@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Le Blog
 layout: blog
 menu:
   navigation:
