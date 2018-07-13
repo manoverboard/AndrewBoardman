@@ -1,0 +1,41 @@
+<!-- - - - - - - - - - - - - - P O S T - - - - - - - - - - - -->
+
+<div class="wo">
+
+    {% include head.html %} {% include nav.html %}
+
+    <article class="single-post inner">
+        
+        <div class="image-w-caption">
+            <div class="main-image-v image">
+                <img src="{{ page.main-image | relative_url }}">
+                <div class="blue-overlay"></div>
+            </div>
+            <p class="caption">
+                {{ page.caption }}
+            </p>
+        </div>
+        
+        <div class="heading">
+            <h1 class="post-number">
+                3
+            </h1>
+            <date class="post-date">
+                {{ page.date | date_to_string }}
+            </date>
+            <h2>
+                {{ page.main-title }}
+            </h2>
+        </div>
+
+
+        <div class="post">
+            
+            {{ content }}
+            
+        </div>
+
+    </article>
+
+    {% include footer.html %}
+</div>

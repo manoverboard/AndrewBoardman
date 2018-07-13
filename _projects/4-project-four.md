@@ -1,4 +1,7 @@
 ---
+layout: single-project
+
+
 label: Title
 type: text
 name: main-title

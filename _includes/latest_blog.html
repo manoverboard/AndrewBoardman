@@ -2,14 +2,18 @@
 
 <section>
 
-    <h3>Le Blog</h3>
+   <a class="kill-underlines" href="{{ "/blog/" | absolute_url }}">
+        <h3>Le Blog</h3>
+    </a>
 
     <article>
         {% for post in site.posts limit:1 %}
 
         <div class="latest-post-date">
             <p class="post-number"> 3 </p>
-            <date>{{ post.date | date_to_string }}</date>
+            <date class="post-date">
+                {{ post.date | date_to_string }}
+            </date>
         </div>
 
         <h4 class="h2">{{ post.title }}</h4>

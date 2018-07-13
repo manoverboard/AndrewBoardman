@@ -1,4 +1,4 @@
-{% comment %} Displays the site's navigation using the jekyll-menus plugin {% endcomment %} {% assign url = page.url | remove:'index.html' %}
+{% assign url = page.url | remove:'index.html' %}
 
 <header class="site-header">
     <nav class="main-nav inner">
@@ -47,8 +47,8 @@
     <!-- Navigation ends -->
 
     <div class="meta">
-        {% if page.date %}
-        <div class="post-date">{{ page.date | date_to_string }}</div>
+        {% if post.date %}
+        <div class="post-date">{{ post.date | date_to_string }}</div>
         {% endif %}
     </div>
 

@@ -1,7 +1,10 @@
 {% if page.show_latest_project %}
 <section>
 
-    <h3 class="project">Projects</h3>
+    <a class="kill-underlines" href="{{ "/projects/" | absolute_url }}">
+        <h3 class="project">Projects</h3>
+    </a>
+
 
     <article class="project">
         {% for project in site.projects limit:1 %}

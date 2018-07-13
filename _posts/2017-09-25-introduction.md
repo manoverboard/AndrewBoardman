@@ -1,4 +1,6 @@
 ---
+layout: single-post
+
 
 label: Title
 type: text
@@ -19,7 +21,13 @@ date: 2017-12-31T12:00:00+00:00
 label: Main Image
 type: file
 name: main-image
-main-image: "/../../uploads/main-image.jpg"
+main-image: "/../../uploads/ab-image.jpg"
+
+
+label: Caption
+type: text
+name: caption
+caption: This guy never looked happier.  
 
 
 label: Excerpt Content
