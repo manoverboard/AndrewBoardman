@@ -1,6 +1,11 @@
 ---
 layout: index
 
+label: Heading
+type: text
+name: title
+title: Home
+
 
 label: Main Title
 type: text

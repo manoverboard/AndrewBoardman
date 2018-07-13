@@ -1,23 +1,36 @@
-{% comment %}
-    Displays a twitter feed for the twitter user in _data/information.yml
-    as well as the latest document from the _posts/ collection
-{% endcomment %}
-
 {% if page.show_latest_blog %}
 
-<section class="latest-blog">
-    
+<section>
+
     <h3>Le Blog</h3>
-    
-    <article class="latest-post">
+
+    <article>
         {% for post in site.posts limit:1 %}
-        
-        <h4>{{ post.title }}</h4>
-        <date>{{ post.date | date_to_string }}</date>
-            
-        <!-- Read more link -->
-        <a href="{{ post.url | absolute_url }}">Read more<span class="hidden">: {{ post.title }}</span></a>
-        
+
+        <div class="latest-post-date">
+            <p class="post-number"> 3 </p>
+            <date>{{ post.date | date_to_string }}</date>
+        </div>
+
+        <h4 class="h2">{{ post.title }}</h4>
+
+        <div class="content">
+            <p class="excerpt">
+                {{ post.excerpt}}
+                <br> <br>
+                <!-- Read more link -->
+                <a href="{{ post.url | absolute_url }}">Read more<span class="hidden">: {{ post.title }}</span></a>
+
+            </p>
+
+            <div class="image">
+                <img src="{{ post.main-image | absolute_url }}" alt="{{ post.title }}">
+                <div class="blue-overlay"></div>
+            </div>
+
+        </div>
+
+
         {% endfor %}
     </article>
 

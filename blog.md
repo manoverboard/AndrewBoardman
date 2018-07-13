@@ -16,6 +16,7 @@ main-image: "/uploads/blog-image.jpg"
 
 menu:
   navigation:
+    title: Blog
     identifier: _blog
     url: "/blog/"
     weight: 2

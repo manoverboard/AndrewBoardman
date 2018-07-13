@@ -1,31 +1,37 @@
-{% include head.html %} {% include nav.html %}
+<!-- - - - - - - - - - - - P R O J E C T S - - - - - - - - - - - -->
+<div class="wo">
 
-<main class="projects">
-    <h1>
-        {{ page.title}}
-    </h1>
+    {% include head.html %} {% include nav.html %}
 
-    <div class="project">
+    <main class="projects inner">
+        <h1>
+            {{ page.title}}
+        </h1>
 
         {% for project in site.projects %}
-
-        <div class="wrapper">
+        <div class="project">
 
             <div class="image">
-                {% if project.banner_image and project.banner_image != "" %}
-                <img src="{{ project.banner_image | absolute_url }}" alt="{{ project.title }}"> {% else %}
-                <img src="{{ " /img/placeholder.png " | absolute_url }}" alt="{{ project.title }}"> {% endif %}
+                <img src="{{ project.main-image | absolute_url }}" alt="{{ project.title }}">
+                <div class="blue-overlay"></div>
             </div>
 
             <div class="content">
-                <h3><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></h3>
-                <p>{{ project.sub_heading | slice: 0, 80 }}</p>
+
+                <h3>
+                    {{ project.main-title }}
+                </h3>
+                <p class="excerpt">
+                    {{ project.project-excerpt}}
+                    <!-- Read more link -->
+                    <a href="{{ project.url | absolute_url }}">Read more<span class="hidden">on {{ project.main-title }}</span></a>
+                </p>
             </div>
 
         </div>
-
         {% endfor %}
-    </div>
-</main>
 
-{% include footer.html %}
+    </main>
+
+    {% include footer.html %}
+</div>

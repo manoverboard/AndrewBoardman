@@ -1,19 +1,45 @@
-{% include head.html %} {% include nav.html %}
+<!-- - - - - - - - - - - - - - H O M E - - - - - - - - - - - -->
+<div class="wo">
 
-<section class="home">
-    <img class="main-image" src="{{ page.main-image | relative_url }}">
-    <div class="content">
-        <h2>
-            {{ page.main-title }}
-        </h2>
-        <h3>
-            {{ page.sub-title }}
-        </h3>
-        <p>
-            {{ page.timing-pre }}
-        </p>
+    {% include head.html %} {% include nav.html %}
+
+    <main class="home inner">
+        <div class="main-image-h">
+            <img src="{{ page.main-image | relative_url }}">
+        </div>
+
+        <div class="content">
+            <h2>
+                {{ page.main-title }}
+            </h2>
+            <h3>
+                {{ page.sub-title }}
+            </h3>
+            <p class="h3">
+                {{ page.timing-pre }}
+            </p>
+        </div>
+    </main>
+
+    <div class="zigzag-wrapper inner">
+        <div class="zigzag"></div>
     </div>
-</section>
+
+    <aside id="latestStuff" class="inner">
+        <div id="latestProject">
+            {% include latest_project.html %}
+        </div>
+
+        <div id="latestPost">
+            {% include latest_blog.html %}
+        </div>
+    </aside>
 
 
-{% include latest_project.html %} {% include latest_blog.html %} {% include twitter.html %} {% include footer.html %}
+    <aside id="Twitter" class="inner">
+        {% include twitter.html %}
+    </aside>
+
+    {% include footer.html %}
+
+</div>

@@ -1,9 +1,9 @@
 {% comment %} Displays the site's navigation using the jekyll-menus plugin {% endcomment %} {% assign url = page.url | remove:'index.html' %}
 
 <header class="site-header">
-    <nav class="main-nav">
+    <nav class="main-nav inner">
         <h1 class="logo">
-            <a href="{{ " / " | absolute_url }}">{{ site.title }}</a>
+            <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
         </h1>
 
         <!-- Navigation begins -->

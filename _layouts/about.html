@@ -1,66 +1,73 @@
-{% include head.html %} {% include nav.html %}
+<!-- - - - - - - - - - - - - - A B O U T - - - - - - - - - - - -->
+<div class="wo">
 
-<img src="{{ page.main-image | relative_url }}">
+    {% include head.html %} {% include nav.html %}
 
-<main class="about">
-    <h1>
-        {{ page.title}}
-    </h1>
+    <img src="{{ page.main-image | relative_url }}">
 
-    <h2>
-        {{ page.sub-title }}
-    </h2>
+    <main class="about inner">
+        <h1>
+            {{ page.title}}
+        </h1>
 
-    <div>
-        {{ page.description }}
-    </div>
+        <h2>
+            {{ page.sub-title }}
+        </h2>
 
-    <a class="button" href="{{ page.resume-link }}">
+        <div>
+            {{ page.description }}
+        </div>
+
+        <a class="button" href="{{ page.resume-link }}">
         Resume
     </a>
 
-</main>
+    </main>
 
-<section class="clients">
-    <h3>
-        {{ page.list_1_title }}
-    </h3>
+    <section class="clients inner">
+        <h3>
+            {{ page.list_1_title }}
+        </h3>
 
-    <ul>
-        {% for listitem in page.list1 %}
-        <li>{{ listitem }}</li>
-        {% endfor %}
-    </ul>
-</section>
+        <ul>
+            {% for listitem in page.list1 %}
+            <li>{{ listitem }}</li>
+            {% endfor %}
+        </ul>
+    </section>
 
-<section class="articles">
-    <h3>
-        {{ page.list_2_title }}
-    </h3>
+    <section class="articles inner">
+        <h3>
+            {{ page.list_2_title }}
+        </h3>
 
-    <ul> {% for list in page.list2 %}
-        <li>
-            <a href="http://{{ list.link }}">
+        <ul> {% for list in page.list2 %}
+            <li>
+                <a href="http://{{ list.link }}">
+                    {{ list.item }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+
+    </section>
+
+    <section class="talks inner">
+        <h3>
+            {{ page.list_3_title }}
+        </h3>
+
+        <ul> {% for list in page.list3 %}
+            <li>
+                <a href="http://{{ list.link }}">
                 {{ list.item }}
-            </a>
-        </li>
-        {% endfor %} </ul>
-
-</section>
-
-<section class="talks">
-    <h3>
-        {{ page.list_3_title }}
-    </h3>
-
-    <ul> {% for list in page.list3 %}
-        <li>
-            <a href="http://{{ list.link }}">
-                {{ list.item }}
-            </a>
-        </li>
-        {% endfor %} </ul>
-</section>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
 
 
-{% include footer.html %}
+    {% include footer.html %}
+
+</div>

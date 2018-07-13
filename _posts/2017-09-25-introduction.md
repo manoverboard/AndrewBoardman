@@ -1,15 +1,32 @@
 ---
-title: Welcome to the Forestry Demo Site!
-date: 2017-09-25 09:09:13 +0000
-related_posts:
-- _posts/2017-02-12-modern.md
-- _posts/2017-08-01-welcome.md
-sub_heading: An introduction to Forestry
-tags:
-- Demo
-- Forestry
-layout: post
-banner_image: ''
+
+label: Title
+type: text
+name: main-title
+main-title: Welcome to the Forestry Demo Site! 
+
+
+label: Date
+type: datetime
+name: date
+config:
+  date_format: "YYYY/MM/DD"
+  time_format: "HH:MM:SS"
+  display_utc: false
+date: 2017-12-31T12:00:00+00:00
+
+
+label: Main Image
+type: file
+name: main-image
+main-image: "/../../uploads/main-image.jpg"
+
+
+label: Excerpt Content
+type: textarea
+name: excerpt
+excerpt: If you haven’t read an article about creating for the web, well, you’re about to. It’s not going to be very long but you might actually enjoy it. In fact, I’m willing to bet that this will be the best piece about the web that you’ve read in a few years. Another sentence
+
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
 

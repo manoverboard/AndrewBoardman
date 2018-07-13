@@ -1,13 +1,5 @@
----
-layout: default
----
-{% comment %}
-  This layout is used by the jekyll-archives plugin to generate
-  tag pages for all tags found in documents
-{% endcomment %}
-
-{% include breadcrumbs.html %}
-
+--- layout: default --- {% comment %} This layout is used by the jekyll-archives plugin to generate tag pages for all tags found in documents {% endcomment %} {% include breadcrumbs.html %}
+<!-- - - - - - - - - - - - - - T A G  - - - - - - - - - - - -->
 <h2 class="post_title">{{page.title}}</h2>
 <ul class="posts-list">
     {% for post in page.posts %}

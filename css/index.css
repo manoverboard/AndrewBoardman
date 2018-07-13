@@ -1,4 +1,25 @@
-/* wrap 'n' center helpers ------------ */
+/* --------------------------------------------------------- */
+
+/* ------------------------ C O R E -------------------------*/
+
+/* --------------------------------------------------------- */
+
+body,
+input,
+textarea,
+radio,
+checkbox {
+    background-color: transparent;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1;
+    text-align: left;
+    color: #1B1B1B;
+}
+
+#wrapper {
+    position: relative;
+}
 
 /* (wrap outer) */
 
@@ -18,42 +39,51 @@
 
 .wo .inner {
     text-align: left;
-    width: 1220px;
+    width: 1250px;
     max-width: 100%;
     margin: 0 auto;
 
 }
 
-/* (other width limits) */
-
-.wo900 .inner {
-    width: 900px;
+section {
+    clear: both;
 }
 
-/*********************************************
-	Core Styles
-*********************************************/
+/* --------------------- Image Effects */
 
-/* site containers ------------ */
-
-/* default font, including form fields ---- */
-
-body,
-input,
-textarea,
-radio,
-checkbox {
-    background-color: transparent;
-    font-weight: normal;
-    font-style: normal;
-    line-height: 1;
-    text-align: left;
-    color: #1B1B1B;
+img {
+    background-color: #0033A0;
+    filter: grayscale(100%);
+    width: 100%;
 }
 
-#wrapper {
+.image {
     position: relative;
 }
+
+.image:hover img {
+    filter: grayscale(0%);
+}
+
+.blue-overlay:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: .8;
+    background-color: #5C91FC;
+    mix-blend-mode: hard-light;
+    transition: opacity .3s;
+}
+
+
+.blue-overlay:hover:before {
+    opacity: 0;
+    mix-blend-mode: none;
+}
+
 
 /* --------------------------------------------------------- */
 
@@ -63,10 +93,9 @@ checkbox {
 
 nav.main-nav {
     display: block;
-    position: fixed;
     width: 100%;
-    top: 65px;
-    left: 100px;
+    padding-top: 65px;
+    text-align: left;
 }
 
 nav.main-nav h1 {
@@ -98,14 +127,38 @@ nav.main-nav ul li:last-child:after {
 
 /* --------------------------------------------------------- */
 
-p,
-li {
-    font-size: 210%;
-    line-height: 1.43;
+p {
+    font-family: 'GT Sectra Fine';
+    font-size: 200%;
+    line-height: 1.5;
     margin: 0.75em 0;
 }
 
+.project p,
+.footer-nav ul li {
+    font-family: 'GT America' !important;
+    font-size: 160%;
+    line-height: 1.875;
+}
+
+#latestPost p.post-number {
+    font-family: 'GT Haptik' !important;
+    font-size: 440% !important;
+    line-height: 1.13 !important;
+    display: inline-block;
+    padding-right: 25px;
+}
+
+#latestPost date {
+    font-family: 'GT America' !important;
+    font-size: 160% !important;
+    line-height: 3.12 !important;
+    display: inline;
+}
+
 li {
+    font-size: 210%;
+    line-height: 1.43;
     margin: 0.5em 0;
 }
 
@@ -122,6 +175,7 @@ a {
 a:hover {
     text-decoration: none;
     color: #0033A0 !important;
+    text-decoration: underline;
 }
 
 /* --------------------- Navigation */
@@ -133,6 +187,8 @@ nav.main-nav ul li {
 
 
 /* --------------------- Headings */
+
+/* H1 */
 
 h1.logo {
     font-family: 'GT America-medium';
@@ -160,12 +216,30 @@ h1.logo a:hover {
 
 .about h1 {}
 
-h2 {
-    font-size: 360%;
-    font-weight: 400;
+/* H2 */
+
+h2,
+.h2 {
+    font-family: 'GT Sectra Display';
+    font-size: 440%;
     margin-top: 40px;
     margin-bottom: 10px;
+    line-height: 1.13;
+    /******/
+    border-bottom: 1px solid #1b1b1b;
+    padding-bottom: 30px;
 }
+
+.home .content h2 {
+    font-family: 'GT Sectra Display-bold' !important;
+    font-size: 560% !important;
+    line-height: 1.1 !important;
+    max-width: 665px;
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+/* H3 */
 
 h3 {
     font-family: 'freight-text-pro';
@@ -173,6 +247,35 @@ h3 {
     margin-bottom: 10px;
     margin-top: 40px;
 }
+
+.home .content h3,
+.home .content .h3 {
+    font-family: 'GT America';
+    font-size: 200%;
+}
+
+h3.project {
+    font-family: 'GT Sectra Display-bold';
+    font-size: 720%;
+    margin-top: -13px;
+    margin-bottom: 65px;
+}
+
+.project h3 {
+    font-family: 'GT Sectra Display';
+    font-size: 240%;
+    line-height: 1.1;
+}
+
+#latestPost h3 {
+    font-family: 'GT Haptik';
+    font-size: 720%;
+    line-height: 1.25;
+    margin-top: -13px;
+    margin-bottom: 65px;
+}
+
+/* H4 */
 
 h4 {
     font-size: 200%;
@@ -242,9 +345,11 @@ iframe {
     margin: 30px 0;
 }
 
-/*********************************************
-	Button
-*********************************************/
+/* --------------------------------------------------------- */
+
+/* ---------------------- B U T T O N -----------------------*/
+
+/* --------------------------------------------------------- */
 
 .button {
     margin-top: 10px;
@@ -268,204 +373,251 @@ p .button {
 }
 
 
-/*********************************************
-	Contact Form 7
-*********************************************/
+/* --------------------------------------------------------- */
 
-.formLayer,
-.formLayer .formInner {
-    box-sizing: border-box;
-}
+/* ------------------ M A I N _ I M A G E -------------------*/
 
-.formLayer {
-    padding: 0 20px 100px;
-    text-align: center;
-    background: white;
+/* --------------------------------------------------------- */
 
-}
-
-.form p {
-    font-size: 100%;
-    margin-top: 25px;
-    display: block;
-    clear: both;
-}
-
-.form p {
-    font-size: 100%;
-    margin-top: 25px;
-    display: block;
-    clear: both;
-}
-
-.form p.threeFieldDate,
-.form p.twoFieldDate {
-    font-size: 100%;
-    margin-top: 0;
-
-}
-
-.form label,
-.form legend {
-    display: inline-block;
-    padding-bottom: 5px;
-    font-size: 180%;
-}
-
-.form legend {
-    margin-top: 25px;
-}
-
-.form input,
-.form textarea,
-.form checkbox,
-.form radio {
-    box-sizing: border-box;
-
-    border: none;
-    margin: 0;
-    padding: 0;
-
-    background: #e6f1f7;
-    width: 600px;
-    max-width: 100%;
-    font-size: 180%;
-    line-height: 1.2;
-    padding: 10px;
-    color: #29506e;
-}
-
-.form input[type="submit"] {
-    cursor: pointer;
-    text-align: center;
-    font-size: 180%;
-    width: auto;
-}
-
-.form input:focus,
-.form textarea:focus {
-    outline: 3px solid #4985a7;
-    color: black;
-
-}
-
-.twoFieldDate .dateUnit {
-    width: 300px;
-    display: inline-block;
-    box-sizing: border-box;
-
-    float: left;
-    max-width: 50%;
-    padding-right: 5px;
-}
-
-.threeFieldDate .dateUnit {
-    width: 100px;
-    display: inline-block;
-    box-sizing: border-box;
-
-    float: left;
-    max-width: 33.33333333%;
-    padding-right: 5px;
-}
-
-.threeFieldDate input {
-    text-align: center;
-}
-
-
-.layer .wpcf7-list-item {
-    display: block;
-    padding-right: 20px;
-    margin: 10px 0;
-}
-
-.layer .wpcf7-list-item input {
-    width: auto;
-    margin-right: 5px;
-}
-
-.layer .wpcf7-list-item-label {
-    font-size: 180%;
-}
-
-/*********************************************
-	Pagination - #navAdjacent
-*********************************************/
-
-#navAdjacent {
-    box-sizing: border-box;
-    background: #1c3c55;
-    padding: 60px 30px;
-    text-align: center;
-}
-
-.navAdjacentInner {
-    width: 1080px;
-    max-width: 100%;
-    margin: 0 auto;
-}
-
-#navAdjacent .prevButton a,
-#navAdjacent .nextButton a,
-#navAdjacent .allButton a {
-    font-size: 210%;
-    font-weight: 600;
-    color: white;
-}
-
-#navAdjacent .fa {
-    color: #fca443;
-    font-size: 150%;
-    vertical-align: middle;
-    padding-bottom: 5px;
-}
-
-#navAdjacent .prevButton a,
-#navAdjacent .nextButton a {
-    text-decoration: none;
-
-    vertical-align: middle;
-
-}
-
-#navAdjacent .allButton a {
-    font-size: 240%;
-    font-weight: 400;
-    display: block;
-    width: 100%;
-    text-decoration: underline;
+.main-image-h {
     position: absolute;
-    width: 30%;
-    left: 50%;
-    margin-left: -15%;
-
+    top: 0;
+    right: 0;
+    z-index: -10;
+    width: 78vw;
 }
 
-#navAdjacent .prevButton a {
+/* --------------------------------------------------------- */
+
+/* ------------------------ H O M E -------------------------*/
+
+/* --------------------------------------------------------- */
+
+.home .content {
+    padding-top: 160px;
+}
+
+/* --------------------- zigzag */
+
+.zigzag-wrapper {
+    padding-top: 75px;
+}
+
+.zigzag {
+    margin: 7.5% 0;
+    position: relative;
+    height: 25px;
+    z-index: 1;
+}
+
+.zigzag:before,
+.zigzag:after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.zigzag:before {
+    height: calc(25px - 4px);
+    top: 105%;
+    background: linear-gradient(-135deg, #000 calc(25px/2), transparent 0) 0 calc(25px/2), linear-gradient( 135deg, #000 calc(25px/2), transparent 0) 0 calc(25px/2);
+    background-position: top left;
+    background-repeat: repeat-x;
+    background-size: 25px 25px;
+}
+
+.zigzag:after {
+    height: 25px;
+    top: 100%;
+    background: linear-gradient(-135deg, #fff calc(25px/2), transparent 0) 0 calc(25px/2), linear-gradient( 135deg, #fff calc(25px/2), transparent 0) 0 calc(25px/2);
+    background-position: top left;
+    background-repeat: repeat-x;
+    background-size: 25px 25px;
+}
+
+#latestStuff {
+    display: block;
+    clear: both;
+    margin-bottom: 100px;
+}
+
+/* --------------------- Latest Project */
+
+#latestProject {
+    width: 45%;
     float: left;
 }
 
-#navAdjacent .nextButton a {
-    float: right;
-
+#latestProject .excerpt {
+    padding-top: 20px;
 }
 
-/*********************************************
-	Layer - Type 1
-*********************************************/
+article.project {
+    padding-top: 30px;
+}
 
-.layerBasic {}
+#latestProject .project .image img {
+    width: 100%;
+}
 
-/*********************************************
-	Layer - Type 2 - etc.......
-*********************************************/
+/* --------------------- Latest Post */
 
-/*********************************************
-	Footer and Copyright
-*********************************************/
+#latestPost {
+    width: 45%;
+    float: right;
+}
 
-#footer {}
+#latestPost h4 {
+    display: block;
+    clear: both;
+}
+
+.latest-post-date {
+    float: right;
+    display: block;
+    clear: both;
+    margin-top: -140px;
+}
+
+#latestPost .excerpt {
+    width: 48%;
+    float: left;
+}
+
+#latestPost .image {
+    width: 48%;
+    margin-top: 2em;
+    float: right;
+}
+
+/* --------------------- Twitter */
+
+#Twitter {
+    padding-top: 150px;
+    display: block;
+    clear: both;
+}
+
+#twitter-widget-0 {
+    width: 45% !important;
+    max-width: 45% !important;
+}
+
+
+/* --------------------------------------------------------- */
+
+/* -------------------- P R O J E C T S ---------------------*/
+
+/* --------------------------------------------------------- */
+
+.projects {
+    padding-top: 50px;
+    clear: both;
+}
+
+.projects h1 {
+    position: relative;
+}
+
+.projects h1:after {
+    content: "";
+    background-image: url(../uploads/down-arrow.png);
+    width: 32px;
+    height: 17px;
+    position: absolute;
+    left: 0;
+    bottom: -40px;
+}
+
+/* --------------------- Two Column */
+
+.projects .project:nth-child(odd) {
+    width: 47%;
+    max-width: 47%;
+    float: left;
+    padding-bottom: 55px;
+}
+
+.projects .project:nth-child(even) {
+    width: 47%;
+    max-width: 47%;
+    float: right;
+    padding-bottom: 55px;
+}
+
+.projects .project:nth-child(even) .excerpt,
+.projects .project:nth-child(odd) .excerpt {
+    padding-top: 30px;
+}
+
+/* --------------------- Featured/Top */
+
+.projects .project:nth-child(2) {
+    width: 100%;
+    max-width: 100%;
+    padding-bottom: 90px;
+    padding-top: 100px;
+}
+
+.projects .project:nth-child(2) .image img,
+.projects .project:nth-child(2) .image {
+    width: 100%;
+    max-width: 100%;
+}
+
+.projects .project:nth-child(2) .content h3 {
+    font-family: 'GT Sectra Display-bold' !important;
+    width: 39%;
+    padding-right: 5%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.projects .project:nth-child(2) .content .excerpt {
+    width: 60%;
+    display: inline-block;
+    margin-top: 40px;
+    padding-top: 0;
+    line-height: 1.25 !important;
+}
+
+
+
+/* --------------------------------------------------------- */
+
+/* ---------------------- F O O T E R -----------------------*/
+
+/* --------------------------------------------------------- */
+
+footer {
+    padding-bottom: 80px;
+    clear: both;
+    padding-top: 120px;
+}
+
+footer hr {
+    margin-left: 0;
+    border: .5px solid black;
+    width: 20vw;
+    margin-bottom: 40px;
+}
+
+.copyright {
+    display: inline-block;
+    padding-right: 50px;
+}
+
+.footer-nav {
+    display: inline-block;
+}
+
+.footer-nav li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 20px;
+}
 
 /*********************************************
 	The Awesomeness

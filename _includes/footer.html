@@ -1,14 +1,17 @@
-<footer class="site-footer">
+<footer class="site-footer project inner">
+    <hr>
     <div class="copyright">
         <p>
-            &copy;{{ 'now' | date: "%Y" }} {{ site.title }}
+            &copy; {{ 'now' | date: "%Y" }} {{ site.title }}
         </p>
     </div>
 
     <div class="footer-nav">
         <ul>
             {% for item in site.menus.footer %}
-            <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+            <li>
+                <a href="{{ item.url | absolute_url }}">{{ item.title }}</a>
+            </li>
             {% endfor %}
         </ul>
     </div>
