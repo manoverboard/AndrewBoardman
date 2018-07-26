@@ -71,3 +71,5 @@ fields:
   type: boolean
   hidden: false
   default: ''
+pages:
+- index.md
