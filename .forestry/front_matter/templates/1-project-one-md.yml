@@ -1,0 +1,40 @@
+---
+label: 1-project-one.md
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: label
+  label: Label
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: name
+  label: Name
+  type: text
+  hidden: false
+  default: ''
+- name: main-title
+  label: Main title
+  type: text
+  hidden: false
+  default: ''
+- name: main-image
+  label: Main image
+  type: file
+  hidden: false
+  default: ''
+- name: project-excerpt
+  label: Project excerpt
+  type: textarea
+  hidden: false
+  default: ''
