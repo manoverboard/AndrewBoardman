@@ -39,6 +39,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- 7-project-seven-md.html
 - _projects/6-project-six.html
 - _projects/1-project-one.md
