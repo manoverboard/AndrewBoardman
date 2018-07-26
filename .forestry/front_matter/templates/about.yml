@@ -8,11 +8,15 @@ fields:
   type: text
   hidden: false
   default: about
+  config:
+    required: true
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: main-image
   label: Main image
   type: file
@@ -23,11 +27,15 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: description
   label: Description
   type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
 - name: resume-link
   label: Resumé link
   type: file
