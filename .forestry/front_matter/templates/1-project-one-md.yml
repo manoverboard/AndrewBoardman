@@ -3,36 +3,6 @@ label: Single Project
 hide_body: false
 is_partial: false
 fields:
-- name: label
-  label: Label
-  type: text
-  hidden: true
-  default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: true
-  default: ''
-- name: name
-  label: Name
-  type: text
-  hidden: true
-  default: ''
-- name: main-title
-  label: Main title
-  type: text
-  hidden: false
-  default: ''
-- name: main-image
-  label: Main image
-  type: file
-  hidden: false
-  default: ''
-- name: project-excerpt
-  label: Project excerpt
-  type: textarea
-  hidden: false
-  default: ''
 - type: select
   name: layout
   config:
@@ -47,6 +17,21 @@ fields:
     - about
     - index
   label: Layout
+  default: single-project
+- name: main-title
+  label: Main title
+  type: text
+  hidden: false
+  default: ''
+- name: main-image
+  label: Main image
+  type: file
+  hidden: false
+  default: ''
+- name: project-excerpt
+  label: Project excerpt
+  type: textarea
+  hidden: false
   default: ''
 pages:
 - _projects/7-project-seven.md
