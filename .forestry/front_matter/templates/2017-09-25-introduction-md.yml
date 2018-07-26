@@ -14,23 +14,30 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  config:
+    date_format: MM, DD YYY
+    required: true
 - name: excerpt
   label: Excerpt
   type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
 - name: main-image
   label: Main image
   type: file
   hidden: false
   default: ''
 - name: caption
-  label: Caption
+  label: Main Image Caption
   type: text
   hidden: false
   default: ''
