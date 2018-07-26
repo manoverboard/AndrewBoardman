@@ -1,31 +1,38 @@
 ---
 label: Home
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: label
   label: Label
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: type
   label: Type
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: name
   label: Name
   type: text
+  hidden: true
+  default: ''
+- name: main-image
+  label: Main image
+  type: file
   hidden: false
   default: ''
 - name: main-title
@@ -33,21 +40,22 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: main-image
-  label: Main image
-  type: file
-  hidden: false
-  default: ''
+  config:
+    required: true
 - name: sub-title
   label: Sub title
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: timing-pre
-  label: Timing pre
+  label: Time Prequisite
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: show_latest_blog
   label: Show latest blog
   type: boolean
