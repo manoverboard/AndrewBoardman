@@ -1,27 +1,27 @@
 ---
-label: 1-project-one.md
-hide_body: 
-is_partial: 
+label: Single Project
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: label
   label: Label
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: type
   label: Type
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: name
   label: Name
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: main-title
   label: Main title
