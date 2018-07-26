@@ -14,6 +14,8 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: main-image
   label: Main image
   type: file
@@ -24,6 +26,8 @@ fields:
   type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
 pages:
 - _projects/7-project-seven.md
 - _projects/8-project-eight.md
