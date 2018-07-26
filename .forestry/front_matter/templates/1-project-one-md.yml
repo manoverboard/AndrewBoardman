@@ -3,20 +3,11 @@ label: Single Project
 hide_body: false
 is_partial: false
 fields:
-- type: select
+- type: text
   name: layout
-  config:
-    source:
-      type: simple
-    required: true
-    options:
-    - single-project
-    - single-post
-    - projects
-    - blog
-    - about
-    - index
   label: Layout
+  config:
+    required: true
   default: single-project
 - name: main-title
   label: Main title
