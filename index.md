@@ -1,5 +1,19 @@
 ---
-layout: index
+type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - single-project
+    - single-post
+    - projects
+    - blog
+    - about
+    - index
+  label: Layout
+  default: index
 label: Time Prequisite
 type: text
 name: timing-pre
