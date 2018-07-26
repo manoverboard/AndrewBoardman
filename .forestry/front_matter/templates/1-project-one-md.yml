@@ -3,11 +3,6 @@ label: Single Project
 hide_body: false
 is_partial: false
 fields:
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: ''
 - name: label
   label: Label
   type: text
@@ -37,6 +32,21 @@ fields:
   label: Project excerpt
   type: textarea
   hidden: false
+  default: ''
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - single-project
+    - single-post
+    - projects
+    - blog
+    - about
+    - index
+  label: Layout
   default: ''
 pages:
 - _projects/7-project-seven.md
