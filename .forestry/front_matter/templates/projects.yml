@@ -3,30 +3,15 @@ label: Projects
 hide_body: true
 is_partial: false
 fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: projects
 - name: title
   label: Title
   type: text
   hidden: false
-  default: ''
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: ''
-- name: label
-  label: Label
-  type: text
-  hidden: true
-  default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: true
-  default: ''
-- name: name
-  label: Name
-  type: text
-  hidden: true
   default: ''
 pages:
 - projects.md
