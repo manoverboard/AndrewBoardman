@@ -1,0 +1,123 @@
+---
+label: About
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: label
+  label: Label
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: name
+  label: Name
+  type: text
+  hidden: false
+  default: ''
+- name: main-image
+  label: Main image
+  type: file
+  hidden: false
+  default: ''
+- name: sub-title
+  label: Sub title
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: resume-link
+  label: Resume link
+  type: file
+  hidden: false
+  default: ''
+- name: list_1_title
+  label: List 1 title
+  type: text
+  hidden: false
+  default: ''
+- name: list1
+  label: List1
+  type: list
+  hidden: false
+  default: ''
+- name: list_2_title
+  label: List 2 title
+  type: text
+  hidden: false
+  default: ''
+- name: fields
+  label: Fields
+  type: field_group_list
+  fields:
+  - name: label
+    label: Label
+    type: text
+    hidden: false
+    default: ''
+  - name: type
+    label: Type
+    type: text
+    hidden: false
+    default: ''
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: list2
+  label: List2
+  type: field_group_list
+  fields:
+  - name: item
+    label: Item
+    type: text
+    hidden: false
+    default: ''
+  - name: link
+    label: Link
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: list_3_title
+  label: List 3 title
+  type: text
+  hidden: false
+  default: ''
+- name: list3
+  label: List3
+  type: field_group_list
+  fields:
+  - name: item
+    label: Item
+    type: text
+    hidden: false
+    default: ''
+  - name: link
+    label: Link
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
