@@ -1,36 +1,31 @@
 ---
-label: 2017-09-25 00:00:00 +0000
-hide_body: 
-is_partial: 
+label: Single Post
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: label
   label: Label
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: type
   label: Type
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: name
   label: Name
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: main-title
   label: Main title
   type: text
-  hidden: false
-  default: ''
-- name: main-image
-  label: Main image
-  type: file
   hidden: false
   default: ''
 - name: config
@@ -59,13 +54,18 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: caption
-  label: Caption
-  type: text
-  hidden: false
-  default: ''
 - name: excerpt
   label: Excerpt
   type: textarea
+  hidden: false
+  default: ''
+- name: main-image
+  label: Main image
+  type: file
+  hidden: false
+  default: ''
+- name: caption
+  label: Caption
+  type: text
   hidden: false
   default: ''
