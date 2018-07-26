@@ -9,13 +9,6 @@ fields:
   config:
     required: true
   default: single-project
-- name: main-title
-  label: Main title
-  type: text
-  hidden: false
-  default: ''
-  config:
-    required: true
 - name: main-image
   label: Main image
   type: file
