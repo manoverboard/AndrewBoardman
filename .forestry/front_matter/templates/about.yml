@@ -1,7 +1,7 @@
 ---
 label: About
-hide_body: 
-is_partial: 
+hide_body: true
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -11,22 +11,22 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: label
   label: Label
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: type
   label: Type
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: name
   label: Name
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: main-image
   label: Main image
@@ -44,10 +44,11 @@ fields:
   hidden: false
   default: ''
 - name: resume-link
-  label: Resume link
+  label: Resumé link
   type: file
   hidden: false
   default: ''
+  description: Drop in your resume file here
 - name: list_1_title
   label: List 1 title
   type: text
