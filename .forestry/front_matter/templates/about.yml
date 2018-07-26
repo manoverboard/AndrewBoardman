@@ -40,22 +40,11 @@ fields:
   hidden: false
   default: ''
 - name: list1
-  label: List1
-  type: list
-  hidden: true
-  default: ''
-- name: list1
   label: List 1
   type: field_group_list
   fields:
   - name: item
     label: Item
-    type: text
-    hidden: false
-    config:
-      required: true
-  - name: link
-    label: Link
     type: text
     hidden: false
     config:
@@ -75,12 +64,15 @@ fields:
     label: Item
     type: text
     hidden: false
-    default: ''
+    config:
+      required: true
   - name: link
     label: Link
     type: text
     hidden: false
     default: ''
+    config:
+      required: true
   hidden: false
   default: ''
 - name: list_3_title
