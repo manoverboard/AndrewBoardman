@@ -3,50 +3,15 @@ label: Single Post
 hide_body: false
 is_partial: false
 fields:
-- name: layout
+- type: text
+  name: layout
   label: Layout
-  type: text
-  hidden: true
-  default: ''
-- name: label
-  label: Label
-  type: text
-  hidden: true
-  default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: true
-  default: ''
-- name: name
-  label: Name
-  type: text
-  hidden: true
-  default: ''
+  config:
+    required: true
+  default: single-post
 - name: main-title
   label: Main title
   type: text
-  hidden: false
-  default: ''
-- name: config
-  label: Config
-  type: field_group
-  fields:
-  - name: date_format
-    label: Date format
-    type: text
-    hidden: false
-    default: ''
-  - name: time_format
-    label: Time format
-    type: text
-    hidden: false
-    default: ''
-  - name: display_utc
-    label: Display utc
-    type: boolean
-    hidden: false
-    default: ''
   hidden: false
   default: ''
 - name: date
