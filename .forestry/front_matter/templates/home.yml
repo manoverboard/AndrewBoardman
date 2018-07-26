@@ -1,0 +1,65 @@
+---
+label: Home
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: label
+  label: Label
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: name
+  label: Name
+  type: text
+  hidden: false
+  default: ''
+- name: main-title
+  label: Main title
+  type: text
+  hidden: false
+  default: ''
+- name: main-image
+  label: Main image
+  type: file
+  hidden: false
+  default: ''
+- name: sub-title
+  label: Sub title
+  type: text
+  hidden: false
+  default: ''
+- name: timing-pre
+  label: Timing pre
+  type: text
+  hidden: false
+  default: ''
+- name: show_latest_blog
+  label: Show latest blog
+  type: boolean
+  hidden: false
+  default: ''
+- name: show_latest_project
+  label: Show latest project
+  type: boolean
+  hidden: false
+  default: ''
+- name: show_twitter
+  label: Show twitter
+  type: boolean
+  hidden: false
+  default: ''
