@@ -9,8 +9,8 @@ fields:
   config:
     required: true
   default: single-post
-- name: main-title
-  label: Main title
+- name: title
+  label: Title
   type: text
   hidden: false
   default: ''
