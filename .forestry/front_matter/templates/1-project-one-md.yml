@@ -39,5 +39,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- _projects/6-project-six.html
 - _projects/1-project-one.md
