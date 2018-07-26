@@ -38,3 +38,5 @@ fields:
   type: textarea
   hidden: false
   default: ''
+pages:
+- _projects/1-project-one.md
