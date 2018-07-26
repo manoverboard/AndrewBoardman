@@ -1,0 +1,71 @@
+---
+label: 2017-09-25 00:00:00 +0000
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: label
+  label: Label
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: name
+  label: Name
+  type: text
+  hidden: false
+  default: ''
+- name: main-title
+  label: Main title
+  type: text
+  hidden: false
+  default: ''
+- name: main-image
+  label: Main image
+  type: file
+  hidden: false
+  default: ''
+- name: config
+  label: Config
+  type: field_group
+  fields:
+  - name: date_format
+    label: Date format
+    type: text
+    hidden: false
+    default: ''
+  - name: time_format
+    label: Time format
+    type: text
+    hidden: false
+    default: ''
+  - name: display_utc
+    label: Display utc
+    type: boolean
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: caption
+  label: Caption
+  type: text
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
