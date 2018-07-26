@@ -39,6 +39,8 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: list1
   label: List 1
   type: field_group_list
@@ -56,6 +58,8 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: list2
   label: List 2
   type: field_group_list
@@ -80,6 +84,8 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: list3
   label: List 3
   type: field_group_list
