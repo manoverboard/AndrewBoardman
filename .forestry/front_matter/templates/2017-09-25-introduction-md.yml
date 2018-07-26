@@ -41,5 +41,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- _posts/2018-01-01-test.html
