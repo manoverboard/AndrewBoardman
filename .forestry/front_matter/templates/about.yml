@@ -3,30 +3,15 @@ label: About
 hide_body: true
 is_partial: false
 fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: about
 - name: title
   label: Title
   type: text
   hidden: false
-  default: ''
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: ''
-- name: label
-  label: Label
-  type: text
-  hidden: true
-  default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: true
-  default: ''
-- name: name
-  label: Name
-  type: text
-  hidden: true
   default: ''
 - name: main-image
   label: Main image
@@ -63,21 +48,18 @@ fields:
   label: List 1
   type: field_group_list
   fields:
-  - name: label
-    label: Label
+  - name: item
+    label: Item
     type: text
     hidden: false
-    default: ''
-  - name: type
-    label: Type
+    config:
+      required: true
+  - name: link
+    label: Link
     type: text
     hidden: false
-    default: ''
-  - name: name
-    label: Name
-    type: text
-    hidden: false
-    default: ''
+    config:
+      required: true
   hidden: false
   default: ''
 - name: list_2_title
