@@ -29,5 +29,6 @@ fields:
   config:
     required: true
 pages:
+- _projects/6-project-six.md
 - _projects/1-project-one.md
 - _projects/4-project-four.md
