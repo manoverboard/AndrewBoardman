@@ -188,11 +188,16 @@ blockquote:before {
     position: absolute;
     top: 27px;
     left: -28px;
-    
+}
+
+hr {
+    border: .5px solid black;
+    margin: 3em 0;
 }
 
 .project p,
-.footer-nav ul li {
+.footer-nav ul li,
+.project-content p {
     font-family: 'GT America' !important;
     font-size: 160%;
     line-height: 1.875;
@@ -309,7 +314,8 @@ h3.project {
     margin-bottom: 65px;
 }
 
-.project h3 {
+.project h3,
+.project-content h3 {
     font-family: 'GT Sectra Display';
     font-size: 240%;
     line-height: 1.1;
@@ -332,25 +338,66 @@ h4 {
     margin-top: 60px;
 }
 
-h5 {
-    font-size: 200%;
-    font-style: normal;
+.project-content h4 {
+    font-size: 230%;
+    margin-bottom: 0;
 }
 
-h6 {
-    font-size: 300%;
-    margin-bottom: 32px;
+/* H5 */
+
+h5 {
+    font-size: 200%;
+    font-family: 'GT America-medium';
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
+
+/* H6 */
+
+h6 {
+    font-family: 'GT America-medium';
+    font-size: 170%;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    text-transform: uppercase;
+}
+
+/* --------------------- Code */
+
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+    padding: 1.75em 40px;
+}
+
+p code {
+    font-size: 100%;
+    padding: 1.75em 40px;
+}
+
+code {
+    font-family: Courier, 'New Courier', monospace;
+    font-size: 140%;
+}
+
 
 /* --------------------- Lists */
 
-ul {
+.single-post ul {
     padding-top: .5em;
     margin-left: 80px;
     list-style-type: none;
 }
 
-ul li:before {
+.project-content ul {
+    padding-top: .5em;
+    list-style-type: none;
+}
+
+.single-post ul li:before,
+.project-content ul li:before {
     font-family: 'GT Sectra Fine';
     content: "•";
     padding-right: 15px;
@@ -360,10 +407,32 @@ ul ul {
     margin-top: 10px;
     margin-bottom: 20px;
     list-style-type: circle;
+    font-size: 100% !important;
+}
+
+.project-content ul ul {
+    margin-left: 20px;
 }
 
 ul ul ul {
     list-style-type: square;
+    font-size: 100% !important;
+}
+
+.project-content ul,
+.project-content ol {
+    font-family: 'GT America';
+    font-size: 80%;
+    line-height: 1.875;
+}
+
+.single-post ol {
+    padding-top: .5em;
+    margin-left: 95px;
+}
+
+.project-content ol {
+    padding-top: .5em;
 }
 
 ol {
@@ -374,10 +443,16 @@ ol ol {
     margin-top: 10px;
     margin-bottom: 20px;
     list-style-type: lower-alpha;
+    font-size: 100% !important;
+}
+
+.project-content ol ol {
+    margin-left: 20px;
 }
 
 ol ol ol {
     list-style-type: lower-roman;
+    font-size: 100% !important;
 }
 
 ol ol,
@@ -389,17 +464,6 @@ ul ol {
 
 li li {
     font-size: 100%;
-}
-
-
-
-iframe {
-    width: 100%;
-
-}
-
-.videoWrap {
-    margin: 30px 0;
 }
 
 /* --------------------------------------------------------- */
@@ -691,17 +755,26 @@ article.project {
     /* IE 10, Fx 16+, Op 12.1+ */
 }
 
-.single-project .project {
+.single-project .project-content {
     padding-top: 100px;
 }
 
-.single-project .project p {
+.single-project .project-content p {
     max-width: 700px;
 }
 
 .single-project .heading h2 {
     display: inline-block;
     padding-left: 40px;
+}
+
+.single-project blockquote {
+    max-width: 100%;
+}
+
+.project-content p img {
+    margin: 3em 0;
+    max-width: 100% !important;
 }
 
 /* --------------------------------------------------------- */
@@ -775,10 +848,9 @@ footer {
 }
 
 footer hr {
-    margin-left: 0;
+    margin: 0 0 40px 0;
     border: .5px solid black;
     width: 20vw;
-    margin-bottom: 40px;
 }
 
 .copyright {
