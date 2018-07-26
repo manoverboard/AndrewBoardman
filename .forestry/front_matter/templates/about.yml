@@ -57,15 +57,10 @@ fields:
 - name: list1
   label: List1
   type: list
-  hidden: false
+  hidden: true
   default: ''
-- name: list_2_title
-  label: List 2 title
-  type: text
-  hidden: false
-  default: ''
-- name: fields
-  label: Fields
+- name: list1
+  label: List 1
   type: field_group_list
   fields:
   - name: label
@@ -85,8 +80,13 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: list_2_title
+  label: List 2 title
+  type: text
+  hidden: false
+  default: ''
 - name: list2
-  label: List2
+  label: List 2
   type: field_group_list
   fields:
   - name: item
@@ -107,7 +107,7 @@ fields:
   hidden: false
   default: ''
 - name: list3
-  label: List3
+  label: List 3
   type: field_group_list
   fields:
   - name: item
