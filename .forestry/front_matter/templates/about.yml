@@ -122,3 +122,5 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- about.md

@@ -32,6 +32,8 @@ fields:
 list2:
 - item: Acumen Fund
   link: google.com
+- item: Item 2
+  link: google.com
 list_3_title: A few talks I gave.
 list3:
 - item: Acumen Fund
