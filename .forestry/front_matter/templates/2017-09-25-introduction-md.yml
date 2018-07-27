@@ -41,21 +41,20 @@ fields:
   default: ''
   config:
     required: true
-  description: Less than 200 characters // This appears as the excerpt on the Projects
-    page, and Home Page feature box.
+  description: Less than 200 characters // This appears on the Home Page feature box.
 - name: main-image
   label: Main image
   type: file
   hidden: false
   default: ''
-  description: 1200 x 770 // This shows up on the Projects Page, and Home Page feature
-    box.
+  description: Vertical Image // This shows up on the Individual Post and on the Home
+    Page feature box.
 - name: caption
   label: Main Image Caption
   type: text
   hidden: false
   default: ''
-  description: 'Optional // Shows below the Main Image on the Single Project Page. '
+  description: Optional // Shows below the Main Image on the Single Post.
 pages:
 - _posts/2018-01-01-test.md
 - _posts/2017-09-25-introduction.md
