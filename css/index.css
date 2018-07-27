@@ -259,7 +259,8 @@ h1.logo a:hover {
     line-height: 1.257;
 }
 
-.about h1 {
+.about h1,
+.page .h1 {
     font-family: 'GT America-medium';
     font-size: 1440%;
     line-height: 1.257;
@@ -483,6 +484,13 @@ ul ol {
 
 li li {
     font-size: 100%;
+}
+
+/* fix p tags in lists */
+
+li p {
+    font-size: 100%;
+    display: inline;
 }
 
 /* --------------------------------------------------------- */
