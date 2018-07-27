@@ -874,13 +874,14 @@ article.project {
 .blog .post .num-and-date {
     display: inline-block;
     width: 12%;
-    vertical-align: middle;
+    vertical-align: top;
+    padding-top: 10px;
 }
 
 .blog .post .post-date {
     clear: both;
     display: block;
-    margin-top: -20px;
+    margin-top: -30px;
 }
 
 /* --------------------- Single Post */
