@@ -9,3 +9,21 @@ fields:
   config:
     required: true
   default: page
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: sub-title
+  label: Sub-Title
+  config:
+    required: true
+- type: textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Sidebar Content
+  name: sidebar_content
+  description: This goes under the right aligned photo.
