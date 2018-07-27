@@ -12,7 +12,8 @@ fields:
 - type: file
   name: main-image
   label: Main Image
-  description: This is a vertical/portrait image
+  description: 'This is a vertical/portrait image. Clicking on the image will produce
+    the option to add a Title or '
 - type: text
   name: title
   label: Title
