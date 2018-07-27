@@ -116,3 +116,4 @@ fields:
   default: ''
 pages:
 - about.md
+- colophon.md
