@@ -15,6 +15,10 @@ $(document).ready(function () {
     $(".page aside").css({
         "top": $pageImageHeight
     });
+    
+    // display image title tag as a caption below image
+    var title = $('img').attr('title');
+    $('img').after(title);
 
 
 });
