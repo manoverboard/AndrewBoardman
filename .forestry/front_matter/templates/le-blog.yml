@@ -16,10 +16,13 @@ fields:
   default: ''
   config:
     required: true
+  description: 'This shows up as the large page title. This does not change the html
+    title tag. '
 - name: main-image
   label: Main image
   type: file
   hidden: false
   default: ''
+  description: Landscape photo ~860 x 539 // This only shows up on this page.
 pages:
 - blog.md
