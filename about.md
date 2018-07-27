@@ -15,7 +15,7 @@ description: I founded Manoverboard, a design studio focused on driving social c
   a Fulbright Fellowship and a New York Foundation for the Arts Fellowship. I worked
   at the The Rockefeller Foundation for many years. I was an instructor at Red River
   College and served as provincial chapter president of Graphic Designers of Canada.
-  Contact me at andrew@manoverboard.com
+  <br><br>Contact me at <a href="mailto:andrew@manoverboard.com" title="">andrew@manoverboard.com</a>
 resume-link: ''
 list_1_title: A few clients at Manoverboard.
 list1:
