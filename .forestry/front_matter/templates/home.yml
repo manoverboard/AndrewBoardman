@@ -10,6 +10,7 @@ fields:
   default: index
   config:
     required: true
+  description: Do not change this unless you're sure.
 - name: title
   label: Title
   type: text
