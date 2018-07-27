@@ -10,6 +10,12 @@ fields:
   default: about
   config:
     required: true
+  description: Do not change this unless you're sure.
+- name: main-image
+  label: Main image
+  type: file
+  hidden: false
+  default: ''
 - name: title
   label: Title
   type: text
@@ -17,11 +23,7 @@ fields:
   default: ''
   config:
     required: true
-- name: main-image
-  label: Main image
-  type: file
-  hidden: false
-  default: ''
+  description: The massive title at the top of the page.
 - name: sub-title
   label: Sub title
   type: text
@@ -29,13 +31,18 @@ fields:
   default: ''
   config:
     required: true
+  description: The smaller title with the horizontal rule.
 - name: description
   label: Description
   type: textarea
   hidden: false
   default: ''
   config:
-    required: true
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  description: 'This also acts as the site meta description (:'
 - name: resume-link
   label: Resumé link
   type: file
@@ -54,13 +61,16 @@ fields:
   type: field_group_list
   fields:
   - name: item
-    label: Item
+    label: List Item Title
     type: text
     hidden: false
     config:
       required: true
   hidden: false
   default: ''
+  description: First column List
+  config:
+    labelField: item
 - name: list_2_title
   label: List 2 title
   type: text
@@ -73,20 +83,25 @@ fields:
   type: field_group_list
   fields:
   - name: item
-    label: Item
+    label: List Item Title
     type: text
     hidden: false
     config:
       required: true
+    description: This shows up as the list item
   - name: link
     label: Link
     type: text
     hidden: false
     default: ''
     config:
-      required: true
+      required: false
+    description: 'Not required. '
   hidden: false
   default: ''
+  description: Second Column List w/ links
+  config:
+    labelField: item
 - name: list_3_title
   label: List 3 title
   type: text
@@ -99,20 +114,25 @@ fields:
   type: field_group_list
   fields:
   - name: item
-    label: Item
+    label: List Item Title
     type: text
     hidden: false
     default: ''
     config:
       required: true
+    description: This is the list item text
   - name: link
     label: Link
     type: text
     hidden: false
     default: ''
     config:
-      required: true
+      required: false
+    description: Not required.
   hidden: false
   default: ''
+  description: Third column list w/ links
+  config:
+    labelField: item
 pages:
 - about.md
