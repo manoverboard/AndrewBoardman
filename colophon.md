@@ -20,6 +20,9 @@ list3: []
 sidebar_content: "There may be a reason for this sidebar. Better to code it and have
   it available than not code and not have it available.\n\nThings this could be:\n\n\t\t•
   \  A caption\n\n\t\t•   A note\n\n\t\t•   A link\n\n\t\t•   A smiley face :/"
+menu:
+  footer:
+    weight: 1
 
 ---
 ### This is a generic page.
