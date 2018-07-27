@@ -9,6 +9,7 @@ fields:
   config:
     required: true
   default: single-post
+  description: Do not change this unless you're sure.
 - type: number
   name: number
   label: Post Number
