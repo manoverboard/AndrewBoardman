@@ -27,3 +27,5 @@ fields:
   label: Sidebar Content
   name: sidebar_content
   description: This goes under the right aligned photo.
+pages:
+- colophon.md
