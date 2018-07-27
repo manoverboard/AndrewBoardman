@@ -28,3 +28,5 @@ fields:
   default: ''
   config:
     required: true
+pages:
+- _projects/1-manoverboard-site.md
