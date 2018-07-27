@@ -9,7 +9,7 @@ config:
   time_format: HH:MM:SS
   display_utc: false
 date: 2017-12-31 12:00:00 +0000
-main-image: "/uploads/blog-image.jpg"
+main-image: "/uploads/ab-image.jpg"
 caption: This guy never looked happier.
 excerpt: If you haven’t read an article about creating for the web, well, you’re about
   to. It’s not going to be very long but you might actually enjoy it. In fact, I’m
