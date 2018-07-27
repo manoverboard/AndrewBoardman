@@ -14,5 +14,9 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: 'This shows up as the large page title. This does not change the html
+    title tag. '
+  config:
+    required: true
 pages:
 - projects.md
