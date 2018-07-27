@@ -41,7 +41,7 @@ fields:
   default: ''
   config:
     required: true
-  description: Less than 200 characters // This appears on the Home Page feature box.
+  description: Apx. 270 characters // This appears on the Home Page feature box.
 - name: main-image
   label: Main image
   type: file
