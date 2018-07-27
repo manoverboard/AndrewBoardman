@@ -21,6 +21,8 @@ fields:
   type: file
   hidden: false
   default: ''
+  description: '1200 x 770 // This appears on the Projects Page as a featured image,
+    and on the Home Page feature box. '
 - name: project-excerpt
   label: Project excerpt
   type: textarea
@@ -28,5 +30,7 @@ fields:
   default: ''
   config:
     required: true
+  description: Less than 200 characters // This shows up on the Projects Page, and
+    on the Home Page feature box.
 pages:
 - _projects/1-manoverboard-site.md
