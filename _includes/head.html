@@ -13,13 +13,27 @@
     <link rel="icon" type="image/png" href="{{ " /img/favicon.png " | absolute_url }}"/>
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="{{ "css/initialize.css " | absolute_url }}">
-    <link rel="stylesheet" href="{{ "css/fontface.css " | absolute_url }}">
-    <link rel="stylesheet" href="{{ "css/index.css " | absolute_url }}">
-    
+    <link rel="stylesheet" href="{{ "css/initialize.css" | absolute_url }}">
+    <link rel="stylesheet" href="{{ "css/fontface.css" | absolute_url }}">
+    <link rel="stylesheet" href="{{ "css/index.css" | absolute_url }}">
+
     <!-- Scripts -->
-    <script src="{{ "js/jQuery.js " | absolute_url }}"></script>
-    <script src="{{ "js/myScripts.js " | absolute_url }}"></script>
+    <script src="{{ "js/jQuery.js" | absolute_url }}"></script>
+    <script src="{{ "js/myScripts.js" | absolute_url }}"></script>
+
+    <!-- Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-6081441-23"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-6081441-23');
+    </script>
 
 </head>
 

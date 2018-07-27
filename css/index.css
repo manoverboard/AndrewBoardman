@@ -200,7 +200,7 @@ hr {
 .project-content p {
     font-family: 'GT America' !important;
     font-size: 160%;
-    line-height: 1.875;
+    line-height: 1.375;
 }
 
 .post-number {
@@ -223,6 +223,11 @@ hr {
 nav.main-nav ul li {
     font-family: 'GT America';
     font-size: 160%;
+}
+
+nav.main-nav ul li:hover {
+    text-decoration: none;
+    border: none;
 }
 
 nav.main-nav ul li.current {
@@ -264,7 +269,7 @@ h1.logo a:hover {
     font-family: 'GT America-medium';
     font-size: 1440%;
     line-height: 1.257;
-
+    margin-top: 40px;
 }
 
 /* H2 */
@@ -504,7 +509,7 @@ li p {
 .button {
     font-family: 'GT America-medium';
     display: inline-block;
-    background: rgba(0, 0, 0, 0) !important;
+    background-color: rgba(0, 0, 0, 0);
     color: #000 !important;
     border: 1px solid #000;
     font-size: 140%;
@@ -516,8 +521,9 @@ li p {
 }
 
 .button:hover {
-    color: #000 !important;
-    font-weight: bold;
+    background-color: #0033A0;
+    border: 1px solid #0033A0;
+    color: #fff !important;
 }
 
 /* prevent font-size compounding */
@@ -673,8 +679,8 @@ article.project {
 }
 
 #twitter-widget-0 {
-    width: 45% !important;
-    max-width: 45% !important;
+    width: 40% !important;
+    max-width: 40% !important;
 }
 
 
@@ -825,14 +831,13 @@ article.project {
     transform: rotate(-90deg);
 }
 
-
-
 .single-project .project-content {
     padding-top: 100px;
 }
 
 .single-project .project-content p {
     max-width: 700px;
+    clear: both;
 }
 
 .single-project .heading h2 {
@@ -845,8 +850,13 @@ article.project {
 }
 
 .project-content p img {
-    margin: 3em 0;
+    margin: 3em 0 1em 0;
     max-width: 100% !important;
+}
+
+.image-caption {
+    float: right;
+    margin-bottom: 2em;
 }
 
 /* --------------------------------------------------------- */
@@ -984,7 +994,7 @@ footer {
 footer hr {
     margin: 0 0 40px 0;
     border: .5px solid black;
-    width: 20vw;
+    width: 360px;
 }
 
 .copyright {
