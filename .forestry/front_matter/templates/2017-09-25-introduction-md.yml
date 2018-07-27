@@ -49,3 +49,4 @@ fields:
   default: ''
 pages:
 - _posts/2018-01-01-test.md
+- _posts/2017-09-25-introduction.md

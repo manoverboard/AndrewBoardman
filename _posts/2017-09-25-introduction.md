@@ -1,39 +1,22 @@
 ---
 layout: single-post
-
-
-label: Title
-type: text
-name: main-title
-main-title: Welcome to the Forestry Demo Site! 
-
-
-label: Date
-type: datetime
-name: date
-config:
-  date_format: "YYYY/MM/DD"
-  time_format: "HH:MM:SS"
-  display_utc: false
-date: 2017-12-31T12:00:00+00:00
-
-
-label: Main Image
-type: file
-name: main-image
-main-image: "/../../uploads/ab-image.jpg"
-
-
-label: Caption
-type: text
-name: caption
-caption: This guy never looked happier.  
-
-
 label: Excerpt Content
 type: textarea
 name: excerpt
-excerpt: If you haven’t read an article about creating for the web, well, you’re about to. It’s not going to be very long but you might actually enjoy it. In fact, I’m willing to bet that this will be the best piece about the web that you’ve read in a few years. Another sentence
+main-title: Welcome to the Forestry Demo Site!
+config:
+  date_format: YYYY/MM/DD
+  time_format: HH:MM:SS
+  display_utc: false
+date: 2017-12-31 12:00:00 +0000
+main-image: "/uploads/blog-image.jpg"
+caption: This guy never looked happier.
+excerpt: If you haven’t read an article about creating for the web, well, you’re about
+  to. It’s not going to be very long but you might actually enjoy it. In fact, I’m
+  willing to bet that this will be the best piece about the web that you’ve read in
+  a few years. Another sentence
+number: 1
+title: Another Post
 
 ---
 If you haven’t read an article about creating for the web, well, you’re about to. It’s not going to be very long but you might actually enjoy it. In fact, I’m willing to bet that this will be the best piece about the web that you’ve read in a few years. It’s about responsibility and how, before activism can even begin, designers need to start taking serious care of the world. No more designing for shitty companies and no more designing for multinational hellholes that don’t respect your work.
@@ -57,5 +40,3 @@ Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
 #### This makes sense as an H4, right?
 
 Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor.
-
-
