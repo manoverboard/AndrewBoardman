@@ -8,6 +8,7 @@ fields:
   type: text
   hidden: false
   default: projects
+  description: Do not change this unless you're sure.
 - name: title
   label: Title
   type: text
