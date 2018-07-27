@@ -9,34 +9,34 @@
         <div class="main-image-h">
             <img src="{{ page.main-image | relative_url }}">
         </div>
-         
+
         <div class="post-wrapper">
-        {% for post in site.posts %}
-        
+            {% for post in site.posts %}
+
             <div class="post">
                 <h2 class="post-title">
                     <a div class="kill-underlines" href="{{ post.url | absolute_url }}">
                         {{ post.title }}
                     </a>
                 </h2>
-                
+
                 <div class="num-and-date">
                     <p class="post-number">
-                    <span class="hidden"> Post #</span>3
+                        <span class="hidden"> Post #</span> {{ post.number }}
                     </p>
                     <date class="post-date">
                         {{ post.date | date_to_string }}
                     </date>
                 </div>
-                
+
             </div>
-            
-        {% endfor %}
-            
+
+            {% endfor %}
+
         </div>
     </main>
-    
-     
-    
+
+
+
     {% include footer.html %}
 </div>
