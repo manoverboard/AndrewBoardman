@@ -66,6 +66,9 @@ fields:
     hidden: false
     config:
       required: true
+  - type: text
+    name: link
+    label: Link
   hidden: false
   default: ''
   description: First column List
