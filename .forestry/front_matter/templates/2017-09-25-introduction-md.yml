@@ -9,6 +9,12 @@ fields:
   config:
     required: true
   default: single-post
+- type: number
+  name: number
+  label: Post Number
+  config:
+    step: '1'
+    required: true
 - name: title
   label: Title
   type: text
