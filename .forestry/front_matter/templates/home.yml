@@ -18,11 +18,13 @@ fields:
   default: ''
   config:
     required: true
+  description: This changes the HTML <title> tag.
 - name: main-image
   label: Main image
   type: file
   hidden: false
   default: ''
+  description: '1100 x 700 '
 - name: main-title
   label: Main title
   type: text
@@ -30,6 +32,7 @@ fields:
   default: ''
   config:
     required: true
+  description: Shows up as the large title on the home page.
 - name: sub-title
   label: Sub title
   type: text
@@ -37,6 +40,7 @@ fields:
   default: ''
   config:
     required: true
+  description: Optional // Small line below huge title.
 - name: timing-pre
   label: Time Prequisite
   type: text
@@ -44,20 +48,24 @@ fields:
   default: ''
   config:
     required: true
+  description: 'This shows up before the time determined value. '
 - name: show_latest_blog
   label: Show latest blog
   type: boolean
   hidden: false
   default: ''
+  description: Turn this on to feature your most recent post on the home page.
 - name: show_latest_project
   label: Show latest project
   type: boolean
   hidden: false
   default: ''
+  description: Turn this on to feature your most recent project on the home page.
 - name: show_twitter
   label: Show twitter
   type: boolean
   hidden: false
   default: ''
+  description: Turn this on to display the most recent tweet from your twitter feed.
 pages:
 - index.md
