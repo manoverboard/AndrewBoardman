@@ -17,15 +17,10 @@ list_2_title: ''
 list2: []
 list_3_title: ''
 list3: []
-sidebar_content: |-
-  There may be a reason for this sidebar. Better to code it and have it available than not code and not have it available.
-
-  Things this could be:
-
-  * A caption
-  * A note
-  * A link
-  * A smiley face :/
+sidebar_content: "<p>There may be a reason for this sidebar. Better to code it and
+  have it available than not code and not have it available. Things this could be:
+  </p><ul><li><p>A caption </p></li><li><p>A note </p></li><li><p>A link </p></li><li><p>A
+  smiley face :/</p></li></ul>"
 menu:
   footer:
     weight: 1
