@@ -34,8 +34,12 @@
             </h3>
 
             <ul>
-                {% for listitem in page.list1 %}
-                <li>{{ listitem }}</li>
+                {% for list in page.list1 %}
+                <li>
+                    <a href="http://{{ list.link }}">
+                    {{ list.item }}
+                </a>
+                </li>
                 {% endfor %}
             </ul>
         </section>

@@ -48,7 +48,7 @@ fields:
   type: file
   hidden: false
   default: ''
-  description: Drop in your resume file here
+  description: Drop in your resumé file here
 - name: list_1_title
   label: List 1 title
   type: text
