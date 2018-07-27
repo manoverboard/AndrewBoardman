@@ -22,13 +22,10 @@ sidebar_content: |-
 
   Things this could be:
 
-  •   A caption
-
-  •   A note
-
-  •   A link
-
-  •   A smiley face :/
+  * A caption
+  * A note
+  * A link
+  * A smiley face :/
 menu:
   footer:
     weight: 1
