@@ -9,6 +9,10 @@ fields:
   config:
     required: true
   default: page
+- type: file
+  name: main_image
+  label: Main Image
+  description: This is a vertical/portrait image
 - type: text
   name: title
   label: Title
