@@ -11,6 +11,21 @@
             <h2>
                 {{ page.main-title }}
             </h2>
+
+            {% if page.next.url %}
+                <a class="pn-next" href="{{page.next.url}}">
+                    Next
+                    <span></span>
+                </a>
+            {% endif %} 
+
+            {% if page.previous.url %}
+                <a class="pn-previous" href="{{page.previous.url}}">
+                    Previous
+                    <span></span>
+                </a>
+            
+            {% endif %} 
         </div>
 
 

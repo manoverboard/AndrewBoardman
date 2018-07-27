@@ -692,8 +692,7 @@ article.project {
     position: relative;
 }
 
-.projects h1:after,
-.single-project h1:after {
+.projects h1:after {
     content: "";
     background-image: url(../uploads/down-arrow.png);
     width: 32px;
@@ -765,34 +764,66 @@ article.project {
     display: inline-block;
 }
 
-.single-project h1:after {
-    -webkit-transform: rotate(90deg);
-    /* Ch <36, Saf 5.1+, iOS < 9.2, An =<4.4.4 */
-    -ms-transform: rotate(90deg);
-    /* IE 9 */
-    transform: rotate(90deg);
-    /* IE 10, Fx 16+, Op 12.1+ */
-}
-
 .single-project .heading {
     position: relative;
 }
 
-.single-project .heading:after {
+.pn-previous,
+.pn-next {
+    font-family: 'GT America' !important;
+    font-size: 160%;
+    line-height: 1.875;
+    text-decoration: none;
+    position: absolute;
+    color: #fff !important;
+}
+
+.pn-previous {
+    bottom: -34px;
+    left: 0;
+    padding-left: 40px;
+}
+
+.pn-next {
+    bottom: -34px;
+    right: 0;
+    padding-right: 40px;
+}
+
+.pn-previous:hover,
+.pn-next:hover {
+    text-decoration: none;
+    color: #0033A0 !important;
+}
+
+.pn-previous span:before {
+    content: "";
+    background-image: url(../uploads/down-arrow.png);
+    width: 32px;
+    height: 17px;
+    position: absolute;
+    left: 0;
+    bottom: 4px;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+
+.pn-next span:after {
     content: "";
     background-image: url(../uploads/down-arrow.png);
     width: 32px;
     height: 17px;
     position: absolute;
     right: 0;
-    bottom: -30px;
+    bottom: 4px;
     -webkit-transform: rotate(-90deg);
-    /* Ch <36, Saf 5.1+, iOS < 9.2, An =<4.4.4 */
     -ms-transform: rotate(-90deg);
-    /* IE 9 */
     transform: rotate(-90deg);
-    /* IE 10, Fx 16+, Op 12.1+ */
 }
+
+
 
 .single-project .project-content {
     padding-top: 100px;
