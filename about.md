@@ -19,8 +19,7 @@ description: I founded Manoverboard, a design studio focused on driving social c
 resume-link: ''
 list_1_title: A few clients at Manoverboard.
 list1:
-- Acumen Fund
-- Global Alliance for Children
+- item: Hearshare!
 list_2_title: A few articles I wrote.
 fields:
 - label: Item
@@ -30,9 +29,9 @@ fields:
   type: text
   name: link
 list2:
-- item: Acumen Fund
-  link: google.com
 - item: Item 2
+  link: google.com
+- item: Acumen Fund
   link: google.com
 list_3_title: A few talks I gave.
 list3:
