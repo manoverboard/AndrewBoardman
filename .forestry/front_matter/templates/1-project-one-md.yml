@@ -28,5 +28,3 @@ fields:
   default: ''
   config:
     required: true
-pages:
-- _projects/4-project-four.md
