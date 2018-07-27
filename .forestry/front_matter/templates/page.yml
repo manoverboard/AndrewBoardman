@@ -9,21 +9,23 @@ fields:
   config:
     required: true
   default: page
+  description: Do not change this unless you're sure.
 - type: file
   name: main-image
   label: Main Image
-  description: 'This is a vertical/portrait image. Clicking on the image will produce
-    the option to add a Title or '
+  description: This is a vertical/portrait image.
 - type: text
   name: title
   label: Title
   config:
     required: true
+  description: 'The massive title at the top of the page. '
 - type: text
   name: sub-title
   label: Sub-Title
   config:
     required: true
+  description: The smaller title with the horizontal rule.
 - type: textarea
   config:
     wysiwyg: true
@@ -31,6 +33,6 @@ fields:
       format: html-blocks
   label: Sidebar Content
   name: sidebar_content
-  description: This goes under the right aligned photo.
+  description: This goes under the right aligned photo. Optional.
 pages:
 - colophon.md
