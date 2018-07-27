@@ -31,30 +31,30 @@ Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Lorem ipsum 
 
 #### People who made this site:
 
-		•   Me
+  •   Me
 
-		•   Daniel Lamb
+  •   Daniel Lamb
 
-		•   Nikki Wolfe
+  •   Nikki Wolfe
 
-		•   Maeve Boardman
+  •   Maeve Boardman
 
 #### Software used for this website:
 
-		•   Sketch
+  •   Sketch
 
-		•   Adobe Photoshop
+  •   Adobe Photoshop
 
-		•   Kirby CMS
+  •   Kirby CMS
 
-		•   Good old HTML/CSS
+  •   Good old HTML/CSS
 
 #### Sources of inspiration:
 
-		•   SY
+  •   SY
 
-		•   BJM
+  •   BJM
 
-		•   JLG
+  •   JLG
 
-		•   PG
+  •   PG
