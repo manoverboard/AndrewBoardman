@@ -2,7 +2,7 @@
 title: Colophon
 layout: page
 date: 2018-07-27 16:31:04 +0000
-main-image: ''
+main-image: "/uploads/uploads/sonic-youth.png"
 sub-title: Lots of bits and pieces on this site. Here are my thanks.
 description: ''
 resume-link: ''
