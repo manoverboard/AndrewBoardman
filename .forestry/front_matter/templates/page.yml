@@ -33,3 +33,4 @@ fields:
   description: This goes under the right aligned photo.
 pages:
 - colophon.md
+- test.md
