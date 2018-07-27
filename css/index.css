@@ -924,6 +924,17 @@ article.project {
     padding-right: 20vw;
 }
 
+.page .content {
+    max-width: 650px;
+}
+
+.page aside {
+    position: absolute;
+    max-width: 625px !important;
+    right: 0;
+    width: 44vw !important;
+}
+
 /* --------------------------------------------------------- */
 
 /* ---------------------- F O O T E R -----------------------*/

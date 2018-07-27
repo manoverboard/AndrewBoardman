@@ -10,4 +10,11 @@ $(document).ready(function () {
         $(".latest-post-date").toggleClass("blue-hover");
     });
 
+    // page sidebar position
+    var $pageImageHeight = $(".page .main-image-v").height();
+    $(".page aside").css({
+        "top": $pageImageHeight
+    });
+
+
 });
