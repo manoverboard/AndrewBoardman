@@ -10,7 +10,7 @@ fields:
     required: true
   default: page
 - type: file
-  name: main_image
+  name: main-image
   label: Main Image
   description: This is a vertical/portrait image
 - type: text
