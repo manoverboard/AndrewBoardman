@@ -17,9 +17,18 @@ list_2_title: ''
 list2: []
 list_3_title: ''
 list3: []
-sidebar_content: "There may be a reason for this sidebar. Better to code it and have
-  it available than not code and not have it available.\n\nThings this could be:\n\n\t\t•
-  \  A caption\n\n\t\t•   A note\n\n\t\t•   A link\n\n\t\t•   A smiley face :/"
+sidebar_content: |-
+  There may be a reason for this sidebar. Better to code it and have it available than not code and not have it available.
+
+  Things this could be:
+
+  •   A caption
+
+  •   A note
+
+  •   A link
+
+  •   A smiley face :/
 menu:
   footer:
     weight: 1
