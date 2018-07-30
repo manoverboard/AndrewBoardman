@@ -37,6 +37,16 @@ list_3_title: A few talks I gave.
 list3:
 - item: Acumen Fund
   link: google.com
+about-content: I founded Manoverboard, a design studio focused on driving social change,
+  in 2002 in Brooklyn with the idea of pushing the boundaries of design for innovative
+  businesses and nonprofit organizations. Mostly what I do there is design and send
+  emails and talk on the phone. I cut my real design teeth designing Barneys New York’s
+  first ecommerce site and the nonprofit Acumen’s first visual identity. I hold a
+  B.A. from Brown University and and M.F.A from the University at Albany SUNY. I received
+  a Fulbright Fellowship and a New York Foundation for the Arts Fellowship. I worked
+  at the The Rockefeller Foundation for many years. I was an instructor at Red River
+  College and served as provincial chapter president of Graphic Designers of Canada.<br><br>Contact
+  me at <a href="mailto:andrew@manoverboard.com" title="">andrew@manoverboard.com</a>
 menu:
   navigation:
     identifier: _about
