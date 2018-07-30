@@ -11,7 +11,10 @@
 
         <div class="image">
             <img src="{{ project.main-image | absolute_url }}" alt="{{ project.title }}">
-            <div class="blue-overlay"></div>
+            
+            <div class="blue-overlay">
+                <a href="{{project.url | absolute_url }}"></a>
+            </div>
         </div>
 
         <div class="content">

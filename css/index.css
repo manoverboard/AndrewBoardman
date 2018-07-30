@@ -225,9 +225,9 @@ nav.main-nav ul li {
     font-size: 160%;
 }
 
-nav.main-nav ul li:hover {
-    text-decoration: none;
-    border: none;
+nav.main-nav ul li a:hover {
+    text-decoration: none !important;
+    border: none !important;
 }
 
 nav.main-nav ul li.current {
@@ -392,6 +392,8 @@ pre {
     white-space: -o-pre-wrap;
     word-wrap: break-word;
     padding: 1.75em 40px;
+    line-height: 1.8;
+     border: 1px solid #000;
 }
 
 p code {
@@ -400,7 +402,7 @@ p code {
 }
 
 code {
-    font-family: Courier, 'New Courier', monospace;
+    font-family: 'GT America Mono', Courier, 'New Courier', monospace;
     font-size: 140%;
 }
 
@@ -917,6 +919,11 @@ article.project {
     max-width: 640px;
 }
 
+.single-post .post p:last-child:after {
+    content: "§";
+    padding-left: 8px;
+}
+
 /* --------------------------------------------------------- */
 
 /* ----------------------- A B O U T ------------------------*/
@@ -1010,6 +1017,12 @@ footer hr {
     list-style: none;
     display: inline-block;
     padding-right: 20px;
+}
+
+footer .copyright a {
+    font-family: 'GT America-medium' !important;
+    text-decoration: none;
+    border: none;
 }
 
 /*********************************************

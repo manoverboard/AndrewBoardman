@@ -40,6 +40,19 @@
     font-style: normal;
 }
 
+/* ------------- GT America Mono */
+@font-face {
+    font-family: 'GT America Mono';
+    src: url('../webfonts/GT_America_Mono/GT-America-Mono-Regular.eot') format('eot'),
+    url('../webfonts/GT_America_Mono/GT-America-Mono-Regular.otf') format('otf'),
+    url('../webfonts/GT_America_Mono/GT-America-Mono-Regular.ttf') format('ttf'),
+    url('../webfonts/GT_America_Mono/GT-America-Mono-Regular.woff') format('woff'),
+    url('../webfonts/GT_America_Mono/GT-America-Mono-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 /* ------------- GT Sectra Display */
 
 @font-face {
