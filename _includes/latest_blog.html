@@ -10,7 +10,9 @@
         {% for post in site.posts limit:1 %}
 
         <div class="latest-post-date">
-            <p class="post-number"> 3 </p>
+            <p class="post-number"> 
+                {{ post.number }} 
+            </p>
             <date class="post-date">
                 {{ post.date | date_to_string }}
             </date>
