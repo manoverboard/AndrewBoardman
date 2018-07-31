@@ -25,6 +25,8 @@ list1:
   link: http://sjfventures.com/
 - item: HeartShare
   link: https://www.heartshare.org/
+- item: New Island Capital
+  link: ''
 list_2_title: A few articles I wrote.
 fields:
 - label: Item
