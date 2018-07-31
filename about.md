@@ -19,7 +19,8 @@ description: I founded Manoverboard, a design studio focused on driving social c
 resume-link: ''
 list_1_title: A few clients at Manoverboard.
 list1:
-- item: Hearshare
+- item: HeartShare
+  link: https://www.heartshare.org/
 list_2_title: A few articles I wrote.
 fields:
 - label: Item
