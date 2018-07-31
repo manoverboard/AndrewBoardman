@@ -17,8 +17,10 @@ description: I founded Manoverboard, a design studio focused on driving social c
   College and served as provincial chapter president of Graphic Designers of Canada.
   <br><br>Contact me at <a href="mailto:andrew@manoverboard.com" title="">andrew@manoverboard.com</a>
 resume-link: ''
-list_1_title: A few clients at Manoverboard.
+list_1_title: A few clients at my studio, Manoverboard.
 list1:
+- item: Acumen
+  link: https://acumen.org/
 - item: HeartShare
   link: https://www.heartshare.org/
 list_2_title: A few articles I wrote.
