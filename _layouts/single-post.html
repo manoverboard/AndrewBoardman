@@ -22,7 +22,7 @@
                 {{ page.number }}
             </h1>
             <date class="post-date">
-                {{ page.date | date_to_string }}
+                {{ page.date | date_to_string | date: "%B %-d, %Y" }}
             </date>
             <h2>
                 {{ page.main-title }}
