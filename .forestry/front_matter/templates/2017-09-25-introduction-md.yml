@@ -48,8 +48,8 @@ fields:
   type: file
   hidden: false
   default: ''
-  description: Vertical Image // This shows up on the Individual Post and on the Home
-    Page feature box.
+  description: 625px X 835px // Vertical Image // This shows up on the Individual
+    Post and on the Home Page feature box.
 - name: caption
   label: Main Image Caption
   type: text
