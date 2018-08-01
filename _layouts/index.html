@@ -22,8 +22,8 @@
                 
                 {% assign hour = 'now' | date: '%H' %}
                 
-                {% if hour == '16' %}
-                    Have a great weekend!
+                {% if hour > '8' and < '18' %}
+                    at work.
                 {% else %}
                     {{ page.custom-time-message }}
                 {% endif %}
