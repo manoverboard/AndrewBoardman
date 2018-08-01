@@ -18,13 +18,18 @@
             </h3>
             <p class="h3">
                 {{ page.timing-pre }} 
-    
-                {% assign hour = date: '%H' %}
                 
-                {% if hour == '16' %}
-                    at work.
+                {% if page.custom-time-message != 0 %}
+                    {{ page.custom-time-message }}
                 {% else %}
-                    sleeping.
+    
+                    {% assign hour = 'now' | date: '%H' %}
+                    {% if hour == '14' or '15' or '16' %}
+                        at work.
+                    {% else %}
+                        sleeping.
+                    {% endif %}
+                
                 {% endif %}
                 
             </p>
