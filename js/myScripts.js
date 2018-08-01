@@ -33,7 +33,7 @@ $(document).ready(function () {
     // ------------------------------------------------------
     // post transition time-out
     // ------------------------------------------------------
-    $(".post-transition").delay(800).addClass("hidden");
+    $(".post-transition").delay( 500 ).fadeOut( "slow" );
 
 
 });
