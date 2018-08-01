@@ -33,8 +33,9 @@ fields:
   config:
     date_format: MM, DD YYY
     required: true
-  description: This will show up as when the post was published, the time does not
-    appear anywhere. NOTE// this will not publish the post on a certain date or time.
+  description: 'This will show up as when the post was published, the time does not
+    appear anywhere. // NOTE: this will not publish the post on a certain date or
+    time.'
 - name: excerpt
   label: Excerpt
   type: textarea
