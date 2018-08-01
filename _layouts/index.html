@@ -19,12 +19,12 @@
             <p class="h3">
                 {{ page.timing-pre }} 
                 
-                {% if page.custom-time-message != 0 %}
+                {% if page.custom-time-message != "" %}
                     {{ page.custom-time-message }}
                 {% else %}
     
                     {% assign hour = 'now' | date: '%H' %}
-                    {% if hour == '14' or '15' or '16' %}
+                    {% if hour == '14' or hour == '15' or hour == '16' %}
                         at work.
                     {% else %}
                         sleeping.
