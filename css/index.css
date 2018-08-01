@@ -1047,6 +1047,8 @@ footer .copyright a {
     width: 100vw;
     height: 50vh;
     z-index: 1001;
+    position: absolute;
+    top: 30vh;
 }
 
 /* --------------------------------------------------------- */
