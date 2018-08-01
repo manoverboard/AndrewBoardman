@@ -11,6 +11,6 @@ timing-pre: At this moment, he is
 show_latest_blog: true
 show_latest_project: true
 show_twitter: true
-custom-time-message: in California!
+custom-time-message: ''
 
 ---
