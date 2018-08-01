@@ -49,6 +49,11 @@ fields:
   config:
     required: true
   description: 'This shows up before the time determined value. '
+- type: text
+  label: Custom Time Message
+  name: custom-time-message
+  description: 'This will override the defaults set in the hard code. This will not
+    change back to default until this field is empty. '
 - name: show_latest_blog
   label: Show latest blog
   type: boolean
