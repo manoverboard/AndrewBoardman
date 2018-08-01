@@ -13,7 +13,7 @@ fields:
 - type: file
   name: main-image
   label: Main Image
-  description: This is a vertical/portrait image.
+  description: 625px x 835px // Portrait/Vertical
 - type: text
   name: title
   label: Title
