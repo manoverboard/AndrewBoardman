@@ -14,7 +14,7 @@
                 {{ post.number }} 
             </p>
             <date class="post-date">
-                {{ post.date | date_to_string }}
+                {{ post.date | date_to_string | date: "%B %-d, %Y" }}
             </date>
         </div>
 
