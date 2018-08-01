@@ -26,7 +26,7 @@ $(document).ready(function () {
     // display image title tag as a caption below image
     // ------------------------------------------------------
     var title = $('img').attr('title');
-    if (title != "") {
+    if (title != nul ) {
         $('img').after("<span class='image-caption'>" + title + "</span>");
     }
     
