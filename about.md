@@ -19,7 +19,16 @@ description: I founded Manoverboard, a design studio focused on driving social c
 resume-link: ''
 list_1_title: A few clients at Manoverboard.
 list1:
-- item: Hearshare
+- item: Acumen
+  link: https://acumen.org/
+- item: Greyston Bakery
+  link: https://greyston.org/
+- item: HeartShare
+  link: https://www.heartshare.org/
+- item: New Island Capital
+  link: ''
+- item: SJF Ventures
+  link: http://sjfventures.com/
 list_2_title: A few articles I wrote.
 fields:
 - label: Item
@@ -31,8 +40,8 @@ fields:
 list2:
 - item: Item 2
   link: google.com
-- item: Acumen Fund
-  link: google.com
+- item: Acumen
+  link: https://acumen.org
 list_3_title: A few talks I gave.
 list3:
 - item: Acumen Fund
