@@ -38,6 +38,8 @@ fields:
   type: text
   name: link
 list2:
+- item: Hey Andrew
+  link: ''
 - item: Item 2
   link: google.com
 - item: Acumen
