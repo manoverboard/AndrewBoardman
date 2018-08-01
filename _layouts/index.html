@@ -17,7 +17,17 @@
                 {{ page.sub-title }}
             </h3>
             <p class="h3">
-                {{ page.timing-pre }} {{ site.time }}
+                {{ page.timing-pre }} 
+                {{ site.time }}
+                
+                {% assign hour = 'now' | date: '%H' %}
+                
+                {% if hour == '16' %}
+                    Have a great weekend!
+                {% else %}
+                    {{ page.custom-time-message }}
+                {% endif %}
+                
             </p>
         </div>
     </main>
