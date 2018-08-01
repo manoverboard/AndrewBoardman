@@ -19,6 +19,7 @@ description: I founded Manoverboard, a design studio focused on driving social c
 resume-link: ''
 list_1_title: A few clients at Manoverboard.
 list1:
+- item: Aloha
 - item: Acumen
   link: https://acumen.org/
 - item: Greyston Bakery
