@@ -18,11 +18,10 @@
             </h3>
             <p class="h3">
                 {{ page.timing-pre }} 
-                {{ site.time }}
                 
                 {% assign hour = 'now' | date: '%H' %}
                 
-                {% if hour > '8' and < '18' %}
+                {% if hour >= 8 and <= 18 %}
                     at work.
                 {% else %}
                     {{ page.custom-time-message }}
