@@ -1031,7 +1031,8 @@ footer .copyright a {
 
 /* --------------------------------------------------------- */
 
-.post-transition {
+.post-transition,
+.home-animation-wrapper {
     background-color: #1b1b1b;
     height: 100vh;
     width: 100vw;
@@ -1046,6 +1047,19 @@ footer .copyright a {
 .post-number-transition {
     color: white;
     font-family: 'GT Haptik';
+    font-size: 3600%;
+    text-align: center;
+    /******/
+    width: 100vw;
+    height: 50vh;
+    z-index: 1001;
+    position: absolute;
+    top: 30vh;
+}
+
+.text-layer {
+    color: white;
+    font-family: 'GT America-medium';
     font-size: 3600%;
     text-align: center;
     /******/
