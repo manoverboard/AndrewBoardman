@@ -21,12 +21,14 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 
 ![Kitten](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
 
-{% include image-caption.html caption="wow a kitten" %}
+{% include image-caption.html caption="A Kitten" %}
 
 </section>
 
 <section class="project-column-two" markdown="1">
 
-well would ya look at that content
+![](/uploads/ducks-test.png)
+
+{% include image-caption.html caption="Ducks Unlimited" %}
 
 </section>
