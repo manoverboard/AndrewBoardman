@@ -1072,13 +1072,13 @@ footer .copyright a {
 
 .letter-a {
     margin-right: -40px;
-    animation: moveA 1s linear both;
+    animation: moveA 1s ease-in-out both;
     animation-delay: .25s;
 }
 
 .letter-b {
     margin-left: -40px;
-    animation: moveB 1s linear both;
+    animation: moveB 1s ease-in-out both;
     animation-delay: .25s;
 }
 
@@ -1089,8 +1089,8 @@ footer .copyright a {
     position: absolute;
     top: 165px;
     margin-left: -185px;
-    -webkit-animation: emDashExpand 1s linear both;
-    animation: emDashExpand 1s linear both;
+    -webkit-animation: emDashExpand 1s ease-in-out both;
+    animation: emDashExpand 1s ease-in-out both;
     animation-delay: .25s;
 }
 
