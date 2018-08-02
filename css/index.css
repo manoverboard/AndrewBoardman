@@ -924,6 +924,12 @@ article.project {
     padding-left: 8px;
 }
 
+/* fix blockquote from applying this */
+
+blockquote p:after {
+    display: none !important;
+}
+
 /* --------------------------------------------------------- */
 
 /* ----------------------- A B O U T ------------------------*/
@@ -979,11 +985,11 @@ article.project {
     max-width: 650px;
 }
 
-.page aside {
+.page aside.inner {
     position: absolute;
-    max-width: 625px !important;
+    max-width: 625px;
     right: 0;
-    width: 44vw !important;
+    width: 44vw;
 }
 
 /* --------------------------------------------------------- */
@@ -1034,10 +1040,10 @@ footer .copyright a {
 .post-transition,
 .home-animation-wrapper {
     background-color: #1b1b1b;
-    height: 100vh;
-    width: 100vw;
     z-index: 1000;
     position: absolute;
+    width: 100vw;
+    height: 100vh;
     top: 0;
     left: 0;
     right: 0;
@@ -1073,13 +1079,17 @@ footer .copyright a {
 .letter-a {
     margin-right: -40px;
     animation: moveA 1s ease-in-out both;
+    -webkit-animation: moveA 1s ease-in-out both;
     animation-delay: .25s;
+    -webkit-animation-delay: .25s;
 }
 
 .letter-b {
     margin-left: -40px;
     animation: moveB 1s ease-in-out both;
+    -webkit-animation: moveB 1s ease-in-out both;
     animation-delay: .25s;
+    webkit-animation-delay: .25s;
 }
 
 .em-dash {
@@ -1092,9 +1102,284 @@ footer .copyright a {
     -webkit-animation: emDashExpand 1s ease-in-out both;
     animation: emDashExpand 1s ease-in-out both;
     animation-delay: .25s;
+    -webkit-animation-delay: .25s;
 }
 
+/* --------------------------------------------------------- */
+
+/* --------------------- Q U E R I E S ----------------------*/
+
+/* --------------------------------------------------------- */
+
+/* --------------------------------------- 1360 and below */
+
+@media screen and (max-width: 1360px) {
+    /* --------------------- post/page */
+    .main-image-v {
+        width: 38vw;
+    }
+
+    .page aside.inner {
+        position: absolute;
+        max-width: 625px;
+        right: 0;
+        width: 38vw;
+    }
+}
+
+
+/* --------------------------------------- 1250 and below */
+
+@media screen and (max-width: 1250px) {
+    .blog .post h2 {
+        margin-right: 10%;
+    }
+
+    .blog .post .num-and-date {
+        width: 19%;
+    }
+}
+
+
+
+/* ------------------------- main breakpoint -- 1160 and below */
+
+@media screen and (max-width: 1160px) {
+    .wo {
+        padding: 0 60px;
+    }
+
+    /* --------------------- home */
+    .zigzag {
+        margin: 4.5% 0;
+    }
+
+    #latestProject,
+    #latestPost,
+    #Twitter {
+        width: 80%;
+        margin-top: 0;
+        padding-top: 100px;
+        float: left;
+    }
+
+    #latestPost h3,
+    h3.project {
+        margin-bottom: 40px;
+    }
+
+    /* --------------------- latest project */
+    #latestProject .excerpt {
+        max-width: 650px;
+    }
+
+    article.project {
+        padding-top: 0;
+    }
+
+    /* --------------------- latest post */
+    #latestPost .excerpt {
+        width: 65%;
+    }
+
+    #latestPost .image {
+        width: 35%;
+    }
+
+    .latest-post-date {
+        margin-top: -130px;
+    }
+
+    /* --------------------- twitter */
+    #twitter-widget-0 {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    /* --------------------- about */
+    .main-image-h.about {
+        top: 325px;
+        right: 0;
+        width: 80vw;
+    }
+
+    .about .button {
+        margin-top: -76px;
+        margin-right: -58px;
+    }
+
+    .clients,
+    .articles,
+    .talks {
+        margin-top: 40px !important;
+        max-width: 46% !important;
+    }
+
+    .talks {
+        clear: both;
+    }
+
+    /* --------------------- animation */
+    .text-layer {
+        font-size: 2600%;
+    }
+
+    .em-dash {
+        height: 26px;
+        width: 210px;
+        top: 121px;
+        margin-left: -140px;
+        -webkit-animation: emDashExpand .955s ease-in-out both;
+        animation: emDashExpand .955s ease-in-out both;
+    }
+
+    .letter-a {
+        margin-right: -30px;
+        animation: moveA1160 1s ease-in-out both;
+        -webkit-animation: moveA1160 1s ease-in-out both;
+    }
+
+    .letter-b {
+        margin-left: -30px;
+        animation: moveB1160 1s ease-in-out both;
+        -webkit-animation: moveB1160 1s ease-in-out both;
+    }
+
+}
+
+
+/* --------------------------------------- 800 and below */
+
+@media screen and (max-width: 800px) {
+    .wo {
+        padding: 0 20px;
+    }
+
+    .pv {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+
+    /* ------------------ font shrink */
+    body {
+        font-size: 58%;
+    }
+
+    code {
+        font-size: 150%;
+    }
+
+    .project p,
+    .footer-nav ul li,
+    .project-content p {
+        font-family: 'GT America' !important;
+        font-size: 175%;
+        line-height: 1.5;
+    }
+
+    h1.logo,
+    nav.main-nav ul li {
+        font-size: 175%
+    }
+
+    /* --------------------- home */
+    #latestProject,
+    #latestPost,
+    #Twitter {
+        width: 100%;
+    }
+
+    /* --------------------- animation */
+    .text-layer {
+        font-size: 1500%;
+    }
+
+    .em-dash {
+        height: 15px;
+        width: 120px;
+        top: 65px;
+        margin-left: -80px;
+        -webkit-animation: emDashExpand 1.0555s ease-in-out both;
+        animation: emDashExpand 1.0555s ease-in-out both;
+    }
+
+    .letter-a {
+        margin-right: -20px;
+        animation: moveA800 1s ease-in-out both;
+        -webkit-animation: moveA800 1s ease-in-out both;
+    }
+
+    .letter-b {
+        margin-left: -20px;
+        animation: moveB800 1s ease-in-out both;
+        -webkit-animation: moveB800 1s ease-in-out both;
+    }
+}
+
+
+/* --------------------------------------- 640 and below */
+
+@media screen and (max-width: 640px) {
+    /* --------------------- animation */
+    .text-layer {
+        font-size: 900%;
+    }
+
+    .em-dash {
+        height: 9px;
+        width: 65px;
+        top: 38px;
+        margin-left: -44px;
+        -webkit-animation: emDashExpand .888s ease-in-out both;
+        animation: emDashExpand .888s ease-in-out both;
+    }
+
+    .letter-a {
+        margin-right: 0;
+        animation: moveA640 .8s ease-in-out both;
+        -webkit-animation: moveA640 .8s ease-in-out both;
+    }
+
+    .letter-b {
+        margin-left: 0;
+        animation: moveB640 .8s ease-in-out both;
+        -webkit-animation: moveB640 .8s ease-in-out both;
+    }
+}
+
+
+/* --------------------------------------- 400 and below */
+
+@media screen and (max-width: 480px) {
+    .wo {
+        padding: 0 15px;
+    }
+    .pv {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
+
+/* --------------------------------------------------------- */
+
+/* ------------------ K E Y F R A M E S ---------------------*/
+
+/* --------------------------------------------------------- */
+
 @keyframes moveA {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-right: -40px;
+    }
+    100% {
+        margin-right: 120px;
+    }
+}
+
+@-webkit-keyframes moveA {
     0% {
         opacity: 0;
     }
@@ -1120,67 +1405,219 @@ footer .copyright a {
     }
 }
 
+@-webkit-keyframes moveB {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-left: -40px;
+    }
+    100% {
+        margin-left: 120px;
+    }
+}
+
 @keyframes emDashExpand {
     0% {
         opacity: 0;
         -webkit-transform: scaleX(0);
+        -ms-transform: scaleX(0);
         transform: scaleX(0);
     }
     20% {
         opacity: 1;
         -webkit-transform: scaleX(0);
+        -ms-transform: scaleX(0);
         transform: scaleX(0);
     }
     100% {
         -webkit-transform: scaleX(1);
+        -ms-transform: scaleX(1);
         transform: scaleX(1);
     }
 }
 
-/* --------------------------------------------------------- */
-
-/* --------------------- Q U E R I E S ----------------------*/
-
-/* --------------------------------------------------------- */
-
-@media screen and (max-width: 1024px) {
-    /* -------------------------------------------- */
-}
-
-@media screen and (max-width: 800px) {
-    /* -------------------------------------------- */
-    .wo {
-        padding: 0 20px;
+@-webkit-keyframes emDashExpand {
+    0% {
+        opacity: 0;
+        -webkit-transform: scaleX(0);
+        -ms-transform: scaleX(0);
+        transform: scaleX(0);
     }
-    .pv {
-        padding-top: 45px;
-        padding-bottom: 45px;
+    20% {
+        opacity: 1;
+        -webkit-transform: scaleX(0);
+        -ms-transform: scaleX(0);
+        transform: scaleX(0);
     }
-}
-
-@media screen and (max-width: 640px) {
-    /* -------------------------------------------- */
-    body {
-        font-size: 55%;
+    100% {
+        -webkit-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+        transform: scaleX(1);
     }
 }
 
-@media screen and (max-width: 480px) {
-    /* -------------------------------------------- */
-    .wo {
-        padding: 0 15px;
+
+/* ------------------------- main breakpoint -- 1160 and below */
+
+@keyframes moveA1160 {
+    0% {
+        opacity: 0;
     }
-    .pv {
-        padding-top: 30px;
-        padding-bottom: 30px;
+    20% {
+        opacity: 1;
+        margin-right: -30px;
+    }
+    100% {
+        margin-right: 100px;
     }
 }
 
-@media screen and (max-width: 320px) {
-    /* -------------------------------------------- */
+@-webkit-keyframes moveA1160 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-right: -30px;
+    }
+    100% {
+        margin-right: 100px;
+    }
+}
+
+@keyframes moveB1160 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-left: -30px;
+    }
+    100% {
+        margin-left: 100px;
+    }
+}
+
+@-webkit-keyframes moveB1160 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-left: -30px;
+    }
+    100% {
+        margin-left: 100px;
+    }
+}
+
+/* --------------------------------------- 800 and below */
+
+@keyframes moveA800 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-right: -20px;
+    }
+    100% {
+        margin-right: 60px;
+    }
+}
+
+@-webkit-keyframes moveA800 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-right: -20px;
+    }
+    100% {
+        margin-right: 60px;
+    }
+}
+
+@keyframes moveB800 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-left: -20px;
+    }
+    100% {
+        margin-left: 60px;
+    }
+}
+
+@-webkit-keyframes moveB800 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-left: -20px;
+    }
+    100% {
+        margin-left: 60px;
+    }
 }
 
 
-/*********************************************
-	Game Over. User Wins.
-*********************************************/
+/* --------------------------------------- 640 and below */
+
+@keyframes moveA640 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-right: 0px;
+    }
+    100% {
+        margin-right: 30px;
+    }
+}
+
+@-webkit-keyframes moveA640 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-right: 0px;
+    }
+    100% {
+        margin-right: 30px;
+    }
+}
+
+@keyframes moveB640 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-left: 0px;
+    }
+    100% {
+        margin-left: 30px;
+    }
+}
+
+@-webkit-keyframes moveB640 {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-left: 0px;
+    }
+    100% {
+        margin-left: 30px;
+    }
+}

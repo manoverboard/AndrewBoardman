@@ -17,9 +17,13 @@ $(document).ready(function () {
     // ------------------------------------------------------
     // page sidebar position
     // ------------------------------------------------------
-    var $pageImageHeight = $(".page .main-image-v").height();
-    $(".page aside").css({
-        "top": $pageImageHeight
+    $(window).on('load resize', function () {
+
+        var $pageImageHeight = $(".page .main-image-v").height();
+        $(".page aside").css({
+            "top": $pageImageHeight
+        });
+
     });
 
     // ------------------------------------------------------
