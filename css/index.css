@@ -857,8 +857,9 @@ article.project {
 }
 
 .image-caption {
-    float: right;
+    text-align: right !important;
     margin-bottom: 2em;
+    margin-top: -10px;
 }
 
 /* --------------------------------------------------------- */
