@@ -1072,8 +1072,23 @@ footer .copyright a {
 
 .letter-a {
     margin-right: -40px;
-    animation: moveA .8s linear both;
-    animation-delay: .25s;
+    animation: moveA 1 linear both;
+}
+
+.letter-b {
+    margin-left: -40px;
+    animation: moveB 1s linear both;
+}
+
+.em-dash {
+    background-color: white;
+    height: 34px;
+    width: 265px;
+    position: absolute;
+    top: 165px;
+    margin-left: -185px;
+    -webkit-animation: emDashExpand 1 linear both;
+    animation: emDashExpand 1 linear both;
 }
 
 @-webkit-keyframes moveA {
@@ -1102,12 +1117,6 @@ footer .copyright a {
     }
 }
 
-.letter-b {
-    margin-left: -40px;
-    animation: moveB .8s linear both;
-    animation-delay: .25s;
-}
-
 @-webkit-keyframes moveB {
     0% {
         opacity: 0;
@@ -1134,21 +1143,11 @@ footer .copyright a {
     }
 }
 
-.em-dash {
-    background-color: white;
-    height: 34px;
-    width: 265px;
-    position: absolute;
-    top: 165px;
-    margin-left: -185px;
-    -webkit-animation: emDashExpand 0.8s linear both;
-    animation: emDashExpand 0.8s linear both;
-    animation-delay: .25s;
-}
-
 @-webkit-keyframes emDashExpand {
     0% {
         opacity: 0;
+        -webkit-transform: scaleX(0);
+        transform: scaleX(0);
     }
     20% {
         opacity: 1;
@@ -1164,6 +1163,8 @@ footer .copyright a {
 @keyframes emDashExpand {
     0% {
         opacity: 0;
+        -webkit-transform: scaleX(0);
+        transform: scaleX(0);
     }
     20% {
         opacity: 1;
