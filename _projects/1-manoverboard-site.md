@@ -15,10 +15,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque vo
 
 Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat
 
-<section class="project-column-one">
+`<section class="project-column-one">`        
 
-        ![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)          </section>  <section class="project-column-two">          
+![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)          `</section>  <section class="project-column-two">`          
 
 woo content          
 
-</section>
+`</section>`
