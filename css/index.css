@@ -1091,10 +1091,12 @@ footer .copyright a {
 
 @keyframes emDashExpand {
     from {
+        margin-left: 0px;
         width: 0px;
     }
 
     to {
+        margin-left: -195px;
         width: 265px;
     }
 }
