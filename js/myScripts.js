@@ -34,6 +34,7 @@ $(document).ready(function () {
     // home transition time-out
     // ------------------------------------------------------
 //    $(".home-animation-wrapper").delay( 3000 ).fadeOut( "slow" );
+    $(".text-layer").fadeIn(.25);
     
     // ------------------------------------------------------
     // post transition time-out
