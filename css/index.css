@@ -1085,18 +1085,17 @@ footer .copyright a {
     position: absolute;
     top: 165px;
     margin-left: -195px;
-    animation: emDashExpand .25s;
+    animation: emDashExpand 2s linear forwards;
     animation-delay: .25s;
 }
 
 @keyframes emDashExpand {
     from {
-        transform: scale(0);
-        transform-origin: center;
+        width: 0px;
     }
 
     to {
-        transform: scale(1);
+        width: 265px;
     }
 }
 
