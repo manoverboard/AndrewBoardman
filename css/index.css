@@ -1072,14 +1072,66 @@ footer .copyright a {
 
 .letter-a {
     margin-right: -40px;
-    animation: moveA .8s linear forwards;
+    animation: moveA .8s linear both;
     animation-delay: .25s;
+}
+
+@-webkit-keyframes moveA {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-left: -40px;
+    }
+    100% {
+        margin-left: 120px;
+    }
+}
+
+@keyframes moveA {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-right: -40px;
+    }
+    100% {
+        margin-right: 120px;
+    }
 }
 
 .letter-b {
     margin-left: -40px;
-    animation: moveB .8s linear forwards;
+    animation: moveB .8s linear both;
     animation-delay: .25s;
+}
+
+@-webkit-keyframes moveB {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-left: -40px;
+    }
+    100% {
+        margin-left: 120px;
+    }
+}
+
+@keyframes moveB {
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        margin-left: -40px;
+    }
+    100% {
+        margin-left: 120px;
+    }
 }
 
 .em-dash {
@@ -1089,30 +1141,39 @@ footer .copyright a {
     position: absolute;
     top: 165px;
     margin-left: -185px;
-    -webkit-animation: emDashExpand 0.8s ease-in-out both;
-    animation: emDashExpand 0.8s ease-in-out both;
+    -webkit-animation: emDashExpand 0.8s linear both;
+    animation: emDashExpand 0.8s linear both;
     animation-delay: .25s;
 }
 
 @-webkit-keyframes emDashExpand {
-  0% {
-    -webkit-transform: scaleX(0);
-            transform: scaleX(0);
-  }
-  100% {
-    -webkit-transform: scaleX(1);
-            transform: scaleX(1);
-  }
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        -webkit-transform: scaleX(0);
+        transform: scaleX(0);
+    }
+    100% {
+        -webkit-transform: scaleX(1);
+        transform: scaleX(1);
+    }
 }
+
 @keyframes emDashExpand {
-  0% {
-    -webkit-transform: scaleX(0);
-            transform: scaleX(0);
-  }
-  100% {
-    -webkit-transform: scaleX(1);
-            transform: scaleX(1);
-  }
+    0% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+        -webkit-transform: scaleX(0);
+        transform: scaleX(0);
+    }
+    100% {
+        -webkit-transform: scaleX(1);
+        transform: scaleX(1);
+    }
 }
 
 
@@ -1123,16 +1184,6 @@ footer .copyright a {
 
     to {
         margin-right: 120px;
-    }
-}
-
-@keyframes moveB {
-    from {
-        margin-left: -40px;
-    }
-
-    to {
-        margin-left: 120px;
     }
 }
 
