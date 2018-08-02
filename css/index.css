@@ -1089,21 +1089,32 @@ footer .copyright a {
     position: absolute;
     top: 165px;
     margin-left: -185px;
-    animation: emDashExpand .8s linear forwards;
+    -webkit-animation: emDashExpand 0.8s ease-in-out both;
+    animation: emDashExpand 0.8s ease-in-out both;
     animation-delay: .25s;
 }
 
-@keyframes emDashExpand {
-    from {
-        margin-left: 0px;
-        width: 0px;
-    }
-
-    to {
-        margin-left: -185px;
-        width: 265px;
-    }
+@-webkit-keyframes emDashExpand {
+  0% {
+    -webkit-transform: scaleX(0);
+            transform: scaleX(0);
+  }
+  100% {
+    -webkit-transform: scaleX(1);
+            transform: scaleX(1);
+  }
 }
+@keyframes emDashExpand {
+  0% {
+    -webkit-transform: scaleX(0);
+            transform: scaleX(0);
+  }
+  100% {
+    -webkit-transform: scaleX(1);
+            transform: scaleX(1);
+  }
+}
+
 
 @keyframes moveA {
     from {
