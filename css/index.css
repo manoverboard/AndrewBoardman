@@ -1073,21 +1073,24 @@ footer .copyright a {
 .letter-a {
     margin-right: -40px;
     animation: moveA .8s linear forwards;
+    animation-delay: .25s;
 }
 
 .letter-b {
     margin-left: -40px;
     animation: moveB .8s linear forwards;
+    animation-delay: .25s;
 }
 
 .em-dash {
-    background-color: red;
+    background-color: white;
     height: 34px;
     width: 265px;
     position: absolute;
     top: 165px;
-    margin-left: -195px;
+    margin-left: -185px;
     animation: emDashExpand .8s linear forwards;
+    animation-delay: .25s;
 }
 
 @keyframes emDashExpand {
@@ -1097,7 +1100,7 @@ footer .copyright a {
     }
 
     to {
-        margin-left: -195px;
+        margin-left: -185px;
         width: 265px;
     }
 }
