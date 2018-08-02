@@ -13,7 +13,12 @@ project-excerpt: 'Consectetuer adipiscing elit. Donec odio. Quisquessfsdfasd arg
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
 
-Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat
+Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
 
-<section class="project-column-one" markdown="1">    First Colu_mn Content          </section>  <section class="project-column-two" markdown="1">          Second Column Content_        
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)          </section>  <section class="project-column-two" markdown="1">
+
+well would ya look at that content          
+
 </section>
