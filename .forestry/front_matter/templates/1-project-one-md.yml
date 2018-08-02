@@ -10,7 +10,7 @@ fields:
     required: true
   default: single-project
   description: Do not change this unless you're sure.
-- name: main-title
+- name: title
   label: Main title
   type: text
   hidden: false
