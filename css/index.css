@@ -1070,6 +1070,35 @@ footer .copyright a {
     top: 30vh;
 }
 
+.letter-a {
+    margin-right: -40px;
+}
+
+.letter-b {
+    margin-left: -40px;
+}
+
+.em-dash {
+    background-color: red;
+    height: 34px;
+    width: 265px;
+    position: absolute;
+    top: 165px;
+    margin-left: -195px;
+    animate: emDashExpand .25s;
+}
+
+@keyframes emDashExpand {
+    from {
+        transform: scale(0);
+        transform-origin: center;
+    }
+
+    to {
+        transform: scale(1);
+    }
+}
+
 /* --------------------------------------------------------- */
 
 /* --------------------- Q U E R I E S ----------------------*/
