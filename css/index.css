@@ -1074,12 +1074,14 @@ footer .copyright a {
     margin-right: -40px;
     animation: moveA 1s ease-in-out both;
     animation-delay: .25s;
+    opacity: 0;
 }
 
 .letter-b {
     margin-left: -40px;
     animation: moveB 1s ease-in-out both;
     animation-delay: .25s;
+    opacity: 0;
 }
 
 .em-dash {
