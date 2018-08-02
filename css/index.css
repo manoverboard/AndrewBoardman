@@ -191,7 +191,7 @@ blockquote:before {
 }
 
 hr {
-    border: .5px solid black;
+    border: .5px solid #1B1B1B;
     margin: 3em 0;
 }
 
@@ -393,7 +393,7 @@ pre {
     word-wrap: break-word;
     padding: 1.75em 40px;
     line-height: 1.8;
-    border: 1px solid #000;
+    border: 1px solid #1B1B1B;
 }
 
 p code {
@@ -512,8 +512,8 @@ li p {
     font-family: 'GT America-medium';
     display: inline-block;
     background-color: rgba(0, 0, 0, 0);
-    color: #000 !important;
-    border: 1px solid #000;
+    color: #1B1B1B !important;
+    border: 1px solid #1B1B1B;
     font-size: 140%;
     text-decoration: none !important;
     line-height: 1;
@@ -602,7 +602,7 @@ p .button {
 .zigzag:before {
     height: calc(25px - 4px);
     top: 105%;
-    background: linear-gradient(-135deg, #000 calc(25px/2), transparent 0) 0 calc(25px/2), linear-gradient( 135deg, #000 calc(25px/2), transparent 0) 0 calc(25px/2);
+    background: linear-gradient(-135deg, #1B1B1B calc(25px/2), transparent 0) 0 calc(25px/2), linear-gradient( 135deg, #1B1B1B calc(25px/2), transparent 0) 0 calc(25px/2);
     background-position: top left;
     background-repeat: repeat-x;
     background-size: 25px 25px;
@@ -785,7 +785,7 @@ article.project {
     line-height: 1.875;
     text-decoration: none;
     position: absolute;
-    color: #fff !important;
+    color: #c2c2c2 !important;
 }
 
 .pn-previous {
@@ -819,7 +819,6 @@ article.project {
     transform: rotate(90deg);
 }
 
-
 .pn-next span:after {
     content: "";
     background-image: url(../uploads/down-arrow.png);
@@ -842,6 +841,10 @@ article.project {
     clear: both;
 }
 
+.single-project .project-content p.project-image {
+    max-width: 100% !important;
+}
+
 .single-project .heading h2 {
     display: inline-block;
     padding-left: 40px;
@@ -856,10 +859,23 @@ article.project {
     max-width: 100% !important;
 }
 
-.image-caption {
+p.image-caption {
     text-align: right !important;
     margin-bottom: 2em;
     margin-top: -10px;
+    max-width: 100% !important;
+}
+
+section.project-column-one {
+    width: 48%;
+    display: inline-block;
+    clear: none;
+    margin-right: 3%;
+}
+
+section.project-column-two {
+    width: 48%;
+    display: inline-block;
 }
 
 /* --------------------------------------------------------- */
@@ -1007,7 +1023,7 @@ footer {
 
 footer hr {
     margin: 0 0 40px 0;
-    border: .5px solid black;
+    border: .5px solid #1B1B1B;
     width: 360px;
 }
 
@@ -1106,260 +1122,6 @@ footer .copyright a {
     -webkit-animation-delay: .25s;
 }
 
-/* --------------------------------------------------------- */
-
-/* --------------------- Q U E R I E S ----------------------*/
-
-/* --------------------------------------------------------- */
-
-/* --------------------------------------- 1360 and below */
-
-@media screen and (max-width: 1360px) {
-    /* --------------------- post/page */
-    .main-image-v {
-        width: 38vw;
-    }
-
-    .page aside.inner {
-        position: absolute;
-        max-width: 625px;
-        right: 0;
-        width: 38vw;
-    }
-}
-
-
-/* --------------------------------------- 1250 and below */
-
-@media screen and (max-width: 1250px) {
-    .blog .post h2 {
-        margin-right: 10%;
-    }
-
-    .blog .post .num-and-date {
-        width: 19%;
-    }
-}
-
-
-
-/* ------------------------- main breakpoint -- 1160 and below */
-
-@media screen and (max-width: 1160px) {
-    .wo {
-        padding: 0 60px;
-    }
-
-    /* --------------------- home */
-    .zigzag {
-        margin: 4.5% 0;
-    }
-
-    #latestProject,
-    #latestPost,
-    #Twitter {
-        width: 80%;
-        margin-top: 0;
-        padding-top: 100px;
-        float: left;
-    }
-
-    #latestPost h3,
-    h3.project {
-        margin-bottom: 40px;
-    }
-
-    /* --------------------- latest project */
-    #latestProject .excerpt {
-        max-width: 650px;
-    }
-
-    article.project {
-        padding-top: 0;
-    }
-
-    /* --------------------- latest post */
-    #latestPost .excerpt {
-        width: 65%;
-    }
-
-    #latestPost .image {
-        width: 35%;
-    }
-
-    .latest-post-date {
-        margin-top: -130px;
-    }
-
-    /* --------------------- twitter */
-    #twitter-widget-0 {
-        width: 100% !important;
-        max-width: 100% !important;
-    }
-
-    /* --------------------- about */
-    .main-image-h.about {
-        top: 325px;
-        right: 0;
-        width: 80vw;
-    }
-
-    .about .button {
-        margin-top: -76px;
-        margin-right: -58px;
-    }
-
-    .clients,
-    .articles,
-    .talks {
-        margin-top: 40px !important;
-        max-width: 46% !important;
-    }
-
-    .talks {
-        clear: both;
-    }
-
-    /* --------------------- animation */
-    .text-layer {
-        font-size: 2600%;
-    }
-
-    .em-dash {
-        height: 26px;
-        width: 210px;
-        top: 121px;
-        margin-left: -140px;
-        -webkit-animation: emDashExpand .955s ease-in-out both;
-        animation: emDashExpand .955s ease-in-out both;
-    }
-
-    .letter-a {
-        margin-right: -30px;
-        animation: moveA1160 1s ease-in-out both;
-        -webkit-animation: moveA1160 1s ease-in-out both;
-    }
-
-    .letter-b {
-        margin-left: -30px;
-        animation: moveB1160 1s ease-in-out both;
-        -webkit-animation: moveB1160 1s ease-in-out both;
-    }
-
-}
-
-
-/* --------------------------------------- 800 and below */
-
-@media screen and (max-width: 800px) {
-    .wo {
-        padding: 0 20px;
-    }
-
-    .pv {
-        padding-top: 45px;
-        padding-bottom: 45px;
-    }
-
-    /* ------------------ font shrink */
-    body {
-        font-size: 58%;
-    }
-
-    code {
-        font-size: 150%;
-    }
-
-    .project p,
-    .footer-nav ul li,
-    .project-content p {
-        font-family: 'GT America' !important;
-        font-size: 175%;
-        line-height: 1.5;
-    }
-
-    h1.logo,
-    nav.main-nav ul li {
-        font-size: 175%
-    }
-
-    /* --------------------- home */
-    #latestProject,
-    #latestPost,
-    #Twitter {
-        width: 100%;
-    }
-
-    /* --------------------- animation */
-    .text-layer {
-        font-size: 1500%;
-    }
-
-    .em-dash {
-        height: 15px;
-        width: 120px;
-        top: 65px;
-        margin-left: -80px;
-        -webkit-animation: emDashExpand 1.0555s ease-in-out both;
-        animation: emDashExpand 1.0555s ease-in-out both;
-    }
-
-    .letter-a {
-        margin-right: -20px;
-        animation: moveA800 1s ease-in-out both;
-        -webkit-animation: moveA800 1s ease-in-out both;
-    }
-
-    .letter-b {
-        margin-left: -20px;
-        animation: moveB800 1s ease-in-out both;
-        -webkit-animation: moveB800 1s ease-in-out both;
-    }
-}
-
-
-/* --------------------------------------- 640 and below */
-
-@media screen and (max-width: 640px) {
-    /* --------------------- animation */
-    .text-layer {
-        font-size: 900%;
-    }
-
-    .em-dash {
-        height: 9px;
-        width: 65px;
-        top: 38px;
-        margin-left: -44px;
-        -webkit-animation: emDashExpand .888s ease-in-out both;
-        animation: emDashExpand .888s ease-in-out both;
-    }
-
-    .letter-a {
-        margin-right: 0;
-        animation: moveA640 .8s ease-in-out both;
-        -webkit-animation: moveA640 .8s ease-in-out both;
-    }
-
-    .letter-b {
-        margin-left: 0;
-        animation: moveB640 .8s ease-in-out both;
-        -webkit-animation: moveB640 .8s ease-in-out both;
-    }
-}
-
-
-/* --------------------------------------- 400 and below */
-
-@media screen and (max-width: 480px) {
-    .wo {
-        padding: 0 15px;
-    }
-    .pv {
-        padding-top: 30px;
-        padding-bottom: 30px;
-    }
-}
 
 /* --------------------------------------------------------- */
 
@@ -1620,5 +1382,305 @@ footer .copyright a {
     }
     100% {
         margin-left: 30px;
+    }
+}
+
+
+/* --------------------------------------------------------- */
+
+/* --------------------- Q U E R I E S ----------------------*/
+
+/* --------------------------------------------------------- */
+
+/* --------------------------------------- 1360 and below */
+
+@media screen and (max-width: 1360px) {
+    /* --------------------- post/page */
+    .main-image-v {
+        width: 38vw;
+    }
+
+    .page aside.inner {
+        position: absolute;
+        max-width: 625px;
+        right: 0;
+        width: 38vw;
+    }
+}
+
+
+/* --------------------------------------- 1250 and below */
+
+@media screen and (max-width: 1250px) {
+    .blog .post h2 {
+        margin-right: 10%;
+    }
+
+    .blog .post .num-and-date {
+        width: 19%;
+    }
+}
+
+
+
+/* ------------------------- main breakpoint -- 1160 and below */
+
+@media screen and (max-width: 1160px) {
+    .wo {
+        padding: 0 60px;
+    }
+
+    /* --------------------- home */
+    .zigzag {
+        margin: 4.5% 0;
+    }
+
+    #latestProject,
+    #latestPost,
+    #Twitter {
+        width: 80%;
+        margin-top: 0;
+        padding-top: 100px;
+        float: left;
+    }
+
+    #latestPost h3,
+    h3.project {
+        margin-bottom: 40px;
+    }
+
+    /* --------------------- latest project */
+    #latestProject .excerpt {
+        max-width: 650px;
+    }
+
+    article.project {
+        padding-top: 0;
+    }
+
+    /* --------------------- latest post */
+    #latestPost .excerpt {
+        width: 65%;
+    }
+
+    #latestPost .image {
+        width: 35%;
+    }
+
+    .latest-post-date {
+        margin-top: -130px;
+    }
+
+    /* --------------------- twitter */
+    #twitter-widget-0 {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    /* --------------------- about */
+    .main-image-h.about {
+        top: 325px;
+        right: 0;
+        width: 80vw;
+    }
+
+    .about .button {
+        margin-top: -76px;
+        margin-right: -58px;
+    }
+
+    .clients,
+    .articles,
+    .talks {
+        margin-top: 40px !important;
+        max-width: 46% !important;
+    }
+
+    .talks {
+        clear: both;
+    }
+    
+    /* --------------------- single-project */
+    
+    .single-project .heading h2 {
+        display: block;
+        padding-left: 0;
+    }
+    
+    .single-project .project-content {
+        padding-top: 50px;
+    }
+    
+    .pn-next,
+    .pn-previous {
+        bottom: -70px;
+    }
+
+    /* --------------------- animation */
+    .text-layer {
+        font-size: 2600%;
+    }
+
+    .em-dash {
+        height: 26px;
+        width: 210px;
+        top: 121px;
+        margin-left: -140px;
+        -webkit-animation: emDashExpand .955s ease-in-out both;
+        animation: emDashExpand .955s ease-in-out both;
+    }
+
+    .letter-a {
+        margin-right: -30px;
+        animation: moveA1160 1s ease-in-out both;
+        -webkit-animation: moveA1160 1s ease-in-out both;
+    }
+
+    .letter-b {
+        margin-left: -30px;
+        animation: moveB1160 1s ease-in-out both;
+        -webkit-animation: moveB1160 1s ease-in-out both;
+    }
+
+}
+
+
+/* --------------------------------------- 800 and below */
+
+@media screen and (max-width: 800px) {
+    .wo {
+        padding: 0 20px;
+    }
+
+    .pv {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+
+    /* ------------------ font shrink */
+    body {
+        font-size: 58%;
+    }
+
+    code {
+        font-size: 150%;
+    }
+
+    .project p,
+    .footer-nav ul li,
+    .project-content p {
+        font-family: 'GT America' !important;
+        font-size: 175%;
+        line-height: 1.5;
+    }
+
+    h1.logo,
+    nav.main-nav ul li {
+        font-size: 175%
+    }
+
+    /* --------------------- home */
+    #latestProject,
+    #latestPost,
+    #Twitter {
+        width: 100%;
+    }
+    
+    /* --------------------- projects page */
+    .projects .project:nth-child(odd),
+    .projects .project:nth-child(even) {
+        width: 100%;
+        max-width: 100%;
+        float: none;
+        display: block;
+    }
+    
+    .projects .project:nth-child(2) .content h3 {
+        width: 100%;
+        padding-right: 0;
+    }
+    
+    .projects .project:nth-child(2) .content .excerpt {
+        width: 100%;
+    }
+    
+    .projects .project p.excerpt {
+        padding-top: 20px !important;
+        margin-top: 0 !important;
+    }
+    
+    .projects .project h3 {
+        padding-top: 30px !important;
+        margin-top: 0;
+    }
+
+    /* --------------------- animation */
+    .text-layer {
+        font-size: 1500%;
+    }
+
+    .em-dash {
+        height: 15px;
+        width: 120px;
+        top: 65px;
+        margin-left: -80px;
+        -webkit-animation: emDashExpand 1.0555s ease-in-out both;
+        animation: emDashExpand 1.0555s ease-in-out both;
+    }
+
+    .letter-a {
+        margin-right: -20px;
+        animation: moveA800 1s ease-in-out both;
+        -webkit-animation: moveA800 1s ease-in-out both;
+    }
+
+    .letter-b {
+        margin-left: -20px;
+        animation: moveB800 1s ease-in-out both;
+        -webkit-animation: moveB800 1s ease-in-out both;
+    }
+}
+
+
+/* --------------------------------------- 640 and below */
+
+@media screen and (max-width: 640px) {
+    /* --------------------- animation */
+    .text-layer {
+        font-size: 900%;
+    }
+
+    .em-dash {
+        height: 9px;
+        width: 65px;
+        top: 38px;
+        margin-left: -44px;
+        -webkit-animation: emDashExpand .888s ease-in-out both;
+        animation: emDashExpand .888s ease-in-out both;
+    }
+
+    .letter-a {
+        margin-right: 0;
+        animation: moveA640 .8s ease-in-out both;
+        -webkit-animation: moveA640 .8s ease-in-out both;
+    }
+
+    .letter-b {
+        margin-left: 0;
+        animation: moveB640 .8s ease-in-out both;
+        -webkit-animation: moveB640 .8s ease-in-out both;
+    }
+}
+
+
+/* --------------------------------------- 400 and below */
+
+@media screen and (max-width: 480px) {
+    .wo {
+        padding: 0 15px;
+    }
+    .pv {
+        padding-top: 30px;
+        padding-bottom: 30px;
     }
 }

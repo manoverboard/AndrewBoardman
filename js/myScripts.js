@@ -1,6 +1,15 @@
 $(document).ready(function () {
 
     // ------------------------------------------------------
+    // restrict hovers to non-touch devices 
+    // ------------------------------------------------------
+
+    var touchsupport = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0);
+    if (!touchsupport) { // browser doesn't support touch
+        document.documentElement.className += " non-touch";
+    }
+
+    // ------------------------------------------------------
     // blog page hover state 
     // ------------------------------------------------------
     $(".post .post-title a").hover(function () {
@@ -39,10 +48,16 @@ $(document).ready(function () {
     // ------------------------------------------------------
     $(".home-animation-wrapper").delay(1500).fadeOut("slow");
 
+
     // ------------------------------------------------------
     // post transition time-out
     // ------------------------------------------------------
     $(".post-transition").delay(500).fadeOut("slow");
+
+    // ------------------------------------------------------
+    // project image size fix
+    // ------------------------------------------------------
+    $(".single-project .project-content p img").parent().addClass("project-image");
 
 
 });
