@@ -1072,12 +1072,14 @@ footer .copyright a {
 
 .letter-a {
     margin-right: -40px;
-    animation: moveA 1 linear both;
+    animation: moveA 1s linear both;
+    animation-dely: .25s;
 }
 
 .letter-b {
     margin-left: -40px;
     animation: moveB 1s linear both;
+    animation-dely: .25s;
 }
 
 .em-dash {
@@ -1087,8 +1089,9 @@ footer .copyright a {
     position: absolute;
     top: 165px;
     margin-left: -185px;
-    -webkit-animation: emDashExpand 1 linear both;
-    animation: emDashExpand 1 linear both;
+    -webkit-animation: emDashExpand 1s linear both;
+    animation: emDashExpand 1s linear both;
+    animation-dely: .25s;
 }
 
 @-webkit-keyframes moveA {
