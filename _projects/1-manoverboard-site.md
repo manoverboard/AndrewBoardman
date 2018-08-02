@@ -17,10 +17,19 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 
 <div class="project-two-column">
     <div class="project-column-one">
-       ![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
-    </div>
+       ![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)    
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
+
+Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.
+
+</div>
 
     <div class="project-column-two">
         ![](/uploads/ducks-test.png)
-    </div>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
+
+Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.    
+
+</div>
 </div>
