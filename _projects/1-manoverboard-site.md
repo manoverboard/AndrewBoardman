@@ -9,7 +9,9 @@ project-excerpt: 'Consectetuer adipiscing elit. Donec odio. Quisquessfsdfasd arg
   a, pede. '
 
 ---
-![the manoverboard homepage in 2004](/uploads/uploads/project.png "Homepage, 2004")
+![the manoverboard homepage in 2004](/uploads/uploads/project.png)
+
+{% include image-caption.html caption="Manoverboard, 2004" %}
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
 
@@ -17,12 +19,14 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 
 <section class="project-column-one" markdown="1">
 
-![Kitten](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg "Wow Kitty")          
+![Kitten](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
 
-</section>  
+{% include image-caption.html caption="wow a kitten" %}
+
+</section>
 
 <section class="project-column-two" markdown="1">
 
-well would ya look at that content          
+well would ya look at that content
 
 </section>
