@@ -1100,10 +1100,10 @@ footer .copyright a {
     }
     20% {
         opacity: 1;
-        margin-left: -40px;
+        margin-right: -40px;
     }
     100% {
-        margin-left: 120px;
+        margin-right: 120px;
     }
 }
 
