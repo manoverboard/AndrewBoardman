@@ -15,6 +15,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque vo
 
 Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat
 
-<div class="project-two-column"> <div class="project-column-one"markdown="1">          \*First Column Cont_nt\*          </div>_  
+<section class="project-column-one">
 
-_<div class="project-column-two"_ markdown="1"_>          \*Second Column Content\*          </div>_ </div>
+        ![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)          </section>  <section class="project-column-two">          
+
+woo content          
+
+</section>
