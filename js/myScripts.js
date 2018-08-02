@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    
+
     // ------------------------------------------------------
     // blog page hover state 
     // ------------------------------------------------------
@@ -21,25 +21,25 @@ $(document).ready(function () {
     $(".page aside").css({
         "top": $pageImageHeight
     });
-    
+
     // ------------------------------------------------------
     // display image title tag as a caption below image
     // ------------------------------------------------------
     var title = $('img').attr('title');
-    if (title != null ) {
+    if (title != null) {
         $('img').after("<span class='image-caption'>" + title + "</span>");
     }
-    
+
     // ------------------------------------------------------
     // home transition time-out
     // ------------------------------------------------------
-//    $(".home-animation-wrapper").delay( 3000 ).fadeOut( "slow" );
+    $(".home-animation-wrapper").delay(1500).fadeOut("slow");
     $(".text-layer").fadeIn();
-    
+
     // ------------------------------------------------------
     // post transition time-out
     // ------------------------------------------------------
-    $(".post-transition").delay( 500 ).fadeOut( "slow" );
+    $(".post-transition").delay(500).fadeOut("slow");
 
 
 });
