@@ -17,7 +17,9 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 
 <section class="project-column-one" markdown="1">
 
-![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)          </section>  <section class="project-column-two" markdown="1">
+![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)          </section>  
+
+<section class="project-column-two" markdown="1">
 
 well would ya look at that content          
 
