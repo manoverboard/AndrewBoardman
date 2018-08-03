@@ -1499,18 +1499,17 @@ footer .copyright a {
     .talks {
         clear: both;
     }
-    
+
     /* --------------------- single-project */
-    
     .single-project .heading h2 {
         display: block;
         padding-left: 0;
     }
-    
+
     .single-project .project-content {
         padding-top: 50px;
     }
-    
+
     .pn-next,
     .pn-previous {
         bottom: -70px;
@@ -1579,13 +1578,47 @@ footer .copyright a {
         font-size: 175%
     }
 
+    .projects h1,
+    .single-project h1,
+    .about h1,
+    .page .h1 {
+        font-size: 1000%;
+    }
+
+    .blog h1 {
+        font-size: 1200%;
+    }
+
+    h2,
+    .h2 {
+        font-size: 400%;
+    }
+
+    h3.project {
+        font-size: 600%;
+    }
+
+    .post-number {
+        font-size: 400% !important;
+    }
+
+    .single-post .heading .post-number {
+        padding-bottom: 0;
+    }
+
     /* --------------------- home */
     #latestProject,
     #latestPost,
     #Twitter {
         width: 100%;
     }
-    
+
+    #twitter-widget-0 {
+        max-width: 297px !important;
+    }
+
+
+
     /* --------------------- projects page */
     .projects .project:nth-child(odd),
     .projects .project:nth-child(even) {
@@ -1594,21 +1627,21 @@ footer .copyright a {
         float: none;
         display: block;
     }
-    
+
     .projects .project:nth-child(2) .content h3 {
         width: 100%;
         padding-right: 0;
     }
-    
+
     .projects .project:nth-child(2) .content .excerpt {
         width: 100%;
     }
-    
+
     .projects .project p.excerpt {
         padding-top: 20px !important;
         margin-top: 0 !important;
     }
-    
+
     .projects .project h3 {
         padding-top: 30px !important;
         margin-top: 0;
