@@ -1615,6 +1615,11 @@ footer .copyright a {
     .single-post .heading .post-number {
         padding-bottom: 0;
     }
+    
+     .about h2,
+    .single-post .heading h2 {
+        max-width: 100%;
+    }
 
     /* --------------------- home */
     #latestProject,
@@ -1701,6 +1706,7 @@ footer .copyright a {
     .talks {
         max-width: 100% !important;
     }
+    
 }
 
 
