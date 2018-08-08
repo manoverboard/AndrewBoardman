@@ -2,8 +2,8 @@
     <hr>
     <div class="copyright">
         <p>
-            &copy; {{ 'now' | date: "%Y" }} 
-            <a href="{{ "/" | absolute_url }}">A—B</a>
+            &copy; {{ 'now' | date: "%Y" }}
+            <a href="{{ " / " | absolute_url }}">A—B</a>
         </p>
     </div>
 
@@ -17,7 +17,23 @@
         </ul>
     </div>
 
+    <a href="#top" id="top-button" onclick="scrollToTop();return false">
+       <img src="../uploads/down-arrow.png" alt="Back to Top">
+    </a>
+
 </footer>
+
+<script>
+    // ----------------------------------------------------------
+    // Back To Top
+    // ----------------------------------------------------------
+    function scrollToTop() {
+        if (document.body.scrollTop !== 0 || document.documentElement.scrollTop !== 0) {
+            window.scrollBy(0, -100);
+            requestAnimationFrame(scrollToTop);
+        }
+    }
+</script>
 </body>
 
 </html>

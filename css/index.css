@@ -62,7 +62,6 @@ section {
 /* --------------------- Image Effects */
 
 img {
-    background-color: #0033A0;
     filter: grayscale(100%);
     width: 100%;
 }
@@ -129,6 +128,17 @@ nav.main-nav ul li:after {
 nav.main-nav ul li:last-child:after {
     content: "";
     padding: 0;
+}
+
+#top-button {
+    width: 32px !important;
+    max-width: 32px !important;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
 }
 
 /* --------------------------------------------------------- */
@@ -1650,6 +1660,7 @@ footer .copyright a {
     /* --------------------- animation */
     .text-layer {
         font-size: 1500%;
+        top: 35vh;
     }
 
     .em-dash {
@@ -1672,15 +1683,38 @@ footer .copyright a {
         animation: moveB800 1s ease-in-out both;
         -webkit-animation: moveB800 1s ease-in-out both;
     }
+
+    .post-number-transition {
+        font-size: 2000%;
+        top: 35vh;
+    }
+
+    /* --------------------- about */
+    .about .button {
+        float: left;
+        margin: 0 !important;
+        margin-top: 35px !important;
+    }
+
+    .clients,
+    .articles,
+    .talks {
+        max-width: 100% !important;
+    }
 }
 
 
 /* --------------------------------------- 640 and below */
 
 @media screen and (max-width: 640px) {
+    section.project-column-one,
+    section.project-column-two {
+        width: 100%;
+    }
     /* --------------------- animation */
     .text-layer {
         font-size: 900%;
+        top: 40vh;
     }
 
     .em-dash {

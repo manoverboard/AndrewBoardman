@@ -1,4 +1,19 @@
 $(document).ready(function () {
+    
+    // ------------------------------------------------------
+    // back to top hide/show 
+    // ------------------------------------------------------
+    
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function() {
+        var currentScrollPos = window.pageYOffset;
+        if (prevScrollpos > currentScrollPos) {
+            document.getElementById("top-button").style.bottom = "20px"
+        } else {
+            document.getElementById("top-button").style.bottom = "-120px"
+        }
+        prevScrollpos = currentScrollPos
+    }
 
     // ------------------------------------------------------
     // restrict hovers to non-touch devices 
@@ -58,6 +73,9 @@ $(document).ready(function () {
     // project image size fix
     // ------------------------------------------------------
     $(".single-project .project-content p img").parent().addClass("project-image");
+    
 
+
+    
 
 });
