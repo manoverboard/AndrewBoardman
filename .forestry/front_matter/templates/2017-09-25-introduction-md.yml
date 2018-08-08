@@ -17,7 +17,7 @@ fields:
     step: '1'
     required: true
   description: The rotalic number beside each post.
-- name: title
+- name: main-title
   label: Title
   type: text
   hidden: false
