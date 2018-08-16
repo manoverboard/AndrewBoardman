@@ -378,10 +378,11 @@ h4 {
 /* H5 */
 
 h5 {
-    font-size: 200%;
-    font-family: 'GT America-medium';
+    font-family: 'GT Sectra Fine';
+    font-size: 220%;    
     margin-top: 30px;
     margin-bottom: 10px;
+    
 }
 
 /* H6 */
@@ -420,8 +421,8 @@ code {
 /* --------------------- Lists */
 
 .single-post ul {
-    padding-top: .5em;
-    margin-left: 80px;
+    font-family: 'GT Sectra Fine';
+    margin-left: 30px;
     list-style-type: none;
 }
 
@@ -435,11 +436,17 @@ code {
     font-size: 160%;
 }
 
+.single-post ul li,
+.project-content ul li {
+    position: relative;
+}
+
 .single-post ul li:before,
 .project-content ul li:before {
     font-family: 'GT Sectra Fine';
     content: "•";
-    padding-right: 15px;
+    position: absolute;
+    left: -20px;
 }
 
 ul ul {
@@ -460,14 +467,15 @@ ul ul ul {
 
 .project-content ul,
 .project-content ol {
-    font-family: 'GT America';
+    font-family: 'GT America' !important;
     font-size: 80%;
     line-height: 1.875;
 }
 
 .single-post ol {
+    font-family: 'GT Sectra Fine';
     padding-top: .5em;
-    margin-left: 95px;
+    margin-left: 35px;
 }
 
 .project-content ol {
@@ -585,6 +593,11 @@ p .button {
 
 .home .content {
     padding-top: 160px;
+}
+
+.time-message {
+    background-color: hsla(221, 100%, 60%, .25);
+    padding: 0 5px 2px 5px;
 }
 
 /* --------------------- zigzag */
@@ -867,6 +880,7 @@ article.project {
 .project-content p img {
     margin: 3em 0 1em 0;
     max-width: 100% !important;
+    filter: none !important;
 }
 
 p.image-caption {
@@ -925,6 +939,9 @@ section.project-column-two {
 
 /* --------------------- Single Post */
 
+.single-post .post p img {
+    filter: none !important
+}
 .single-post .heading {
     padding-top: 120px;
 }

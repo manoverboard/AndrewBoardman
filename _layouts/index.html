@@ -25,8 +25,8 @@
                 {{ page.sub-title }}
             </h3>
             <p class="h3">
-                {{ page.timing-pre }} 
-                
+                {{ page.timing-pre }}
+                <span class="time-message">
                 {% if page.custom-time-message != "" %}
                     {{ page.custom-time-message }}
                 {% else %}
@@ -40,7 +40,7 @@
                     {% endif %}
                 
                 {% endif %}
-                
+                </span>
             </p>
         </div>
     </main>
