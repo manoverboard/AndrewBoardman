@@ -1,11 +1,11 @@
 $(document).ready(function () {
-    
+
     // ------------------------------------------------------
     // back to top hide/show 
     // ------------------------------------------------------
-    
+
     var prevScrollpos = window.pageYOffset;
-    window.onscroll = function() {
+    window.onscroll = function () {
         var currentScrollPos = window.pageYOffset;
         if (prevScrollpos > currentScrollPos) {
             document.getElementById("top-button").style.bottom = "20px"
@@ -61,7 +61,7 @@ $(document).ready(function () {
     // ------------------------------------------------------
     // home transition time-out
     // ------------------------------------------------------
-    $(".home-animation-wrapper").delay(1500).fadeOut("slow");
+    $(".home-animation-wrapper").delay(800).fadeOut("slow");
 
 
     // ------------------------------------------------------
@@ -69,13 +69,14 @@ $(document).ready(function () {
     // ------------------------------------------------------
     $(".post-transition").delay(500).fadeOut("slow");
 
+
     // ------------------------------------------------------
     // project image size fix
     // ------------------------------------------------------
     $(".single-project .project-content p img").parent().addClass("project-image");
-    
 
 
-    
+
+
 
 });
