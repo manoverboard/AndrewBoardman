@@ -985,11 +985,6 @@ blockquote p:after {
     max-width: 500px;
 }
 
-.about .button {
-    float: right;
-    margin-top: 100px;
-}
-
 .list-wrapper {
     clear: both;
     display: block;
@@ -1269,6 +1264,11 @@ footer .copyright a {
     .blog .post .num-and-date {
         width: 19%;
     }
+    
+    .single-post .heading h2 {
+        padding-right: 88px;
+        max-width: 640px;
+    }
 }
 
 
@@ -1288,7 +1288,7 @@ footer .copyright a {
     #latestProject,
     #latestPost,
     #Twitter {
-        width: 80%;
+        width: 100%;
         margin-top: 0;
         padding-top: 100px;
         float: left;
@@ -1311,6 +1311,7 @@ footer .copyright a {
     /* --------------------- latest post */
     #latestPost .excerpt {
         width: 65%;
+        padding-right: 20px;
     }
 
     #latestPost .image {
@@ -1324,7 +1325,7 @@ footer .copyright a {
     /* --------------------- twitter */
     #twitter-widget-0 {
         width: 100% !important;
-        max-width: 100% !important;
+        max-width: 460px !important;
     }
 
     /* --------------------- about */
@@ -1334,15 +1335,10 @@ footer .copyright a {
         width: 80vw;
     }
 
-    .about .button {
-        margin-top: -76px;
-        margin-right: -58px;
-    }
-
     .clients,
     .articles,
     .talks {
-        margin-top: 40px !important;
+        margin-top: 0 !important;
         max-width: 46% !important;
     }
 
@@ -1364,20 +1360,52 @@ footer .copyright a {
     .pn-previous {
         bottom: -70px;
     }
+    
+     /* --------------------- single-post */
+    .single-post.inner {
+        margin-top: 8vw;
+    }
 
 }
 
+/* --------------------------------------- 1000 and below */
+@media screen and (max-width: 1000px) {
+    .home .content {
+        margin-top: 24vw;
+    }
+    
+    .blog .post-wrapper {
+        padding-top: 10vw;
+    }
+    
+    .blog {
+        padding-top: 45vw;
+    }
+}
+    
 
 /* --------------------------------------- 800 and below */
 
 @media screen and (max-width: 800px) {
     .wo {
-        padding: 0 20px;
+        padding: 0 30px;
     }
 
     .pv {
         padding-top: 45px;
         padding-bottom: 45px;
+    }
+    
+    nav.main-nav {
+        padding-top: 35px;
+    }
+    
+    .main-image-h {
+        top: 95px !important;
+    }
+    
+     .single-post.inner {
+        margin-top: 24vw;
     }
 
     /* ------------------ font shrink */
@@ -1435,18 +1463,6 @@ footer .copyright a {
         max-width: 100%;
     }
 
-    /* --------------------- home */
-    #latestProject,
-    #latestPost,
-    #Twitter {
-        width: 100%;
-    }
-
-    #twitter-widget-0 {
-        max-width: 297px !important;
-    }
-
-
 
     /* --------------------- projects page */
     .projects .project:nth-child(odd),
@@ -1478,11 +1494,6 @@ footer .copyright a {
 
 
     /* --------------------- about */
-    .about .button {
-        float: left;
-        margin: 0 !important;
-        margin-top: 35px !important;
-    }
 
     .clients,
     .articles,
@@ -1492,14 +1503,35 @@ footer .copyright a {
 
 }
 
-
+@media screen and (max-width: 700px) {
+   .main-image-v {
+        top: 95px !important;
+    }
+}
 /* --------------------------------------- 640 and below */
 
 @media screen and (max-width: 640px) {
+    
     section.project-column-one,
     section.project-column-two {
         width: 100%;
     }
+    
+    /* ------------------ post/blog */
+    #latestPost .post-date,
+    .blog .post .post-date {
+        display: none;
+    }
+    
+    .blog .post h2 {
+        margin-right: 5%;
+        width: 79% !important;
+    }
+
+    .blog .post .num-and-date {
+        width: 15%;
+    }
+    
 
 }
 
