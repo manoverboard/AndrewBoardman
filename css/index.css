@@ -1518,6 +1518,12 @@ footer .copyright a {
     main.about {
         margin-top: 38vw !important;
     }
+    
+     /* --------------------- default page */
+    .page h2 {
+        padding-right: 20px;
+        max-width: 100%;
+    }
 
 }
 
@@ -1525,6 +1531,7 @@ footer .copyright a {
    .main-image-v {
         top: 95px !important;
     }
+    
 }
 /* --------------------------------------- 640 and below */
 
@@ -1558,6 +1565,12 @@ footer .copyright a {
     
     main.about {
         margin-top: 62vw !important;
+    }
+    
+    /* ------------------ default page */
+    
+     .page main {
+        margin-top: 60vw !important;
     }
     
 
