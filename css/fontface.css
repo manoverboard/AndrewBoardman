@@ -14,6 +14,7 @@
     url('../webfonts/GT_Haptik/GT-Haptik-Medium-Rotalic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 /* ------------- GT America */
@@ -27,6 +28,7 @@
     url('../webfonts/GT_America_Standard/Regular/GT-America-Standard-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -38,6 +40,7 @@
     url('../webfonts/GT_America_Standard/Medium/GT-America-Standard-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 /* ------------- GT America Mono */
@@ -50,6 +53,7 @@
     url('../webfonts/GT_America_Mono/GT-America-Mono-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 
@@ -64,6 +68,7 @@
     url('../webfonts/GT_Sectra_Display/Medium/GT-Sectra-Display-Medium.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -75,6 +80,7 @@
     url('../webfonts/GT_Sectra_Display/Bold/GT-Sectra-Display-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 /* ------------- GT Sectra Fine */
@@ -88,6 +94,7 @@
     url('../webfonts/GT_Sectra_Fine/Regular/GT-Sectra-Fine-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -99,4 +106,5 @@
     url('../webfonts/GT_Sectra_Fine/Regular_Italic/GT-Sectra-Fine-Regular-Italic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
