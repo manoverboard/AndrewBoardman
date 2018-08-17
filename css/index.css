@@ -1365,6 +1365,20 @@ footer .copyright a {
     .single-post.inner {
         margin-top: 8vw;
     }
+    
+    /* --------------------- default-page */    
+    .page aside.inner {
+        display: block;
+        float: left;
+        position: relative;
+        max-width: 650px;
+        top: 0 !important;
+        right: 0;
+        width: 100%;
+        /******/
+        border-top: 1px solid black;
+        padding-top: 40px;
+    }
 
 }
 
@@ -1500,6 +1514,10 @@ footer .copyright a {
     .talks {
         max-width: 100% !important;
     }
+    
+    main.about {
+        margin-top: 38vw !important;
+    }
 
 }
 
@@ -1530,6 +1548,16 @@ footer .copyright a {
 
     .blog .post .num-and-date {
         width: 15%;
+    }
+    
+    /* ------------------ about */
+    
+    .about h2 {
+        padding-right: 20px;
+    }
+    
+    main.about {
+        margin-top: 62vw !important;
     }
     
 
