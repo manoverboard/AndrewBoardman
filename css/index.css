@@ -62,6 +62,7 @@ section {
 /* --------------------- Image Effects */
 
 img {
+     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
     width: 100%;
 }
@@ -71,6 +72,7 @@ img {
 }
 
 .image:hover img {
+     -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
 }
 
@@ -880,6 +882,7 @@ article.project {
 .project-content p img {
     margin: 3em 0 1em 0;
     max-width: 100% !important;
+     -webkit-filter: none !important;
     filter: none !important;
 }
 
@@ -940,7 +943,8 @@ section.project-column-two {
 /* --------------------- Single Post */
 
 .single-post .post p img {
-    filter: none !important
+     -webkit-filter: none !important;
+    filter: none !important;
 }
 .single-post .heading {
     padding-top: 120px;
@@ -1114,10 +1118,10 @@ footer .copyright a {
     position: absolute;
     top: 30vh;
     /****/
+     -webkit-animation: fadeIn 1.05s ease-in-out both;
     animation: fadeIn 1.05s ease-in-out both;
-    -webkit-animation: fadeIn 1.05s ease-in-out both;
-    animation-delay: .25s;
     -webkit-animation-delay: .25s;
+    animation-delay: .25s;
 }
 
 .letter-a {
@@ -1218,6 +1222,17 @@ footer .copyright a {
 /* ------------------ K E Y F R A M E S ---------------------*/
 
 /* --------------------------------------------------------- */
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    30% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 1;
+    }
+}
 
 @keyframes fadeIn {
     0% {
