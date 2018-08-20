@@ -17,6 +17,23 @@ checkbox {
     color: #1B1B1B;
 }
 
+input,
+textarea,
+radio,
+checkbox {
+    border: 1px solid #1B1B1B;
+    box-shadow: none;
+    line-height: 1.5;
+}
+
+input:focus,
+textarea:focus,
+radio:focus,
+checkbox:focus,
+button:focus a:focus {
+    outline: solid #0033A0 2px !important;
+}
+
 #wrapper {
     position: relative;
 }
@@ -62,7 +79,7 @@ section {
 /* --------------------- Image Effects */
 
 img {
-     -webkit-filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
     width: 100%;
 }
@@ -72,7 +89,7 @@ img {
 }
 
 .image:hover img {
-     -webkit-filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
 }
 
@@ -381,10 +398,10 @@ h4 {
 
 h5 {
     font-family: 'GT Sectra Fine', sans-serif;
-    font-size: 220%;    
+    font-size: 220%;
     margin-top: 30px;
     margin-bottom: 10px;
-    
+
 }
 
 /* H6 */
@@ -546,6 +563,22 @@ li p {
     background-color: #0033A0;
     border: 1px solid #0033A0;
     color: #fff !important;
+}
+
+.button-small {
+    font-family: 'GT America-medium', sans-serif;
+    display: inline;
+    background-color: rgba(0, 0, 0, 0);
+    color: #1B1B1B !important;
+    border: 0px;
+    font-size: 100%;
+    text-decoration: none !important;
+    line-height: 1;
+    transition: .3s all ease-in-out;
+}
+
+.button-small:hover {
+    color: #0033A0 !important;
 }
 
 /* prevent font-size compounding */
@@ -882,7 +915,7 @@ article.project {
 .project-content p img {
     margin: 3em 0 1em 0;
     max-width: 100% !important;
-     -webkit-filter: none !important;
+    -webkit-filter: none !important;
     filter: none !important;
 }
 
@@ -943,9 +976,10 @@ section.project-column-two {
 /* --------------------- Single Post */
 
 .single-post .post p img {
-     -webkit-filter: none !important;
+    -webkit-filter: none !important;
     filter: none !important;
 }
+
 .single-post .heading {
     padding-top: 120px;
 }
@@ -1074,6 +1108,20 @@ footer .copyright a {
     border: none;
 }
 
+#subForm {
+    display: inline-block;
+    margin-left: 10vw;
+}
+
+#subForm p {
+    display: inline;
+}
+
+#fieldEmail {
+    font-size: 100%;
+    padding: 3px 8px;
+}
+
 /* --------------------------------------------------------- */
 
 /* ------------------- A N I M A T I O N --------------------*/
@@ -1118,7 +1166,7 @@ footer .copyright a {
     position: absolute;
     top: 30vh;
     /****/
-     -webkit-animation: fadeIn 1.05s ease-in-out both;
+    -webkit-animation: fadeIn 1.05s ease-in-out both;
     animation: fadeIn 1.05s ease-in-out both;
     -webkit-animation-delay: .25s;
     animation-delay: .25s;
@@ -1222,6 +1270,7 @@ footer .copyright a {
 /* ------------------ K E Y F R A M E S ---------------------*/
 
 /* --------------------------------------------------------- */
+
 @-webkit-keyframes fadeIn {
     0% {
         opacity: 0;
@@ -1279,7 +1328,7 @@ footer .copyright a {
     .blog .post .num-and-date {
         width: 19%;
     }
-    
+
     .single-post .heading h2 {
         padding-right: 88px;
         max-width: 640px;
@@ -1375,13 +1424,13 @@ footer .copyright a {
     .pn-previous {
         bottom: -70px;
     }
-    
-     /* --------------------- single-post */
+
+    /* --------------------- single-post */
     .single-post.inner {
         margin-top: 8vw;
     }
-    
-    /* --------------------- default-page */    
+
+    /* --------------------- default-page */
     .page aside.inner {
         display: block;
         float: left;
@@ -1398,20 +1447,21 @@ footer .copyright a {
 }
 
 /* --------------------------------------- 1000 and below */
+
 @media screen and (max-width: 1000px) {
     .home .content {
         margin-top: 24vw;
     }
-    
+
     .blog .post-wrapper {
         padding-top: 10vw;
     }
-    
+
     .blog {
         padding-top: 45vw;
     }
 }
-    
+
 
 /* --------------------------------------- 800 and below */
 
@@ -1424,16 +1474,16 @@ footer .copyright a {
         padding-top: 45px;
         padding-bottom: 45px;
     }
-    
+
     nav.main-nav {
         padding-top: 35px;
     }
-    
+
     .main-image-h {
         top: 95px !important;
     }
-    
-     .single-post.inner {
+
+    .single-post.inner {
         margin-top: 24vw;
     }
 
@@ -1523,46 +1573,57 @@ footer .copyright a {
 
 
     /* --------------------- about */
-
     .clients,
     .articles,
     .talks {
         max-width: 100% !important;
     }
-    
+
     main.about {
         margin-top: 38vw !important;
     }
-    
-     /* --------------------- default page */
+
+    /* --------------------- default page */
     .page h2 {
         padding-right: 20px;
         max-width: 100%;
     }
 
+    /* --------------------- footer */
+    #subForm {
+        display: inline;
+        margin-left: 0;
+        margin-top: 30px;
+    }
+
+    #fieldEmail {
+        margin-top: 40px;
+    }
+
 }
 
 @media screen and (max-width: 700px) {
-   .main-image-v {
+    .main-image-v {
         top: 95px !important;
     }
-    
+
 }
+
 /* --------------------------------------- 640 and below */
 
 @media screen and (max-width: 640px) {
-    
+
     section.project-column-one,
     section.project-column-two {
         width: 100%;
     }
-    
+
     /* ------------------ post/blog */
     #latestPost .post-date,
     .blog .post .post-date {
         display: none;
     }
-    
+
     .blog .post h2 {
         margin-right: 5%;
         width: 79% !important;
@@ -1571,23 +1632,21 @@ footer .copyright a {
     .blog .post .num-and-date {
         width: 15%;
     }
-    
+
     /* ------------------ about */
-    
     .about h2 {
         padding-right: 20px;
     }
-    
+
     main.about {
         margin-top: 62vw !important;
     }
-    
+
     /* ------------------ default page */
-    
-     .page main {
+    .page main {
         margin-top: 60vw !important;
     }
-    
+
 
 }
 
