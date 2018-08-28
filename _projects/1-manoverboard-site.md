@@ -32,3 +32,20 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 {% include image-caption.html caption="Ducks Unlimited" %}
 
 </section>
+
+
+
+
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)         
+
+{% include image-caption.html caption="-----YOUR CAPTION HERE-----" %}
+
+</section>  
+
+<section class="project-column-two" markdown="1">  
+
+![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)      
+
+</section>
