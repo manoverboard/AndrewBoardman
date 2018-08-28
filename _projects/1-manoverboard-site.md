@@ -48,4 +48,6 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 
 ![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)      
 
+{% include image-caption.html caption="-----YOUR CAPTION HERE-----" %}
+
 </section>
