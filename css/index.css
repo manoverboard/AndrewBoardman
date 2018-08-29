@@ -920,6 +920,8 @@ article.project {
 }
 
 p.image-caption {
+    font-family: 'GT America', sans-serif !important;
+    font-size: 160% !important;
     text-align: right !important;
     margin-bottom: 2em;
     margin-top: -10px;
@@ -1085,7 +1087,7 @@ footer hr {
     margin: 0 30px 40px 0;
     border: .5px solid #1B1B1B;
     width: 100%;
-    max-width: 600px;
+    max-width: 630px;
 }
 
 .copyright {
@@ -1542,6 +1544,10 @@ footer .copyright a {
     .single-post .heading h2 {
         max-width: 100%;
     }
+    
+    figcaption {
+        line-height: 1.15;
+    }
 
 
     /* --------------------- projects page */
@@ -1633,6 +1639,10 @@ footer .copyright a {
     .blog .post .num-and-date {
         width: 15%;
     }
+    
+    .blog h1 {
+        font-size: 22vw;
+    }
 
     /* ------------------ about */
     .about h2 {
@@ -1647,6 +1657,12 @@ footer .copyright a {
     .page main {
         margin-top: 60vw !important;
     }
+    
+    .page .h1 {
+        font-size: 20vw;
+    }
+    
+    
 
 
 }
