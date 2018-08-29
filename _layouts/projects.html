@@ -13,10 +13,12 @@
         {% for project in site.projects %}
         <div class="project">
 
-            <div class="image">
-                <img src="{{ project.main-image | absolute_url }}" alt="{{ project.title }}">
-                <div class="blue-overlay"></div>
-            </div>
+            <a href="{{ project.url | absolute_url }}">
+                <div class="image">
+                    <img src="{{ project.main-image | absolute_url }}" alt="{{ project.title }}">
+                    <div class="blue-overlay"></div>
+                </div>
+            </a>
 
             <div class="content">
 
