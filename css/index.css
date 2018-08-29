@@ -1257,15 +1257,15 @@ footer .copyright a {
         height: 9px;
         width: 65px;
         top: 38px;
-        margin-left: -60px;
+        margin-left: -63px;
     }
 
     .letter-a {
-        margin-left: 30px;
+        margin-left: 0px;
     }
 
     .letter-b {
-        margin-left: 30px;
+        margin-left: 20px;
     }
 }
 
@@ -1338,8 +1338,6 @@ footer .copyright a {
         max-width: 640px;
     }
 }
-
-
 
 /* ------------------------- main breakpoint -- 1160 and below */
 
@@ -1454,7 +1452,7 @@ footer .copyright a {
 
 @media screen and (max-width: 1000px) {
     .home .content {
-        margin-top: 20vw;
+        margin-top: 24vw;
     }
 
     .blog .post-wrapper {
@@ -1462,7 +1460,7 @@ footer .copyright a {
     }
 
     .blog {
-        padding-top: 45vw;
+        padding-top: 60vw;
     }
 }
 
@@ -1678,5 +1676,9 @@ footer .copyright a {
     .pv {
         padding-top: 30px;
         padding-bottom: 30px;
+    }
+    
+    .home .content {
+        margin-top: 20vw;
     }
 }
