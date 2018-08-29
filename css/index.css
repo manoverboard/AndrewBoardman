@@ -140,7 +140,7 @@ nav.main-nav ul li {
 }
 
 nav.main-nav ul li:after {
-    content: '—';
+    content: "\2014";
     padding: 0 5px;
 }
 
@@ -1082,9 +1082,10 @@ footer {
 }
 
 footer hr {
-    margin: 0 0 40px 0;
+    margin: 0 30px 40px 0;
     border: .5px solid #1B1B1B;
-    width: 360px;
+    width: 100%;
+    max-width: 600px;
 }
 
 .copyright {
@@ -1110,7 +1111,7 @@ footer .copyright a {
 
 #subForm {
     display: inline-block;
-    margin-left: 10vw;
+    margin-left: 30px;
 }
 
 #subForm p {
@@ -1450,7 +1451,7 @@ footer .copyright a {
 
 @media screen and (max-width: 1000px) {
     .home .content {
-        margin-top: 24vw;
+        margin-top: 20vw;
     }
 
     .blog .post-wrapper {
