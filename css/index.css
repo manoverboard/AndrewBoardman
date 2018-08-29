@@ -24,6 +24,7 @@ checkbox {
     border: 1px solid #1B1B1B;
     box-shadow: none;
     line-height: 1.5;
+    -webkit-appearance: none;
 }
 
 input:focus,

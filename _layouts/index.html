@@ -33,11 +33,81 @@
     
                     {% assign hour = 'now' | date: '%H' %}
                 
-                    {% if hour == '8' or hour == '9' or hour == '10' or hour == '11' or hour == '12' or hour == '13' or hour == '14' or hour == '15' or hour == '16' or hour == '17' or hour == '18' %}
-                        at work.
-                    {% else %}
-                        sleeping.
+                   {% if hour == '0' or hour == '1' or hour == '2' or hour == '3' or hour == '4' or hour == '5' %}
+                        sleeping away.
                     {% endif %}
+                    
+                    {% if hour == '6' %}
+                        eating breakfast.
+                    {% endif %}
+
+                    {% if hour == '7' %}
+                        on a run.
+                    {% endif %}
+                    
+                    {% if hour == '8' %}
+                        meditating.
+                    {% endif %}
+                    
+                    {% if hour == '9' %}
+                        writing.
+                    {% endif %}
+                    
+                    {% if hour == '10' %}
+                        reading something or other.
+                    {% endif %}
+                    
+                    {% if hour == '11' %}
+                        working on a project.
+                    {% endif %}
+                    
+                    {% if hour == '12' %}
+                        eating some kind of lunch.
+                    {% endif %}
+                    
+                    {% if hour == '13' %}
+                        talking briefly on the phone.
+                    {% endif %}
+                    
+                    {% if hour == '14' %}
+                        developing a plan.
+                    {% endif %}
+                    
+                    {% if hour == '15' %}
+                        somehow managing.
+                    {% endif %}
+                    
+                    {% if hour == '16' %}
+                        writing.
+                    {% endif %}
+                    
+                    {% if hour == '17' %}
+                        solving some sort of problem.
+                    {% endif %}
+                    
+                    {% if hour == '18' %}
+                        eating dinner.
+                    {% endif %}
+                    
+                    {% if hour == '19' %}
+                        avoiding the Twitter.
+                    {% endif %}
+                    
+                    {% if hour == '20' %}
+                        washing dishes/doing nothing.
+                    {% endif %}
+                    
+                     {% if hour == '21' %}
+                        working on tomorrow.
+                    {% endif %}
+                    
+                     {% if hour == '22' %}
+                        reading a book.
+                    {% endif %}
+                    
+                     {% if hour == '23' %}
+                        reading a magazine.
+                     {% endif %}
                 
                 {% endif %}
                 </span>
