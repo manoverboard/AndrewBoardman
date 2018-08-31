@@ -1396,10 +1396,11 @@ footer .copyright a {
     }
 
     /* --------------------- about */
+
     .main-image-h.about {
-        top: 325px;
+        top: 96px;
         right: 0;
-        width: 80vw;
+        width: 78vw;
     }
 
     .clients,
@@ -1480,10 +1481,6 @@ footer .copyright a {
 
     nav.main-nav {
         padding-top: 35px;
-    }
-
-    .main-image-h {
-        top: 95px !important;
     }
 
     .single-post.inner {
@@ -1628,6 +1625,10 @@ footer .copyright a {
 /* --------------------------------------- 640 and below */
 
 @media screen and (max-width: 640px) {
+    
+    .main-image-h {
+        top: 95px !important;
+    }
 
     section.project-column-one,
     section.project-column-two {
