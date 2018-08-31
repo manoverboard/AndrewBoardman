@@ -3,7 +3,7 @@ layout: index
 label: Time Prequisite
 type: text
 name: timing-pre
-title: ''
+title: Home
 main-title: Andrew Boardman is a designer, writer and evolutionary finalist.
 main-image: "/uploads/main-image.jpg"
 sub-title: This is his site. It only took about fifty-one years to make.
