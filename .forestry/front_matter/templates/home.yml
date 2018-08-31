@@ -15,7 +15,7 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: Home
   config:
     required: false
   description: This changes the HTML <title> tag.
