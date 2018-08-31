@@ -17,7 +17,7 @@ fields:
   hidden: false
   default: ''
   config:
-    required: true
+    required: false
   description: This changes the HTML <title> tag.
 - name: main-image
   label: Main image
