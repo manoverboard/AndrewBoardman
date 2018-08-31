@@ -35,6 +35,10 @@ button:focus a:focus {
     outline: solid #0033A0 2px !important;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 #wrapper {
     position: relative;
 }
