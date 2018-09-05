@@ -1,0 +1,34 @@
+---
+title: Andrew Boardman
+short_title: A — B
+description: Andrew Boardman is a designer, artist, writer and evolutionary finalist.
+baseurl: 
+markdown: kramdown
+include:
+- ".htaccess"
+- img-size-guide.jpg
+permalink: "/:path/"
+defaults:
+- scope:
+    path: _page
+  values: 
+  layout: page
+- scope:
+    path: ''
+    type: posts
+    values:
+      layout: post
+collections:
+  posts:
+    output: true
+  projects:
+    output: true
+    permalink: "/projects/:path/"
+jekyll-archives:
+  enabled: all
+  layout: archive
+plugins:
+- jekyll-menus
+- jekyll-feed
+- jekyll-archives
+timezone: America/Chicago
