@@ -640,6 +640,7 @@ p .button {
     opacity: .6;
     padding: 0 5px;
     margin-left: -3px;
+    /** will this work **/
 }
 
 /* --------------------- zigzag */
