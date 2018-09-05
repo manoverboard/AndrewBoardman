@@ -639,6 +639,7 @@ p .button {
 .time-message {
     opacity: .6;
     padding: 0 5px;
+    margin-left: -2px;
 }
 
 /* --------------------- zigzag */
