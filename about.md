@@ -57,7 +57,8 @@ about-content: I founded Manoverboard, a design studio focused on driving social
   B.A. from Brown University and and M.F.A from the University at Albany SUNY. I received
   a Fulbright Fellowship and a New York Foundation for the Arts Fellowship. I worked
   at the The Rockefeller Foundation for many years. I was an instructor at Red River
-  College and served as provincial chapter president of Graphic Designers of Canada.<br><br>Contact
+  College and served as provincial chapter president of Graphic Designers of Canada.<br><br>I
+  live in Winnipeg, Canada. It took 13.8 billion years for me to get here.<br><br>Contact
   me at <a href="mailto:andrew@manoverboard.com" title="">andrew@manoverboard.com</a>
 menu:
   navigation:
