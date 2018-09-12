@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-09-12T18:45:32-05:00</updated><id>/feed.xml</id><title type="html">Andrew Boardman</title><subtitle>Andrew Boardman is a designer, artist, writer and evolutionary finalist.</subtitle><entry><title type="html">A silly post about cats (not).</title><link href="/2018-07-30-a-silly-post-about-cats-not/" rel="alternate" type="text/html" title="A silly post about cats (not)." /><published>2018-07-29T19:00:00-05:00</published><updated>2018-07-29T19:00:00-05:00</updated><id>/a-silly-post-about-cats-not</id><content type="html" xml:base="/2018-07-30-a-silly-post-about-cats-not/">&lt;p&gt;Here is a draft of the third post. It can’t be bad so it has to be great.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-a-header-3-looks&quot;&gt;How a header 3 looks&lt;/h3&gt;
+
+&lt;h4 id=&quot;here-is-how-a-header-4-looks&quot;&gt;Here is how a header 4 looks&lt;/h4&gt;</content><author><name></name></author><summary type="html">This is the excerpt so make it really good, man.</summary></entry><entry><title type="html">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque</title><link href="/2018-01-01-test/" rel="alternate" type="text/html" title="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque" /><published>2018-07-26T16:21:44-05:00</published><updated>2018-07-26T16:21:44-05:00</updated><id>/test</id><content type="html" xml:base="/2018-01-01-test/">&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.&lt;/p&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sel8vwjylze2la.preview.forestry.io/projects/6-project-six/google.com&quot; title=&quot;Google&quot;&gt;Lorem ipsum do&lt;/a&gt;lor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis e_ros. Nulla_m malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.&lt;/p&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.&lt;/p&gt;
+
+&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. &lt;strong&gt;Quisque volutpat&lt;/strong&gt; mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &amp;lt;img class=&quot;section-image&quot; src=&quot;&amp;lt;?php bloginfo('stylesheet_directory'); ?&amp;gt;/img/files-folder.png&quot; alt=&quot;&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. &lt;strong&gt;Quisque volutpat&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. &lt;strong&gt;Quisque volutpat&lt;/strong&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. &lt;strong&gt;Quisque volutpat&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. &lt;strong&gt;Quisque volutpat&lt;/strong&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. &lt;strong&gt;Quisque volutpat&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. &lt;strong&gt;Quisque volutpat&lt;/strong&gt;
+        &lt;ol&gt;
+          &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. &lt;strong&gt;Quisque volutpat&lt;/strong&gt;
+            &lt;ol&gt;
+              &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. &lt;strong&gt;Quisque volutpat&lt;/strong&gt;&lt;/li&gt;
+            &lt;/ol&gt;
+          &lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://sel8vwjylze2la.preview.forestry.io/uploads/main-image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;image-caption&quot;&gt;
+    Andrew
+&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name></name></author><summary type="html">Perhaps I should write an excerpt... or maybe not. copy paste copy Perhaps I should write an excerpt... or maybe not. copy paste Perhaps I should write an excerpt... or maybe not. copy paste copy paste</summary></entry><entry><title type="html">Another Post</title><link href="/2017-09-25-introduction/" rel="alternate" type="text/html" title="Another Post" /><published>2017-12-31T06:00:00-06:00</published><updated>2017-12-31T06:00:00-06:00</updated><id>/introduction</id><content type="html" xml:base="/2017-09-25-introduction/">&lt;p&gt;If you haven’t read an article about creating for the web, well, you’re about to. It’s not going to be very long but you might actually enjoy it. In fact, I’m willing to bet that this will be the best piece about the web that you’ve read in a few years. It’s about responsibility and how, before activism can even begin, designers need to start taking serious care of the world. No more designing for shitty companies and no more designing for multinational hellholes that don’t respect your work.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare.&lt;/p&gt;
+
+&lt;h3 id=&quot;this-makes-sense-as-an-h3-right&quot;&gt;This makes sense as an H3, right?&lt;/h3&gt;
+
+&lt;p&gt;Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+  &lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+  &lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
+  &lt;li&gt;Nunc dignissim risus id metus.&lt;/li&gt;
+  &lt;li&gt;Cras ornare tristique elit.&lt;/li&gt;
+  &lt;li&gt;Vivamus vestibulum ntulla nec ante.&lt;/li&gt;
+  &lt;li&gt;Praesent placerat risus quis eros.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;this-makes-sense-as-an-h4-right&quot;&gt;This makes sense as an H4, right?&lt;/h4&gt;
+
+&lt;p&gt;Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor.&lt;/p&gt;</content><author><name></name></author><summary type="html">If you haven’t read an article about creating for the web, well, you’re about to. It’s not going to be very long but you might actually enjoy it. In fact, I’m willing to bet that this will be the best piece about the web that you’ve read in a few years. Another sentence</summary></entry></feed>
