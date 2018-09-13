@@ -31,8 +31,6 @@ list1:
   link: http://iwwr.ducks.ca/
 - item: Also EQ3, IISD, Acumen, Generation, Renewal Funds
   link: ''
-- item: Also EQ3, IISD, Acumen, Generation, Renewal Funds
-  link: ''
 list_2_title: A few pieces I wrote.
 fields:
 - label: Item
@@ -42,18 +40,26 @@ fields:
   type: text
   name: link
 list2:
-- item: Hey Andrew
+- item: Designers and Despotism
+  link: https://manoverboard.com/designers-and-despotism/
+- item: The Sustainable Web
+  link: https://manoverboard.com/the-sustainable-web-or-how-we-must-communicate/
+- item: Marketing and Military Language
+  link: https://manoverboard.com/marketing-and-military-language/
+- item: Will the Digital Future Be Green?
+  link: https://bthechange.com/will-the-digital-future-be-green-6cd2bbd34f4a
+- item: Daddy, How Were Websites Made?
+  link: https://medium.com/ecosystem-monkeys/daddy-how-were-websites-made-b0b324e35bf7
+- item: Xu Bing’s Square Words and the Fragility of Language
   link: ''
-- item: Item 2
-  link: google.com
-- item: Acumen
-  link: https://acumen.org
 list_3_title: A few talks I gave.
 list3:
 - item: Serving Green
   link: http://www.sustainableux.com/talks/2017/boardman/
 - item: The Bonsai Web (Red River College)
   link: https://www.rrc.ca/creativearts/graphic-design-advanced/
+- item: The Bonsai Web (online)
+  link: https://www.youtube.com/watch?v=fM21W5dStkg
 - item: 'Online News: The Canary in the Coal Mine'
   link: http://www.sustainableux.com/talks/2016/boardman/
 - item: Design for Learning
