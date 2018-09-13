@@ -31,6 +31,8 @@ list1:
   link: http://iwwr.ducks.ca/
 - item: Also EQ3, IISD, Acumen, Generation, Renewal Funds
   link: ''
+- item: Also EQ3, IISD, Acumen, Generation, Renewal Funds
+  link: ''
 list_2_title: A few pieces I wrote.
 fields:
 - label: Item
