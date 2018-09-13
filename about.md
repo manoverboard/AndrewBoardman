@@ -91,6 +91,5 @@ menu:
     identifier: _about
     url: "/about/"
     weight: 3
-published: false
 
 ---
