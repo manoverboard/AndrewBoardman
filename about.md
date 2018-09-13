@@ -51,20 +51,19 @@ list3:
   link: google.com
 about-content: “To see a World in a Grain of Sand<br>And a Heaven in a Wild Flower,<br>Hold
   Infinity in the palm of your hand<br>And Eternity in an hour.”<br>-William Blake,
-  <em>Augeries of Innocence</em> (c. 1803)<br><br>What exists beyond our shadows?
-  How is the infinite reflected in language and in the continuum of history's unfolding
-  tragedies and triumphs? How does design reconfigure and relish our answers? These
-  are the questions that challenge me in my work and my practice.<br><br>Who am I?
-  I manage a purpose-driven design studio called Manoverboard. We focus on driving
-  social change through human-centered design and digital strategy. The company started
-  in 2002 in Brooklyn with the idea of pushing the boundaries of design for innovative
-  businesses and nonprofit organizations. Mostly what I do at Manoverboard is design
-  interfaces, plan projects and send emails.<br><br>What else? I cut my teeth designing
-  Barneys New York’s first e-commerce site. I have a degree from Brown University
-  and an MFA from SUNY Albany and I received a Fulbright Fellowship and a NYFA Fellowship.
-  For many years, I also worked at the The Rockefeller Foundation.<br><br>Today, I
-  live in Winnipeg, Canada. It took 13.8 billion years for me to get here.<br><br>You
-  can contact me at <a href="mailto:andrew@manoverboard.com" title="">andrew@manoverboard.com</a>
+  <em>Augeries of Innocence</em> (c. 1803)<br><br>What exists beyond our mere shadows?
+  How is the infinite reflected in the continuum of history's unfolding triumphs and
+  tragedies? How do we design our own answers? These are the questions that challenge
+  me in my work and my practice.<br><br>Who am I? I manage a design studio called
+  Manoverboard. We focus on helping  drive social change through human-centered design
+  and digital strategy. The business started in 2002 out of my apartment in Brooklyn.
+  At Manoverboard, I design interfaces, plan projects and send a lot of emails.<br><br>What
+  else? I cut my teeth designing Barneys New York’s first e-commerce site. I have
+  a degree from Brown University and an MFA from SUNY Albany. I also received a Fulbright
+  Fellowship and a NYFA Fellowship. I also worked at The Rockefeller Foundation for
+  many years.<br><br>Today, I live in Winnipeg, Canada. It took 13.8 billion years
+  for me to get here.<br><br>You can contact me at <a href="mailto:andrew@manoverboard.com"
+  title="">andrew@manoverboard.com</a>
 menu:
   navigation:
     identifier: _about
