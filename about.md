@@ -21,14 +21,14 @@ list_1_title: A few clients at Manoverboard.
 list1:
 - item: Greyston
   link: https://greyston.org/
+- item: Maestral
+  link: http://maestral.org/
 - item: HeartShare
   link: https://www.heartshare.org/
 - item: SJF Ventures
   link: http://sjfventures.com/
-- item: Red River College
-  link: https://www.rrc.ca/
-- item: Maestral
-  link: http://maestral.org/
+- item: Ducks Unlimited Canada
+  link: http://iwwr.ducks.ca/
 - item: Also EQ3, IISD, Acumen, Generation, Renewal Funds
   link: ''
 list_2_title: A few pieces I wrote.
@@ -48,8 +48,14 @@ list2:
   link: https://acumen.org
 list_3_title: A few talks I gave.
 list3:
-- item: Acumen Fund
-  link: google.com
+- item: Design for Learning
+  link: http://cprs.mb.ca/design-for-learning-the-future-of-the-web/
+- item: Putting Your Type on the Line
+  link: https://newmediamanitoba.com/events/2/type-on-the-line
+- item: Responsive Web Design
+  link: https://newmediamanitoba.com/events/205/responsive-web-design
+- item: Red River College
+  link: https://www.rrc.ca/creativearts/graphic-design-advanced/
 about-content: '“To see a World in a Grain of Sand<br>And a Heaven in a Wild Flower,<br>Hold
   Infinity in the palm of your hand<br>And Eternity in an hour.”<br>-William Blake,
   <a href="https://www.poetryfoundation.org/poems/43650/auguries-of-innocence" title="full
