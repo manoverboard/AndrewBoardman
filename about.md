@@ -29,8 +29,8 @@ list1:
   link: http://sjfventures.com/
 - item: Ducks Unlimited Canada
   link: http://iwwr.ducks.ca/
-- item: Also EQ3, IISD, Acumen, Generation, Renewal Funds
-  link: ''
+- item: Serving Green
+  link: https://serving.green/
 list_2_title: A few pieces I wrote.
 fields:
 - label: Item
