@@ -50,14 +50,18 @@ list2:
   link: https://acumen.org
 list_3_title: A few talks I gave.
 list3:
+- item: Serving Green
+  link: http://www.sustainableux.com/talks/2017/boardman/
+- item: The Bonsai Web (Red River College)
+  link: https://www.rrc.ca/creativearts/graphic-design-advanced/
+- item: 'Online News: The Canary in the Coal Mine'
+  link: http://www.sustainableux.com/talks/2016/boardman/
 - item: Design for Learning
   link: http://cprs.mb.ca/design-for-learning-the-future-of-the-web/
 - item: Putting Your Type on the Line
   link: https://newmediamanitoba.com/events/2/type-on-the-line
 - item: Responsive Web Design
   link: https://newmediamanitoba.com/events/205/responsive-web-design
-- item: Red River College
-  link: https://www.rrc.ca/creativearts/graphic-design-advanced/
 about-content: '“To see a World in a Grain of Sand<br>And a Heaven in a Wild Flower,<br>Hold
   Infinity in the palm of your hand<br>And Eternity in an hour.”<br>-William Blake,
   <a href="https://www.poetryfoundation.org/poems/43650/auguries-of-innocence" title="full
