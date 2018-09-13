@@ -31,7 +31,7 @@ list1:
   link: http://maestral.org/
 - item: Also EQ3, IISD, Acumen, Generation, Renewal Funds
   link: ''
-list_2_title: A few articles I wrote.
+list_2_title: A few pieces I wrote.
 fields:
 - label: Item
   type: text
