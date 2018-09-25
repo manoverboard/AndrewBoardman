@@ -61,7 +61,7 @@ $(document).ready(function () {
     // ------------------------------------------------------
     // home transition time-out
     // ------------------------------------------------------
-    $(".home-animation-wrapper").delay(800).fadeOut("slow");
+    $(".home-animation-wrapper").delay(3000).fadeOut("slow");
 
 
     // ------------------------------------------------------

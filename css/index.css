@@ -124,6 +124,10 @@ img {
 
 /* --------------------------------------------------------- */
 
+nav a {
+    border-bottom: 0px !important;
+}
+
 nav.main-nav {
     display: block;
     width: 100%;
@@ -192,13 +196,15 @@ strong {
 
 a {
     color: #1B1B1B !important;
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: 1px solid black;
 }
 
 a:hover {
     text-decoration: none;
-    color: #0033A0 !important;
-    text-decoration: underline;
+    color: #1B1B1B !important;
+    text-decoration: none;
+    border-bottom: 1px solid black;
 }
 
 figcaption {
@@ -356,6 +362,7 @@ h3 {
 .home .content .h3 {
     font-family: 'GT America', sans-serif;
     font-size: 200%;
+        max-width: 500px;
 }
 
 h3.project {
@@ -566,9 +573,9 @@ li p {
 }
 
 .button:hover {
-    background-color: #0033A0;
-    border: 1px solid #0033A0;
-    color: #fff !important;
+    background-color: #1B1B1B;
+    border: 1px solid #1B1B1B;
+    color: white !important;
 }
 
 .button-small {
@@ -751,6 +758,11 @@ article.project {
     max-width: 40% !important;
 }
 
+h3.project a {
+    text-decoration: none;
+    border-bottom: 0px !important;
+}
+
 
 /* --------------------------------------------------------- */
 
@@ -852,6 +864,7 @@ article.project {
     text-decoration: none;
     position: absolute;
     color: #c2c2c2 !important;
+    border-bottom: 0px !Important;
 }
 
 .pn-previous {
@@ -869,7 +882,7 @@ article.project {
 .pn-previous:hover,
 .pn-next:hover {
     text-decoration: none;
-    color: #0033A0 !important;
+    color: #1B1B1B !important;
 }
 
 .pn-previous span:before {
@@ -1033,6 +1046,10 @@ blockquote p:after {
     max-width: 500px;
 }
 
+.about h2 {
+    border-bottom: 0px !Important;
+}
+
 .list-wrapper {
     clear: both;
     display: block;
@@ -1066,6 +1083,7 @@ blockquote p:after {
     margin-top: 70px;
     max-width: 70vw;
     padding-right: 20vw;
+    border-bottom: 0px !important;
 }
 
 .page .content {
