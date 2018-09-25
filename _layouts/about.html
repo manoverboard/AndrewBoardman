@@ -36,19 +36,16 @@
             <ul>
                 {% for list in page.list1 %}
                 
-                
-                {% if list.link == nil %}
+                {% if list.link == "" %}
                 <li> {{ list.item }} </li>
-                {% endif %}
                 
-                {% if list.link != nil %}
+                {% elsif list.link != "" %}
                 <li>
                     <a href="{{ list.link }}">
                         {{ list.item }}
                     </a>
                 </li>
                 {% endif %}
-                
                 
                 {% endfor %}
             </ul>
@@ -62,11 +59,10 @@
             <ul> {% for list in page.list2 %}
                 
                 
-                {% if list.link == nil %}
+                {% if list.link == "" %}
                 <li> {{ list.item }} </li>
-                {% endif %}
                 
-                {% if list.link != nil %}
+                {% elsif list.link != "" %}
                 <li>
                     <a href="{{ list.link }}">
                         {{ list.item }}
@@ -88,11 +84,10 @@
             <ul> {% for list in page.list3 %}
                 
                 
-                {% if list.link == nil %}
+                {% if list.link == "" %}
                 <li> {{ list.item }} </li>
-                {% endif %}
                 
-                {% if list.link != nil %}
+                {% elsif list.link != "" %}
                 <li>
                     <a href="{{ list.link }}">
                         {{ list.item }}
