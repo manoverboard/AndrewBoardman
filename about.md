@@ -84,7 +84,8 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   I have a degree from Brown University and an MFA from SUNY Albany. I also received
   a Fulbright Fellowship and a NYFA Fellowship. I also worked at The Rockefeller Foundation
   for many years. Today, I live in Winnipeg, Canada. </p><p>It took 13.8 billion years
-  for me to get here. Go ahead and <a href="" title="">email me</a>.</p>
+  for me to get here. Go ahead and <a href="mailto:andrew@manoverboard.com" title="">email
+  me</a>.</p>
 menu:
   navigation:
     identifier: _about
