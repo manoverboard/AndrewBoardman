@@ -68,24 +68,23 @@ list3:
   link: https://newmediamanitoba.com/events/2/type-on-the-line
 - item: Responsive Web Design
   link: https://newmediamanitoba.com/events/205/responsive-web-design
-about-content: “To see a World in a Grain of Sand<br>And a Heaven in a Wild Flower,<br>Hold
-  Infinity in the palm of your hand<br>And Eternity in an hour.”<br>-William Blake,
-  <a href="https://www.poetryfoundation.org/poems/43650/auguries-of-innocence" title="full
-  poem">Augeries of Innocence</a> (c. 1803)<br><br>What exists beyond our mere shadows?
-  How is the infinite reflected in the continuum of history's unfolding triumphs and
-  tragedies? How do we design our own answers? These are the questions that challenge
-  me in my work and my practice.<br><br>Who am I? I manage a design studio called
-  Manoverboard. We focus on helping drive social change through human-centered design
-  and digital strategy. The business started in 2002 out of my apartment in Brooklyn.
-  At Manoverboard, I design interfaces, plan projects and send a lot of emails. In
-  my spare time, I draw and write. I'm developing a book on design responsibility.
-  I recently taught design at Red River College. And I have a family that I adore.
-  <br><br>What else? I cut my teeth designing Barneys New York’s first e-commerce
-  site. I have a degree from Brown University and an MFA from SUNY Albany. I also
-  received a Fulbright Fellowship and a NYFA Fellowship. I also worked at The Rockefeller
-  Foundation for many years. Today, I live in Winnipeg, Canada. <br><br>It took 13.8
-  billion years for me to get here. Go ahead and <a href="mailto:andrew@manoverboard.com"
-  title="real email">email me</a>.
+about-content: "> “To see a World in a Grain of Sand  \n> And a Heaven in a Wild Flower,
+  \ \n> Hold Infinity in the palm of your hand  \n> And Eternity in an hour.”  \n>
+  \\-William Blake, [Augeries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence)
+  (c. 1803)\n\nWhat exists beyond our mere shadows? How is the infinite reflected
+  in the continuum of history's unfolding triumphs and tragedies? How do we design
+  our own answers? These are the questions that challenge me in my work and my practice.\n\nWho
+  am I? I manage a design studio called Manoverboard. We focus on helping drive social
+  change through human-centered design and digital strategy. The business started
+  in 2002 out of my apartment in Brooklyn. At Manoverboard, I design interfaces, plan
+  projects and send a lot of emails. In my spare time, I draw and write. I'm developing
+  a book on design responsibility. I recently taught design at Red River College.
+  And I have a family that I adore. \n\nWhat else? I cut my teeth designing Barneys
+  New York’s first e-commerce site. I have a degree from Brown University and an MFA
+  from SUNY Albany. I also received a Fulbright Fellowship and a NYFA Fellowship.
+  I also worked at The Rockefeller Foundation for many years. Today, I live in Winnipeg,
+  Canada. \n\nIt took 13.8 billion years for me to get here. Go ahead and [email me](mailto:andrew@manoverboard.com
+  \"real email\")."
 menu:
   navigation:
     identifier: _about
