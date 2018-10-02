@@ -1046,9 +1046,18 @@ blockquote p:after {
 
 /* --------------------------------------------------------- */
 
-.about p.description {
+.about .description {
     margin-top: 50px;
     max-width: 500px;
+}
+
+.about .description blockquote:before {
+    display: none;
+}
+
+.about .description blockquote {
+    font-size: 90%;
+    margin: 0;
 }
 
 .about h2 {
