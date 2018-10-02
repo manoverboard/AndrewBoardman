@@ -41,7 +41,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: html
+      format: markdown
 - name: resume-link
   label: Resumé link
   type: file
