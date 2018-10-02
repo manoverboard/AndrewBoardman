@@ -638,6 +638,11 @@ p .button {
 /* ------------------------ H O M E -------------------------*/
 
 /* --------------------------------------------------------- */
+.home-background {
+    background-image: url(../uploads/stars.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+}
 
 .home .content {
     padding-top: 160px;
