@@ -17,16 +17,20 @@ list_2_title: ''
 list2: []
 list_3_title: ''
 list3: []
-sidebar_content: "<p>There may be a reason for this sidebar. Better to code it and
-  have it available than not code and not have it available. Things this could be:</p><ul><li><p>A
-  caption</p></li><li><p>A note</p></li><li><p>a smily :/</p></li><li><p>neato</p></li><li><p>test</p></li></ul>"
+sidebar_content: <h4>Those that have influenced the making of this site:</h4><ul><li><p><a
+  href="" title="">Sonic Youth</a> (long live them)</p></li><li><p><a href="https://www.tessparks.com/"
+  title="">Tess Parks</a> and <a href="https://thebrianjonestownmassacre.com/" title="">Brian
+  Jonestown Massacre</a> (also that)</p></li><li><p>Elliott Smith (musician)</p></li><li><p><a
+  href="https://www.artsy.net/artist/philip-guston" title="">Philip Guston</a> (painter)</p></li></ul>
 main_image: "/uploads/uploads/sonic-youth.png"
 menu:
   footer:
     weight: 1
 
 ---
-Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neqe. Nunc dignissim risus id metus.
+Nothing comes easy — even when those things that are easy. There are thousands of people that have directly and indirectly helped make this site, from elementary school teachers to recent friends. Putting a value and weight on the causality of any production is difficult. But, what the hell, and here's a list.
+
+I'm also including a list of software and tools. This is a different site than most, in part because of the technologies behind it.
 
 #### People who made this site:
 
@@ -41,13 +45,5 @@ Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Lorem ipsum 
 * [Sketch](https://www.sketchapp.com/) (vector graphics editor)
 * [Adobe]() Photoshop and XD (raster and vector graphic editors)
 * [Forestry]() (static CMS made in Halifax, Canada)
-* [Markup language]() (aka HTML)
-* [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS) (aka CSS)
-
-#### Artists that influenced the making of this site:
-
-* [Sonic Youth]() (long live them)
-* [Tess Parks](https://www.tessparks.com/) and [Brian Jonestown Massacre](https://thebrianjonestownmassacre.com/) (also that)
-* Elliott Smith (musician)
-* [Philip Guston](https://www.artsy.net/artist/philip-guston) (painter)
-* 
+* [Markup language]() (in this case, HTML)
+* [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS) (CSS)
