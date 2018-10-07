@@ -5,7 +5,8 @@ type: field_group_list
 name: list3
 title: About
 main-image: "/uploads/main-image.jpg"
-sub-title: This site is entirely my doing. Except for some things.
+sub-title: This site is entirely my doing. Except for many things. Most of them I
+  know about.
 description: I founded Manoverboard, a design studio focused on driving social change,
   in 2002 in Brooklyn with the idea of pushing the boundaries of design for innovative
   businesses and nonprofit organizations. Mostly what I do there is design and send
