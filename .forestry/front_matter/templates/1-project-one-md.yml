@@ -34,6 +34,7 @@ fields:
   description: Less than 200 characters // This shows up on the Projects Page, and
     on the Home Page feature box.
 pages:
+- _projects/circus.md
 - _projects/furnishing.md
 - _projects/traces.md
 - _projects/1-manoverboard-site.md
