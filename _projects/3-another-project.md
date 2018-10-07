@@ -1,5 +1,5 @@
 ---
-title: Another Project
+title: Another Project (old)
 layout: single-project
 date: 2018-08-02 20:18:13 +0000
 main-title: Yep another one
