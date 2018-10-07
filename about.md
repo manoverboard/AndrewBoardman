@@ -70,22 +70,25 @@ list3:
   link: https://newmediamanitoba.com/events/205/responsive-web-design
 about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Heaven
   in a Wild Flower, <br>Hold Infinity in the palm of your hand <br>And Eternity in
-  an hour.” <br>-William Blake, <a href="https://www.poetryfoundation.org/poems/43650/auguries-of-innocence"
-  title="">Augeries of Innocence</a> (c. 1803) </p></blockquote><p>What exists beyond
+  an hour.” <br>—William Blake, <a href="https://www.poetryfoundation.org/poems/43650/auguries-of-innocence"
+  title="">Augeries of Innocence</a> (c. 1803)</p></blockquote><p>What exists beyond
   our mere shadows? How is the infinite reflected in the continuum of history's unfolding
-  triumphs and tragedies? How do we design our own answers? These are the questions
-  that challenge me in my work and my practice. </p><p>Who am I? I manage a design
-  studio called Manoverboard. We focus on helping drive social change through human-centered
-  design and digital strategy. The business started in 2002 out of my apartment in
-  Brooklyn. At Manoverboard, I design interfaces, plan projects and send a lot of
-  emails. In my spare time, I draw and write. I'm developing a book on design responsibility.
-  I recently taught design at Red River College. And I have a family that I adore.
-  </p><p>What else? I cut my teeth designing Barneys New York’s first e-commerce site.
-  I have a degree from Brown University and an MFA from SUNY Albany. I also received
-  a Fulbright Fellowship and a NYFA Fellowship. I also worked at The Rockefeller Foundation
-  for many years. Today, I live in Winnipeg, Canada. </p><p>It took 13.8 billion years
-  for me to get here. Go ahead and <a href="mailto:andrew@manoverboard.com" title="">email
-  me</a>.</p>
+  triumphs and atrocious tragedies? How do we design our own answers? And how do individual
+  responses and commentaries matter?</p><p>These are the questions that challenge
+  me in my work and my practice.</p><p>Who is Andrew Boardman? I currently manage
+  a design studio called Manoverboard. Our focus is on helping organizations drive
+  social change through human-centered design and digital strategy. The company started
+  in 2002 out of my apartment in Brooklyn. At Manoverboard, I develop strategies to
+  connect our clients with their audiences. I think about and design user experiences
+  that are helpful and meaningful. I send a lot of emails. In my spare time, I draw
+  and write. I'm developing a book on design responsibility. I recently taught design
+  at Red River College. And I have a family that I adore.</p><p>What else? I cut my
+  teeth by designing Barneys New York’s first e-commerce site. I have a degree from
+  Brown University and an M.F.A. from SUNY Albany. I  received a Fulbright Fellowship
+  and a NYFA Fellowship. I also worked at The Rockefeller Foundation for many years.
+  Today, I live in Winnipeg, in Canada.</p><p>It took about 13.8 billion years for
+  me to get here. If you desire, go ahead and <a href="mailto:andrew@manoverboard.com"
+  title="email andrew boardman">email me</a>.</p>
 menu:
   navigation:
     identifier: _about
