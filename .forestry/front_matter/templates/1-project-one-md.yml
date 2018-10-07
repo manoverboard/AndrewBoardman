@@ -34,6 +34,7 @@ fields:
   description: Less than 200 characters // This shows up on the Projects Page, and
     on the Home Page feature box.
 pages:
+- _projects/booklets.md
 - _projects/soup-magazine.md
 - _projects/circus.md
 - _projects/furnishing.md
