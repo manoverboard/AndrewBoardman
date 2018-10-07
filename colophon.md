@@ -3,7 +3,7 @@ title: Colophon
 layout: page
 date: 2018-07-27 16:31:04 +0000
 main-image: "/uploads/uploads/sonic-youth.png"
-sub-title: Lots of bits and pieces on this site. Here are my thanks.
+sub-title: Many have contributed to this site. This page reflects my thanks.
 description: ''
 resume-link: ''
 list_1_title: ''
@@ -26,25 +26,24 @@ menu:
     weight: 1
 
 ---
-### This is a generic page.
-
 Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neqe. Nunc dignissim risus id metus.
 
-#### People who made this site:
+#### People who helped to make this site:
 
-* Me
-* Daniel Lamb
-* Nikki Wolfe
-* Maeve Boardman
+* Nikki Wolfe (developer)
+* Daniel Lamb (developer)
+* Maeve Boardman (daughter)
+* Me (self)
 
-#### Software used for this website:
+#### Software used for this site:
 
-* Sketch
-* Adobe Photoshop
-* Kirby CMS
-* Good old HTML/CSS
+* Jekyll (a static site generator)
+* Sketch (vector graphics editor)
+* Adobe Photoshop and XD (raster and vector graphic editors)
+* Forestry (static CMS made in Halifax, Canada)
+* Good old HTML/CSS (born 1993/1996)
 
-#### Sources of inspiration:
+#### Sources of inspiration for this site:
 
 * SY
 * BJM
