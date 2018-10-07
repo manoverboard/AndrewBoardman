@@ -18,14 +18,13 @@ list2: []
 list_3_title: ''
 list3: []
 sidebar_content: <h4>A few who have influenced the making of this site:</h4><ul><li><p><a
-  href="https://www.criterion.com/shop/collection/12-jean-luc-godard" title="">Jean-Luc
-  Godard</a> (filmmaker)</p></li><li><p><a href="https://www.youtube.com/channel/UCuNTMHPl8dVBpJRtvygl-9A"
+  href="" title="">Sonic Youth</a> (long live them)</p></li><li><p><a href="https://www.tessparks.com/"
+  title="">Tess Parks</a> and <a href="https://thebrianjonestownmassacre.com/" title="">Brian
+  Jonestown Massacre</a> (right on)</p></li><li><p><a href="https://www.criterion.com/shop/collection/12-jean-luc-godard"
+  title="">Jean-Luc Godard</a> (filmmaker)</p></li><li><p><a href="https://www.youtube.com/channel/UCuNTMHPl8dVBpJRtvygl-9A"
   title="">Elliott Smith</a> (musician)</p></li><li><p><a href="https://www.artsy.net/artist/philip-guston"
   title="">Philip Guston</a> (painter)</p></li><li><p><a href="http://www.cytwombly.org/artworks"
-  title="">Cy Twombly</a> (painter)</p></li><li><p><a href="" title="">Sonic Youth</a>
-  (long live them)</p></li><li><p><a href="https://www.tessparks.com/" title="">Tess
-  Parks</a> and <a href="https://thebrianjonestownmassacre.com/" title="">Brian Jonestown
-  Massacre</a> (right on)</p></li></ul>
+  title="">Cy Twombly</a> (painter)</p></li></ul>
 main_image: "/uploads/uploads/sonic-youth.png"
 menu:
   footer:
