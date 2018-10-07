@@ -8,6 +8,5 @@ project-excerpt: These are a series of ink drawings on tracing paper done betwee
   and manuals prior to the Second World War combined to create a new meaning. I made
   these to see how some of the Jewish and Polish and German and American visual vernacular
   might work together.
-published: false
 
 ---
