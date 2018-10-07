@@ -34,12 +34,12 @@ fields:
   description: Less than 200 characters // This shows up on the Projects Page, and
     on the Home Page feature box.
 pages:
+- _projects/soup-magazine.md
 - _projects/the-spiritual-activist.md
 - _projects/the-record.md
 - _projects/drawings-1996-2000.md
 - _projects/new-observations-115.md
 - _projects/booklets.md
-- _projects/soup-magazine.md
 - _projects/circus.md
 - _projects/furnishing.md
 - _projects/traces.md
