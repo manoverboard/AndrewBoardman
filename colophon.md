@@ -17,11 +17,12 @@ list_2_title: ''
 list2: []
 list_3_title: ''
 list3: []
-sidebar_content: <h4>Those that have influenced the making of this site:</h4><ul><li><p><a
+sidebar_content: <h4>A few who have influenced the making of this site:</h4><ul><li><p><a
   href="" title="">Sonic Youth</a> (long live them)</p></li><li><p><a href="https://www.tessparks.com/"
   title="">Tess Parks</a> and <a href="https://thebrianjonestownmassacre.com/" title="">Brian
-  Jonestown Massacre</a> (also that)</p></li><li><p>Elliott Smith (musician)</p></li><li><p><a
-  href="https://www.artsy.net/artist/philip-guston" title="">Philip Guston</a> (painter)</p></li></ul>
+  Jonestown Massacre</a> (right on)</p></li><li><p><a href="https://www.youtube.com/channel/UCuNTMHPl8dVBpJRtvygl-9A"
+  title="">Elliott Smith</a> (musician)</p></li><li><p><a href="https://www.artsy.net/artist/philip-guston"
+  title="">Philip Guston</a> (painter)</p></li></ul>
 main_image: "/uploads/uploads/sonic-youth.png"
 menu:
   footer:
@@ -46,4 +47,4 @@ I'm also including a list of software and tools. This is a different site than m
 * [Adobe]() Photoshop and XD (raster and vector graphic editors)
 * [Forestry]() (static CMS made in Halifax, Canada)
 * [Markup language]() (in this case, HTML)
-* [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS) (CSS)
+* [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS) (aka CSS)
