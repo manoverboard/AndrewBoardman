@@ -28,24 +28,26 @@ menu:
 ---
 Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neqe. Nunc dignissim risus id metus.
 
-#### People who helped to make this site:
+#### People who made this site:
 
-* Nikki Wolfe (developer)
-* Daniel Lamb (developer)
-* Maeve Boardman (daughter)
-* Me (self)
+* [Nikki Wolfe](http://nikkitaylor.ca/) (developer)
+* [Daniel Lamb](http://www.quicksheep.com/) (developer)
+* [Maeve Boardman](https://twitter.com/maevebrave) (daughter)
+* [Me](https://twitter.com/deckchairs) (myself and I)
 
-#### Software used for this site:
+#### Software and tools used for this site:
 
-* Jekyll (a static site generator)
-* Sketch (vector graphics editor)
-* Adobe Photoshop and XD (raster and vector graphic editors)
-* Forestry (static CMS made in Halifax, Canada)
-* Good old HTML/CSS (born 1993/1996)
+* [Jekyll](https://jekyllrb.com/) (a static site generator)
+* [Sketch](https://www.sketchapp.com/) (vector graphics editor)
+* [Adobe]() Photoshop and XD (raster and vector graphic editors)
+* [Forestry]() (static CMS made in Halifax, Canada)
+* [Markup language]() (aka HTML)
+* [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS) (aka CSS)
 
-#### Sources of inspiration for this site:
+#### Artists that influenced the making of this site:
 
-* SY
-* BJM
-* JLG
-* PG
+* [Sonic Youth]() (long live them)
+* [Tess Parks](https://www.tessparks.com/) and [Brian Jonestown Massacre](https://thebrianjonestownmassacre.com/) (also that)
+* Elliott Smith (musician)
+* [Philip Guston](https://www.artsy.net/artist/philip-guston) (painter)
+* 
