@@ -79,18 +79,19 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   Boardman? I manage a design studio called <a href="https://manoverboard.com" title="">Manoverboard</a>.
   Our focus is on helping organizations drive social change through human-centered
   design and digital strategy. The company began in 2002 out of my apartment in Brooklyn.
-  At Manoverboard, I develop strategies to meaningfully connect our clients to their
-  audiences through exacting and assured user experiences. I am working to advance
-  a more humane and sustainable web that is accessible, equitable and durable. I send
-  a lot of emails.</p><p>I also draw and write. I'm developing a book on design responsibility.
+  At Manoverboard, I help clients meaningfully connect with their audiences through
+  exacting, assured user experiences. My objective is to advance a more humane and
+  sustainable web that is accessible, equitable and durable.</p><p>I send a lot of
+  emails.</p><p>I also draw and write. I'm developing a book on design responsibility.
   I recently taught design at Red River College. And I write articles and speak on
-  subjects such as technology, sustainability and history.</p><p>What else? I cut
-  my teeth designing Barneys New York’s first e-commerce site. I hold a B.A. from
-  Brown University and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship
+  subjects such as technology, authoritarianism and sustainability.</p><p>What else?
+  I cut my teeth designing Barneys New York’s first e-commerce site. I hold a B.A.
+  from Brown University and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship
   and a NYFA Fellowship. I also worked at The Rockefeller Foundation for many years.
-  Today, I live in Winnipeg, Canada.</p><p>It took about 13.8 billion years for me
-  to get here. If you desire, go ahead and <a href="mailto:andrew@manoverboard.com"
-  title="email andrew boardman">email me</a>.</p>
+  Today, I live in Winnipeg, Canada with my wife, daughter and three black cats.</p><p>It
+  took about 13.8 billion years for me to get to this sentence. If you desire, go
+  ahead and <a href="mailto:andrew@manoverboard.com" title="email andrew boardman">email
+  me</a>.</p>
 menu:
   navigation:
     identifier: _about
