@@ -73,24 +73,24 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   an hour.” <br>—William Blake, <a href="https://www.poetryfoundation.org/poems/43650/auguries-of-innocence"
   title="">Augeries of Innocence</a> (c. 1803)</p></blockquote><p>What exists beyond
   our mere shadows? How can we grasp our place in the continuum of history's unfolding
-  triumphs and abominable tragedies? What does it mean to design our answers? And
-  how do we make our connections and commentaries matter?</p><p>These are some of
-  the questions that challenge me and cut across my work and practice.</p><p>Who is
-  Andrew Boardman? I manage a design studio called Manoverboard. Our focus is on helping
-  organizations drive social change through human-centered design and digital strategy.
-  The company began in 2002 out of my apartment in Brooklyn. At Manoverboard, I develop
-  strategies to meaningfully connect our clients to audiences through exacting and
-  helpful user experience. I am also working to advance a more humane and sustainable
-  web that is accessible, equitable and durable. I send a lot of emails.</p><p>I also
-  draw and write. I'm developing a book on design responsibility. I recently taught
-  design at Red River College. And I write articles and speak on subjects such as
-  technology, sustainability and history.</p><p>What else? I cut my teeth by designing
-  Barneys New York’s first e-commerce site. I hold a degree from Brown University
-  and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship and a NYFA Fellowship.
-  I also worked at The Rockefeller Foundation for many years. Today, I live in Winnipeg,
-  Canada.</p><p>It took about 13.8 billion years for me to get here. If you desire,
-  go ahead and <a href="mailto:andrew@manoverboard.com" title="email andrew boardman">email
-  me</a>.</p>
+  triumphs and abominable tragedies? What does it mean to design answers? And how
+  do we make our connections and commentaries matter?</p><p>These are some of the
+  questions that challenge me and cut across my work and practice.</p><p>Who is Andrew
+  Boardman? I manage a design studio called <a href="https://manoverboard.com" title="">Manoverboard</a>.
+  Our focus is on helping organizations drive social change through human-centered
+  design and digital strategy. The company began in 2002 out of my apartment in Brooklyn.
+  At Manoverboard, I develop strategies to meaningfully connect our clients to their
+  audiences through exacting and assured user experiences. I am working to advance
+  a more humane and sustainable web that is accessible, equitable and durable. I send
+  a lot of emails.</p><p>I also draw and write. I'm developing a book on design responsibility.
+  I recently taught design at Red River College. And I write articles and speak on
+  subjects such as technology, sustainability and history.</p><p>What else? I cut
+  my teeth designing Barneys New York’s first e-commerce site. I hold a B.A. from
+  Brown University and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship
+  and a NYFA Fellowship. I also worked at The Rockefeller Foundation for many years.
+  Today, I live in Winnipeg, Canada.</p><p>It took about 13.8 billion years for me
+  to get here. If you desire, go ahead and <a href="mailto:andrew@manoverboard.com"
+  title="email andrew boardman">email me</a>.</p>
 menu:
   navigation:
     identifier: _about
