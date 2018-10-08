@@ -83,11 +83,11 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   that are helpful and meaningful. I send a lot of emails. In my spare time, I draw
   and write. I'm developing a book on design responsibility. I recently taught design
   at Red River College. And I have a family that I adore.</p><p>What else? I cut my
-  teeth by designing Barneys New York’s first e-commerce site. I have a degree from
+  teeth by designing Barneys New York’s first e-commerce site. I hold a degree from
   Brown University and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship
   and a NYFA Fellowship. I also worked at The Rockefeller Foundation for many years.
-  Today, I live in Winnipeg, in Canada.</p><p>It took about 13.8 billion years for
-  me to get here. If you desire, go ahead and <a href="mailto:andrew@manoverboard.com"
+  Today, I live in Winnipeg, Canada.</p><p>It took about 13.8 billion years for me
+  to get here. If you desire, go ahead and <a href="mailto:andrew@manoverboard.com"
   title="email andrew boardman">email me</a>.</p>
 menu:
   navigation:
