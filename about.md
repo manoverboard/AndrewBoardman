@@ -27,10 +27,10 @@ list1:
   link: https://www.heartshare.org/
 - item: SJF Ventures
   link: http://sjfventures.com/
-- item: Ducks Unlimited Canada
-  link: http://iwwr.ducks.ca/
 - item: Serving Green
   link: https://serving.green/
+- item: Ducks Unlimited Canada
+  link: http://iwwr.ducks.ca/
 list_2_title: A few pieces I wrote.
 fields:
 - label: Item
