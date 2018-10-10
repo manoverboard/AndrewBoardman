@@ -201,13 +201,15 @@ a {
     color: #1B1B1B !important;
     text-decoration: none;
     border-bottom: 1px solid black;
+    transition: border .3s ease-in-out;
 }
 
 a:hover {
     text-decoration: none;
     color: #1B1B1B !important;
     text-decoration: none;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+    transition: border .3s ease-in-out;
 }
 
 figcaption {
@@ -281,6 +283,17 @@ nav.main-nav ul li.current a {
 
 
 /* --------------------- Headings */
+
+h1 a:hover, 
+h2 a:hover, 
+h3 a:hover,
+a.kill-underlines:hover,
+h4 a:hover, 
+h5 a:hover, 
+h6 a:hover {
+    color: #0033A0 !important;
+    transition: color .3s ease-in-out;
+}
 
 /* H1 */
 
@@ -580,6 +593,7 @@ li p {
     background-color: #1B1B1B;
     border: 1px solid #1B1B1B;
     color: white !important;
+    transition: .3s all ease-in-out;
 }
 
 .button-small {
