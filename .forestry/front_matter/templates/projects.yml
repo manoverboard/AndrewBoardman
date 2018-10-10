@@ -18,5 +18,9 @@ fields:
     title tag. '
   config:
     required: true
+- type: textarea
+  name: meta-description
+  label: Meta Description
+  description: It can be up to 155 characters — and sometimes more.
 pages:
 - projects.md
