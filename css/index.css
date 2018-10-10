@@ -687,7 +687,7 @@ p .button {
 .zigzag:after {
     height: 25px;
     top: 100%;
-    background: linear-gradient(-135deg, #fff calc(25px/2), transparent 0) 0 calc(25px/2), linear-gradient( 135deg, #fff calc(25px/2), transparent 0) 0 calc(25px/2);
+    background: linear-gradient(-135deg, #F6F6F6 calc(25px/2), transparent 0) 0 calc(25px/2), linear-gradient( 135deg, #F6F6F6 calc(25px/2), transparent 0) 0 calc(25px/2);
     background-position: top left;
     background-repeat: repeat-x;
     background-size: 25px 25px;
