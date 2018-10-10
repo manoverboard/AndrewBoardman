@@ -9,6 +9,10 @@ fields:
   hidden: false
   default: blog
   description: Do not change this unless you're sure.
+- type: textarea
+  name: meta-description
+  label: Meta Description
+  description: It can be up to 155 characters — and sometimes more.
 - name: title
   label: Title
   type: text
