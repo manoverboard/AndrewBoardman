@@ -17,6 +17,10 @@ fields:
   default: ''
   config:
     required: true
+- type: textarea
+  name: meta-description
+  label: Meta Description
+  description: It can be up to 155 characters — and sometimes more.
 - name: main-image
   label: Main image
   type: file

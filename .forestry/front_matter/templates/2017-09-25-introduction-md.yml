@@ -10,10 +10,6 @@ fields:
     required: true
   default: single-post
   description: Do not change this unless you're sure.
-- type: textarea
-  name: meta-description
-  label: Meta Description
-  description: It can be up to 155 characters — and sometimes more.
 - type: number
   name: number
   label: Post Number
@@ -29,6 +25,10 @@ fields:
   config:
     required: true
   description: This is the overarching post's title. It shows up on all the pages.
+- type: textarea
+  name: meta-description
+  label: Meta Description
+  description: It can be up to 155 characters — and sometimes more.
 - name: date
   label: Date
   type: datetime
