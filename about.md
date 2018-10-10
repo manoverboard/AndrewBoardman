@@ -93,6 +93,9 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   my wife, daughter, and three black cats.</p><p>It took about 13.8 billion years
   for me to get to this sentence. If you desire, go ahead and <a href="mailto:andrew@manoverboard.com"
   title="email andrew boardman">email me</a>.</p>
+meta-description: This is the site of Andrew Boardman. Actually, this is the meta
+  description for the about page. Designer, writer. Founder of studio Manoverboard.
+  There are posts and projects.
 menu:
   navigation:
     identifier: _about
