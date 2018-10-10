@@ -774,7 +774,7 @@ h3.project a {
 
 /* --------------------------------------------------------- */
 
-.projects {
+.project-wrapper {
     padding-top: 50px;
     clear: both;
 }
@@ -794,43 +794,47 @@ h3.project a {
     bottom: -40px;
 }
 
+.project-wrapper .project {
+    height: 600px;
+}
+
 /* --------------------- Two Column */
 
-.projects .project:nth-child(odd) {
+.project-wrapper .project:nth-child(odd) {
     width: 47%;
     max-width: 47%;
     float: left;
     padding-bottom: 55px;
 }
 
-.projects .project:nth-child(even) {
+.project-wrapper .project:nth-child(even) {
     width: 47%;
     max-width: 47%;
     float: right;
     padding-bottom: 55px;
 }
 
-.projects .project:nth-child(even) .excerpt,
-.projects .project:nth-child(odd) .excerpt {
+.project-wrapper .project:nth-child(even) .excerpt,
+.project-wrapper .project:nth-child(odd) .excerpt {
     padding-top: 30px;
 }
 
 /* --------------------- Featured/Top */
 
-.projects .project:nth-child(2) {
+.project-wrapper .project:nth-child(1) {
     width: 100%;
     max-width: 100%;
     padding-bottom: 90px;
     padding-top: 100px;
 }
 
-.projects .project:nth-child(2) .image img,
-.projects .project:nth-child(2) .image {
+.project-wrapper .project:nth-child(1) .image img,
+.project-wrapper .project:nth-child(1) .image {
     width: 100%;
     max-width: 100%;
 }
 
-.projects .project:nth-child(2) .content h3 {
+.project-wrapper .project:nth-child(1) .content h3 {
     font-family: 'GT Sectra Display-bold', sans-serif !important;
     width: 39%;
     padding-right: 5%;
@@ -838,7 +842,7 @@ h3.project a {
     vertical-align: top;
 }
 
-.projects .project:nth-child(2) .content .excerpt {
+.project-wrapper .project:nth-child(1) .content .excerpt {
     width: 60%;
     display: inline-block;
     margin-top: 40px;
