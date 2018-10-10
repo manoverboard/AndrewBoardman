@@ -274,7 +274,7 @@ nav.main-nav ul li a:hover {
     border: none !important;
 }
 
-nav.main-nav ul li.current {
+nav.main-nav ul li.current a {
     font-family: 'GT America-medium', sans-serif;
 }
 
