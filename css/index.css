@@ -270,6 +270,7 @@ nav.main-nav ul li {
 }
 
 nav.main-nav ul li a:hover {
+    font-family: 'GT America-medium', sans-serif;
     text-decoration: none !important;
     border: none !important;
 }
