@@ -11,7 +11,12 @@
             {% endif %}
     </title>
 
-    <meta name="description" content="{{ page.meta-description }}">
+    <meta name="description" content="
+        {% if page.description %}{{ page.description }}
+        {% elsif %}{{ post.description }}
+        {% elsif %}{{ project.description }}
+        {% else %}This is the site of Andrew Boardman. Actually, this is the meta description. Designer, writer. Founder of studio Manoverboard. There are posts and projects.{% endif %}">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicion -->
