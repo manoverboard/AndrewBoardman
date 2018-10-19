@@ -1,0 +1,3 @@
+.blue-overlay:before {
+    background-color: hsla(221, 100%, 60%, .5);
+}

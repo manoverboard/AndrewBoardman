@@ -1745,9 +1745,6 @@ footer .copyright a {
     .page .h1 {
         font-size: 20vw;
     }
-    
-    
-
 
 }
 
@@ -1765,5 +1762,23 @@ footer .copyright a {
     
     .home .content {
         margin-top: 20vw;
+    }
+}
+
+/* --------------------------------------------------------- */
+
+/* ----------------- I E _ Q U E R I E S --------------------*/
+
+/* --------------------------------------------------------- */
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+     .blue-overlay:before {
+        background-color: hsla(221, 100%, 60%, .5);
+    }
+}
+
+@supports (-ms-ime-align: auto) {
+    .blue-overlay:before {
+        background-color: hsla(221, 100%, 60%, .5);
     }
 }
