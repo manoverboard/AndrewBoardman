@@ -59,9 +59,25 @@ $(document).ready(function () {
     }
 
     // ------------------------------------------------------
-    // home transition time-out
+    // home page animation
     // ------------------------------------------------------
+    // time-out
     $(".home-animation-wrapper").delay(3000).fadeOut("slow");
+
+    // check cookie
+    var visited = Cookies("visited")
+    // if first time visitor display animation
+    if (visited == null) {
+        $('.home-animation-wrapper').show().css("display", "");
+    }
+    // it not, keep it hidden
+    else {
+        $('.home-animation-wrapper').hide().css("display", "none");
+    }
+    // set the cookie
+    Cookies('visited', 'yes', { expires: 1, path: '/' });
+
+
 
 
     // ------------------------------------------------------

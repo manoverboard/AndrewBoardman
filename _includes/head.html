@@ -31,24 +31,7 @@
     <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="{{ "js/myScripts.js" | absolute_url }}"></script>
-    
-    <script type="text/javascript">
-        $(document).ready(function() {
-            // check cookie
-            var visited = Cookies("visited")
 
-            if (visited == null) {
-                $('#homeAnimationLayer').show();
-            }
-            
-            else {
-                $('#homeAnimationLayer').hide();
-            }
-
-            // set cookie
-            Cookies('visited', 'yes', { expires: 1, path: '/' });
-        });
-    </script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-6081441-23"></script>
