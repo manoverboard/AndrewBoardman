@@ -1613,6 +1613,15 @@ footer .copyright a {
 
 
     /* --------------------- projects page */
+    .project-wrapper {
+        padding-top: 0px;
+        margin-top: -40px;
+    }
+    
+    .projects h1, .single-project h1 {
+        padding-top: 30px;
+    }
+    
     .projects .project:nth-child(odd),
     .projects .project:nth-child(even) {
         width: 100%;
