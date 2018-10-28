@@ -6,7 +6,7 @@ main-image: "/uploads/uploads/main-new-observations-1.jpg"
 project-excerpt: Magazine published in Summer of 1997 by New Observations. With work
   by Ken Johnson, Nigel Freeman, Xu Bing, Raymond Pettibon, Ruth Root, Lukasz Skapcski
   and Gary Simmons.
-meta-description: Guest edited New Observations magazine
+meta-description: Guest edited New Observations magazine, Volume 115
 
 ---
 ![](/uploads/uploads/main-new-observations-1.jpg){% include image-caption.html caption="New Observations cover, Gary Simmons inset" %}
