@@ -7,11 +7,12 @@ main-image: "/uploads/uploads/project.png"
 project-excerpt: 'Project Excerpt. Consectetuer adipiscing elit. Donec odio. Quisquessfsdfasd
   arguably volutpat mattis eros. is. Suspendisse urna nibh, viverra non, semper suscipit,
   posuere a, pede. '
+meta-description: ''
 
 ---
 ![the manoverboard homepage in 2004](/uploads/uploads/project.png)
 
-{% include image-caption.html caption="Manoverboard, 2004" %}
+{% include image-caption.html caption="New Obs, 2004" %}
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
 
