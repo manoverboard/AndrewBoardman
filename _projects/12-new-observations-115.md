@@ -7,6 +7,7 @@ project-excerpt: Magazine published in Summer of 1997 by New Observations. With 
   by Ken Johnson, Nigel Freeman, Xu Bing, Raymond Pettibon, Ruth Root, Lukasz Skapcski
   and Gary Simmons.
 meta-description: Guest edited New Observations magazine
+published: false
 
 ---
 ![new observations cover and inside](/uploads/uploads/main-new-observations.jpg){% include image-caption.html caption="New Observations cover, Gary Simmons inset" %}
@@ -31,7 +32,7 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 
 </section>
 
-<section class="project-column-one" markdown="1">
+<section class="project-column-two" markdown="1">
 
 ![](/uploads/uploads/main-new-observations-inside.jpg){% include image-caption.html caption="Xu Bing spread" %}
 
