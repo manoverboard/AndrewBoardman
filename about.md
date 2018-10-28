@@ -77,21 +77,21 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   do we make our connections and commentaries matter?</p><p>These are some of the
   questions that challenge me and cut across my work and practice. I call this site
   "A to B" because it's what I know. I'm leaving "C to Z" to others.</p><p>Who is
-  Andrew Boardman? I manage a design studio called <a href="https://manoverboard.com"
+  Andrew Boardman? I am a designer, managing a studio in Canada called <a href="https://manoverboard.com"
   title="">Manoverboard</a>. Our focus is on helping organizations drive social change
-  through human-centered design and digital strategy. The company began in 2002 out
-  of my apartment in Brooklyn. At Manoverboard, I help clients meaningfully connect
-  with their audiences through exacting, assured online user experiences. In all cases,
-  my objective is to advance a more humane and sustainable web that is accessible,
-  equitable and durable.</p><p>I send a lot of emails.</p><p>I also draw and write.
-  I'm developing a book on design responsibility. I recently taught design at Red
-  River College. And I write articles and speak on subjects such as technology, authoritarianism
-  and sustainability.</p><p>What else? I cut my teeth designing Barneys New York’s
-  first e-commerce site. I hold a B.A. from Brown University and an M.F.A. from SUNY
-  Albany. I received a Fulbright Fellowship and a NYFA Fellowship. I also worked at
-  The Rockefeller Foundation for many years. Today, I live in Winnipeg, Canada with
-  my wife, daughter, and three black cats.</p><p>It took about 13.8 billion years
-  for me to get to this sentence. If you desire, go ahead and <a href="mailto:andrew@manoverboard.com"
+  through human-centered design and long-term digital strategy. The company began
+  in 2002 out of my apartment in Brooklyn. At Manoverboard, I help clients meaningfully
+  connect with their audiences through exacting, assured online user experiences.
+  In all cases, my objective is to advance a more humane and sustainable web that
+  is accessible, equitable and durable.</p><p>I send a lot of emails.</p><p>I also
+  draw and write. I'm developing a book on design responsibility. I recently taught
+  design at Red River College. And I write articles and speak on subjects such as
+  technology, authoritarianism and sustainability.</p><p>What else? I cut my teeth
+  designing Barneys New York’s first e-commerce site. I hold a B.A. from Brown University
+  and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship and a NYFA Fellowship.
+  I also worked at The Rockefeller Foundation for many years. Today, I live in Winnipeg,
+  Canada with my wife, daughter, and three black cats.</p><p>It took about 13.8 billion
+  years for me to get to this sentence. If you desire, go ahead and <a href="mailto:andrew@manoverboard.com"
   title="email andrew boardman">email me</a>.</p>
 meta-description: This is the site of Andrew Boardman. Actually, this is the meta
   description for the about page. Designer, writer. Founder of studio Manoverboard.
