@@ -28,9 +28,9 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 
 <section class="project-column-two" markdown="1">
 
-![](/uploads/ducks-test.png)
+![Kitten](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
 
-{% include image-caption.html caption="Ducks Unlimited" %}
+{% include image-caption.html caption="A Kitten" %}
 
 </section>
 
