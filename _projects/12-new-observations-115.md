@@ -25,6 +25,12 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 
 </section>
 
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/main-new-observations-inside-1.jpg){% include image-caption.html caption="Xu Bing spread" %}
+
+</section>
+
 <section class="project-column-two" markdown="1">
 
 ![](/uploads/uploads/main-new-observations-inside-1.jpg){% include image-caption.html caption="Xu Bing spread" %}
