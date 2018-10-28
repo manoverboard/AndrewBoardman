@@ -5,7 +5,7 @@ type: field_group_list
 name: list3
 title: About
 main-image: "/uploads/uploads/ab-about-1.jpg"
-sub-title: An About page is not about the page itself.
+sub-title: The best design is about averting catastrophe.
 description: I founded Manoverboard, a design studio focused on driving social change,
   in 2002 in Brooklyn with the idea of pushing the boundaries of design for innovative
   businesses and nonprofit organizations. Mostly what I do there is design and send
