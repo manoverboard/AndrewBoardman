@@ -9,13 +9,11 @@ project-excerpt: Publisher of ten volumes of <i>Soup Magazine</i>, a rebellious 
 meta-description: Published ten volumes of Soup Magazine between 1991 and 1994.
 
 ---
-![the manoverboard homepage in 2004](/uploads/uploads/project.png)
+![](/uploads/uploads/main-soup-magazine.jpg)
 
-{% include image-caption.html caption="New Obs, 2004" %}
+{% include image-caption.html caption="Cover from Volume 8: Pleasure Ltd." %}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
-
-Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+Desktop publishing was became a viable means of disseminating new ideas and images around 1990. Towards the end of graduate school, I edited and published a semi-regular zine called <i>Soup Magazine</i> that combined the work of professional artists with that of emerging ones. Along with a number of irrationally committed editors, Soup Magazine published about ten issues with themes like pleasure, politics, and reality. At that time, it wasn't hard to get established artists like Robert Longo, Barbara Ess and Vito Acconci to participate in our project. This was an entirely self-funded effort and the magazine was sold at A/C Project Room (New York), Printed Matter (New York) and Tower Books (throughout the United States).
 
 <section class="project-column-one" markdown="1">
 
