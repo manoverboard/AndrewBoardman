@@ -6,12 +6,42 @@ main-image: "/uploads/uploads/main-new-observations.jpg"
 project-excerpt: Magazine published in Summer of 1997 by New Observations. With work
   by Ken Johnson, Nigel Freeman, Xu Bing, Raymond Pettibon, Ruth Root, Lukasz Skapcski
   and Gary Simmons.
-meta-description: ''
+meta-description: Guest edited New Observations magazine
 published: false
 
 ---
-## here is some text content.
+![new observations cover and inside](/uploads/uploads/main-new-observations.jpg){% include image-caption.html caption="New Observations cover, Gary Simmons inset" %}
 
-## ![](/uploads/uploads/test.jpg)
+In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of the highly regarded New Observations magazine. The focus was on the rise of the then new Internet and its intersection and interaction with spirituality, pop psychology, mysticism and religiosity. It was a pleasure having a chance to interview one of my favorite artists, Raymond Pettibon, who designed the Black Flag logo as well as Sonic Youth covers and a million other things. Included in the issue were other artists and designers such as Ruth Root, Bruce Pearson, Michael Oatman, Nigel Freeman and Melissa Gould. Dream project, fulfilled.
 
-here is some text content.
+<section class="project-column-one" markdown="1">
+
+![Kitten](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
+
+{% include image-caption.html caption="A Kitten" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![](/uploads/ducks-test.png)
+
+{% include image-caption.html caption="Ducks Unlimited" %}
+
+</section>
+
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
+
+{% include image-caption.html caption="-----YOUR CAPTION HERE-----" %}
+
+</section>
+
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
+
+{% include image-caption.html caption="-----YOUR CAPTION HERE-----" %}
+
+</section>
