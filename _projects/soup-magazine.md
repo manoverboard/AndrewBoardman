@@ -2,14 +2,14 @@
 title: Soup Magazine
 layout: single-project
 date: 2018-10-07 18:58:20 +0000
-main-image: "/uploads/uploads/main-soup-magazine.jpg"
+main-image: "/uploads/uploads/main-soup-magazine-1.jpg"
 project-excerpt: Publisher of ten volumes of <i>Soup Magazine</i>, a rebellious zine
   distributed throughout the U.S. between 1991 and 1994. Printed and distributed in
   Albany, New York.
 meta-description: Published ten volumes of Soup Magazine between 1991 and 1994.
 
 ---
-![](/uploads/uploads/main-soup-magazine.jpg)
+![](/uploads/uploads/main-soup-magazine-1.jpg)
 
 {% include image-caption.html caption="Cover from Volume 8: Pleasure Ltd." %}
 
@@ -17,7 +17,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 <section class="project-column-one" markdown="1">
 
-![Kitten](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
+![](/uploads/uploads/main-soup-magazine-1.jpg)
 
 {% include image-caption.html caption="A Kitten" %}
 
