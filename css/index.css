@@ -819,9 +819,6 @@ h3.project a {
     bottom: -40px;
 }
 
-.project-wrapper .project {
-    height: 600px;
-}
 
 /* --------------------- Two Column */
 
@@ -851,7 +848,6 @@ h3.project a {
     max-width: 100%;
     padding-bottom: 90px;
     padding-top: 100px;
-    height: 1110px !important;
 }
 
 .project-wrapper .project:nth-child(1) .image img,
@@ -877,10 +873,6 @@ h3.project a {
 }
 
 /* --------------------- Single Project */
-
-.single-project {
-    padding-top: 50px;
-}
 
 .single-project h1 {
     display: inline-block;
@@ -1387,6 +1379,7 @@ footer .copyright a {
         right: 0;
         width: 38vw;
     }
+    
 }
 
 
@@ -1531,6 +1524,7 @@ footer .copyright a {
     .blog {
         padding-top: 60vw;
     }
+    
 }
 
 
@@ -1654,6 +1648,7 @@ footer .copyright a {
     .projects h1:after {
         display: none;
     }
+
 
 
     /* --------------------- about */
