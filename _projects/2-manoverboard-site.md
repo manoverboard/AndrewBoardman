@@ -8,6 +8,7 @@ project-excerpt: 'Project Excerpt. Consectetuer adipiscing elit. Donec odio. Qui
   arguably volutpat mattis eros. is. Suspendisse urna nibh, viverra non, semper suscipit,
   posuere a, pede. '
 meta-description: ''
+permalink: the-site-at-manoverboard
 
 ---
 ![the manoverboard homepage in 2004](/uploads/uploads/project.png)
