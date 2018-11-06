@@ -21,10 +21,6 @@ fields:
   default: ''
   config:
     required: true
-- type: text
-  name: permalink
-  label: Permalink
-  description: Be careful not to double up!
 - name: main-image
   label: Main image
   type: file
