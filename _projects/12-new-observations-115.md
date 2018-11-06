@@ -7,6 +7,7 @@ project-excerpt: Guest edited <i>New Observations</i> magazine published in Summ
   of 1997. With work by Ken Johnson, Nigel Freeman, Xu Bing, Raymond Pettibon, Ruth
   Root, Lukasz Skapcski and Gary Simmons.
 meta-description: Guest edited New Observations magazine, Volume 115
+permalink: new-observation
 
 ---
 ![](/uploads/uploads/main-new-observations-1-1.jpg)
