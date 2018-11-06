@@ -7,6 +7,7 @@ project-excerpt: Publisher of ten volumes of <i>Soup Magazine</i>, a rebellious 
   distributed throughout the U.S. between 1991 and 1994. Printed and distributed in
   Albany, New York.
 meta-description: Published ten volumes of Soup Magazine between 1991 and 1994.
+permalink: soup-magazine
 
 ---
 ![](/uploads/uploads/main-soup-magazine-1.jpg)
