@@ -38,6 +38,7 @@ fields:
   description: Less than 200 characters // This shows up on the Projects Page, and
     on the Home Page feature box.
 pages:
+- _projects/test-project.md
 - _projects/soup-magazine.md
 - _projects/12-new-observations-115.md
 - _projects/2-manoverboard-site.md
