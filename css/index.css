@@ -3,6 +3,7 @@
 /* ------------------------ C O R E -------------------------*/
 
 /* --------------------------------------------------------- */
+
 body {
     background-color: #F6F6F6 !important;
 }
@@ -85,8 +86,8 @@ section {
 
 .kill-underlines,
 .kill-underlines:hover {
-    border-bottom: 0;
-    text-decoration: none;
+    border-bottom: 0 !important;
+    text-decoration: none !important;
 }
 
 .blue-hover {
@@ -96,8 +97,6 @@ section {
 /* --------------------- Image Effects */
 
 img {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
     width: 100%;
 }
 
@@ -105,12 +104,21 @@ img {
     position: relative;
 }
 
-.image:hover img {
+a:hover .image img {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
     transition: .2s ease-in-out;
-    -webkit-filter: grayscale(0%);
-    filter: grayscale(0%);
 }
 
+a:hover .image img {
+    -webkit-transform: scale(0.995);
+    -ms-transform: scale(0.995);
+    transform: scale(0.995);
+     transition: .2s ease-in-out;
+}
+
+/*
 .blue-overlay:before {
     content: "";
     position: absolute;
@@ -129,7 +137,7 @@ img {
     opacity: 0;
     mix-blend-mode: none;
 }
-
+*/
 
 /* --------------------------------------------------------- */
 
@@ -138,7 +146,8 @@ img {
 /* --------------------------------------------------------- */
 
 nav a {
-    border-bottom: 0px !important;
+    transition: border .3s ease-in-out;
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
 }
 
 nav.main-nav {
@@ -181,6 +190,21 @@ nav.main-nav ul li:last-child:after {
     -webkit-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     transform: rotate(180deg);
+}
+
+nav.main-nav ul li {
+    font-family: 'GT America', sans-serif;
+    font-size: 160%;
+}
+
+nav.main-nav ul li a:hover {
+    text-decoration: none !important;
+    border-bottom: 1px solid black;
+
+}
+
+nav.main-nav ul li.current a {
+    border-bottom: 1px solid black !important;
 }
 
 /* --------------------------------------------------------- */
@@ -274,32 +298,14 @@ hr {
     display: inline;
 }
 
-/* --------------------- Navigation */
-
-nav.main-nav ul li {
-    font-family: 'GT America', sans-serif;
-    font-size: 160%;
-}
-
-nav.main-nav ul li a:hover {
-    font-family: 'GT America-medium', sans-serif;
-    text-decoration: none !important;
-    border: none !important;
-}
-
-nav.main-nav ul li.current a {
-    font-family: 'GT America-medium', sans-serif;
-}
-
-
 /* --------------------- Headings */
 
-h1 a:hover, 
-h2 a:hover, 
+h1 a:hover,
+h2 a:hover,
 h3 a:hover,
 a.kill-underlines:hover,
-h4 a:hover, 
-h5 a:hover, 
+h4 a:hover,
+h5 a:hover,
 h6 a:hover {
     color: #0033A0 !important;
     transition: color .3s ease-in-out;
@@ -390,7 +396,7 @@ h3 {
 .home .content .h3 {
     font-family: 'GT America', sans-serif;
     font-size: 200%;
-        max-width: 500px;
+    max-width: 500px;
 }
 
 h3.project {
@@ -681,10 +687,6 @@ p .button {
 
 /* --------------------- zigzag */
 
-.zigzag-wrapper {
-    padding-top: 75px;
-}
-
 .zigzag {
     margin: 7.5% 0;
     position: relative;
@@ -857,7 +859,6 @@ h3.project a {
 }
 
 .project-wrapper .project:nth-child(1) .content h3 {
-    font-family: 'GT Sectra Display-bold', sans-serif !important;
     width: 39%;
     padding-right: 5%;
     display: inline-block;
@@ -1379,7 +1380,7 @@ footer .copyright a {
         right: 0;
         width: 38vw;
     }
-    
+
 }
 
 
@@ -1456,7 +1457,6 @@ footer .copyright a {
     }
 
     /* --------------------- about */
-
     .main-image-h.about {
         top: 96px;
         right: 0;
@@ -1524,7 +1524,7 @@ footer .copyright a {
     .blog {
         padding-top: 60vw;
     }
-    
+
 }
 
 
@@ -1602,7 +1602,7 @@ footer .copyright a {
     .single-post .heading h2 {
         max-width: 100%;
     }
-    
+
     figcaption {
         line-height: 1.15;
     }
@@ -1613,11 +1613,12 @@ footer .copyright a {
         padding-top: 0px;
         margin-top: -40px;
     }
-    
-    .projects h1, .single-project h1 {
+
+    .projects h1,
+    .single-project h1 {
         padding-top: 30px;
     }
-    
+
     .projects .project:nth-child(odd),
     .projects .project:nth-child(even) {
         width: 100%;
@@ -1644,7 +1645,7 @@ footer .copyright a {
         padding-top: 30px !important;
         margin-top: 0;
     }
-    
+
     .projects h1:after {
         display: none;
     }
@@ -1661,7 +1662,7 @@ footer .copyright a {
     main.about {
         margin-top: 38vw !important;
     }
-    
+
     /* --------------------- blog */
     .blog .post-wrapper .post:last-child .post-title {
         border-bottom: 0px;
@@ -1696,7 +1697,7 @@ footer .copyright a {
 /* --------------------------------------- 640 and below */
 
 @media screen and (max-width: 640px) {
-    
+
     .main-image-h {
         top: 95px !important;
     }
@@ -1720,7 +1721,7 @@ footer .copyright a {
     .blog .post .num-and-date {
         width: 15%;
     }
-    
+
     .blog h1 {
         font-size: 22vw;
     }
@@ -1738,7 +1739,7 @@ footer .copyright a {
     .page main {
         margin-top: 60vw !important;
     }
-    
+
     .page .h1 {
         font-size: 20vw;
     }
@@ -1756,7 +1757,7 @@ footer .copyright a {
         padding-top: 30px;
         padding-bottom: 30px;
     }
-    
+
     .home .content {
         margin-top: 20vw;
     }
@@ -1768,8 +1769,9 @@ footer .copyright a {
 
 /* --------------------------------------------------------- */
 
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-     .blue-overlay:before {
+@media all and (-ms-high-contrast: none),
+(-ms-high-contrast: active) {
+    .blue-overlay:before {
         background-color: hsla(221, 100%, 60%, .5);
     }
 }
