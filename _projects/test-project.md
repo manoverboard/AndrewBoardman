@@ -5,7 +5,6 @@ date: 2018-11-06 16:48:14 +0000
 meta-description: ''
 main-image: ''
 project-excerpt: fdsafsdadfsdaf
-permalink: test-projects
 
 ---
 fasfdsafsdafdsa
