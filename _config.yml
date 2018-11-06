@@ -21,7 +21,7 @@ collections:
     permalink: /:year/:month/:day/:title/
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
