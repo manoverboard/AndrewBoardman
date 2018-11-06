@@ -9,7 +9,7 @@
     <article class="project">
         {% for project in site.projects limit:1 %}
 
-        <a href="{{project.url | absolute_url }}">
+        <a href="{{ project.url }}">
             <div class="image">
                 <img src="{{ project.main-image | absolute_url }}" alt="{{ project.title }}">
             </div>
@@ -22,7 +22,7 @@
             <p class="excerpt">
                 {{ project.project-excerpt}}
                 <!-- Read more link -->
-                <a href="{{ project.url | absolute_url }}">Read more<span class="hidden">on {{ project.main-title }}</span></a>
+                <a href="{{ project.url }}">Read more<span class="hidden">on {{ project.main-title }}</span></a>
             </p>
         </div>
 

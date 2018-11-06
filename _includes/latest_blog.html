@@ -25,11 +25,11 @@
                 {{ post.excerpt}}
                 <br> <br>
                 <!-- Read more link -->
-                <a href="{{ post.url | absolute_url }}">Read more<span class="hidden">: {{ post.title }}</span></a>
+                <a href="{{ post.url }}">Read more<span class="hidden">: {{ post.title }}</span></a>
 
             </p>
             
-            <a href="{{ post.url | absolute_url }}">
+            <a href="{{ post.url }}">
                 <div class="image">
                     <img src="{{ post.main-image | absolute_url }}" alt="{{ post.title }}">
                 </div>
