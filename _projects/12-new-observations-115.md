@@ -25,7 +25,7 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 
 <section class="project-column-two" markdown="1">
 
-![Kitten](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
+![](/uploads/uploads/main-new-observations-inside-1.jpg)
 
 {% include image-caption.html caption="A Kitten" %}
 
@@ -33,16 +33,16 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 
 <section class="project-column-one" markdown="1">
 
-![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
+![](/uploads/uploads/main-new-observations-inside-1.jpg)
 
-{% include image-caption.html caption="-----YOUR CAPTION HERE-----" %}
+{% include image-caption.html caption="A Kitten" %}
 
 </section>
 
 <section class="project-column-two" markdown="1">
 
-![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
+![](/uploads/uploads/main-new-observations-inside-1.jpg)
 
-{% include image-caption.html caption="-----YOUR CAPTION HERE-----" %}
+{% include image-caption.html caption="A Kitten" %}
 
 </section>
