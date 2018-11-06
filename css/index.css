@@ -1687,6 +1687,13 @@ footer .copyright a {
 
 }
 
+@media screen and (max-width: 750px) {
+     section.project-column-one,
+    section.project-column-two {
+        width: 100%;
+    }
+}
+
 @media screen and (max-width: 700px) {
     .main-image-v {
         top: 95px !important;
@@ -1700,11 +1707,6 @@ footer .copyright a {
 
     .main-image-h {
         top: 95px !important;
-    }
-
-    section.project-column-one,
-    section.project-column-two {
-        width: 100%;
     }
 
     /* ------------------ post/blog */
