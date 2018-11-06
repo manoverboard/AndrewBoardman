@@ -4,7 +4,7 @@ description: Andrew Boardman is a designer, artist, writer and evolutionary fina
 baseurl:
 markdown: kramdown
 include: [".htaccess", "img-size-guide.jpg"]
-permalink: "/:path/"
+permalink: pretty
 defaults:
   - scope:
       path: "_page"
@@ -20,7 +20,6 @@ collections:
     output: true
   projects:
     output: true
-    permalink: "/projects/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
