@@ -30,3 +30,19 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 {% include image-caption.html caption="Raymond Pettibon interview with me, Ruth Root" %}
 
 </section>
+
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/new-observations-4.jpg)
+
+{% include image-caption.html caption="Raymond Pettibon interview with me, Ruth Root" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![](/uploads/uploads/new-observations-5.jpg)
+
+{% include image-caption.html caption="Raymond Pettibon interview with me, Ruth Root" %}
+
+</section>
