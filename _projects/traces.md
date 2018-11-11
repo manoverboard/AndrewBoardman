@@ -9,7 +9,6 @@ project-excerpt: These are a series of ink drawings on tracing paper done betwee
   these to see how some of the Jewish and Polish and German and American visual vernacular
   might work together.
 meta-description: ''
-published: false
 
 ---
 ![](/uploads/uploads/transparencies-1.jpg)
