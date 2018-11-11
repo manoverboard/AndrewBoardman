@@ -19,7 +19,7 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 
 ![](/uploads/uploads/new-observations-2.jpg)
 
-{% include image-caption.html caption="A Kitten" %}
+{% include image-caption.html caption="Xu Bing: A Book from the Sky" %}
 
 </section>
 
@@ -27,22 +27,6 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 
 ![](/uploads/uploads/new-observations-3.jpg)
 
-{% include image-caption.html caption="A Kitten" %}
-
-</section>
-
-<section class="project-column-one" markdown="1">
-
-![](/uploads/uploads/main-new-observations-inside-1.jpg)
-
-{% include image-caption.html caption="A Kitten" %}
-
-</section>
-
-<section class="project-column-two" markdown="1">
-
-![](/uploads/uploads/main-new-observations-inside-1.jpg)
-
-{% include image-caption.html caption="A Kitten" %}
+{% include image-caption.html caption="Raymond Pettibon interview with me, Ruth Root" %}
 
 </section>
