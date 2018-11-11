@@ -35,7 +35,7 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 
 ![](/uploads/uploads/new-observations-4.jpg)
 
-{% include image-caption.html caption="Raymond Pettibon interview with me, Ruth Root" %}
+{% include image-caption.html caption="Mellissa Gould, Ditti Almog" %}
 
 </section>
 
@@ -43,6 +43,6 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 
 ![](/uploads/uploads/new-observations-5.jpg)
 
-{% include image-caption.html caption="Raymond Pettibon interview with me, Ruth Root" %}
+{% include image-caption.html caption="Michael Oatman, Carol Shadford" %}
 
 </section>
