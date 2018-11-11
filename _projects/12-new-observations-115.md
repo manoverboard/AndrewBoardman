@@ -15,7 +15,7 @@ meta-description: Guest edited New Observations magazine, Volume 115
 
 In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of the highly regarded <i>New Observations</i> magazine. The focus was on the rise of the then new Internet and its intersection and interaction with spirituality, pop psychology, mysticism and religiosity. It was a pleasure having a chance to interview one of my favorite artists, Raymond Pettibon, who designed the Black Flag logo as well as Sonic Youth covers and a million other things. Included in the issue were other artists and designers such as Ruth Root, Bruce Pearson, Michael Oatman, Nigel Freeman and Melissa Gould. Dream project, fulfilled.
 
-<section class="project" markdown="1">
+<section class="project-column-one" markdown="1">
 
 ![](/uploads/uploads/new-observations-2.jpg)
 
