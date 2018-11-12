@@ -55,3 +55,19 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 {% include image-caption.html caption="<i>Soup Magazine</i>" %}
 
 </section>
+
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/soup-7.jpg)
+
+{% include image-caption.html caption="<i>Soup Magazine</i>" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![](/uploads/uploads/soup-8.jpg)
+
+{% include image-caption.html caption="<i>Soup Magazine</i>" %}
+
+</section>
