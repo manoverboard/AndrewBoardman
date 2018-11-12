@@ -62,7 +62,6 @@ fields:
   default: ''
   description: Optional // Shows below the Main Image on the Single Post.
 pages:
-- _posts/2018-11-06-test-post.md
 - _posts/2017-09-25-introduction.md
 - _posts/2018-01-01-test.md
 - _posts/2018-07-30-a-silly-post-about-cats-not.md
