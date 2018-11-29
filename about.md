@@ -4,8 +4,8 @@ label: List Three
 type: field_group_list
 name: list3
 title: About
-main-image: "/uploads/uploads/ab-about-1.jpg"
-sub-title: The best design averts catastrophe.
+main-image: "/uploads/uploads/ab-about.jpg"
+sub-title: Design averts catastrophe.
 description: I founded Manoverboard, a design studio focused on driving social change,
   in 2002 in Brooklyn with the idea of pushing the boundaries of design for innovative
   businesses and nonprofit organizations. Mostly what I do there is design and send

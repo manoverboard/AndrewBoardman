@@ -2,14 +2,14 @@
 title: New Observations
 layout: single-project
 date: 2018-10-07 19:01:39 +0000
-main-image: "/uploads/uploads/main-new-observations-1-1.jpg"
+main-image: "/uploads/uploads/new-observations-1.jpg"
 project-excerpt: Guest edited <i>New Observations</i> magazine published in Summer
   of 1997. With work by Ken Johnson, Nigel Freeman, Xu Bing, Raymond Pettibon, Ruth
   Root, Lukasz Skapcski and Gary Simmons.
 meta-description: Guest edited New Observations magazine, Volume 115
 
 ---
-![](/uploads/uploads/main-new-observations-1-1.jpg)
+![](/uploads/uploads/new-observations-1.jpg)
 
 {% include image-caption.html caption="<i>New Observations</i> cover, Gary Simmons inset" %}
 
@@ -17,32 +17,32 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 
 <section class="project-column-one" markdown="1">
 
-![](/uploads/uploads/main-new-observations-inside-1.jpg)
+![](/uploads/uploads/new-observations-2.jpg)
 
-{% include image-caption.html caption="A Kitten" %}
+{% include image-caption.html caption="Xu Bing: A Book from the Sky" %}
 
 </section>
 
 <section class="project-column-two" markdown="1">
 
-![](/uploads/uploads/main-new-observations-inside-1.jpg)
+![](/uploads/uploads/new-observations-3.jpg)
 
-{% include image-caption.html caption="A Kitten" %}
+{% include image-caption.html caption="Raymond Pettibon interview with me, Ruth Root" %}
 
 </section>
 
 <section class="project-column-one" markdown="1">
 
-![](/uploads/uploads/main-new-observations-inside-1.jpg)
+![](/uploads/uploads/new-observations-4.jpg)
 
-{% include image-caption.html caption="A Kitten" %}
+{% include image-caption.html caption="Mellissa Gould, Ditti Almog" %}
 
 </section>
 
 <section class="project-column-two" markdown="1">
 
-![](/uploads/uploads/main-new-observations-inside-1.jpg)
+![](/uploads/uploads/new-observations-5.jpg)
 
-{% include image-caption.html caption="A Kitten" %}
+{% include image-caption.html caption="Michael Oatman, Carol Shadford" %}
 
 </section>
