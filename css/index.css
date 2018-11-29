@@ -98,24 +98,19 @@ section {
 
 img {
     width: 100%;
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%); 
+    transition: .5s all ease-in-out;
+}
+
+img:hover {
+    -webkit-filter: grayscale(0); 
+    filter: grayscale(0);
+    transition: .5s all ease-in-out;
 }
 
 .image {
     position: relative;
-}
-
-a:hover .image img {
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-    transition: .2s ease-in-out;
-}
-
-a:hover .image img {
-    -webkit-transform: scale(0.995);
-    -ms-transform: scale(0.995);
-    transform: scale(0.995);
-     transition: .2s ease-in-out;
 }
 
 /*
@@ -235,7 +230,7 @@ a {
     color: #1B1B1B !important;
     text-decoration: none;
     border-bottom: 1px solid black;
-    transition: border .3s ease-in-out;
+    transition: all .3s ease-in-out;
 }
 
 a:hover {
@@ -243,7 +238,7 @@ a:hover {
     color: #1B1B1B !important;
     text-decoration: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0);
-    transition: border .3s ease-in-out;
+    transition: all .3s ease-in-out;
 }
 
 figcaption {
@@ -939,7 +934,7 @@ h3.project a {
 }
 
 .single-project .project-content {
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .single-project .project-content p {
@@ -949,6 +944,7 @@ h3.project a {
 
 .single-project .project-content p.project-image {
     max-width: 100% !important;
+    margin-top: 0;
 }
 
 .single-project .heading h2 {

@@ -24,8 +24,7 @@
                             {% endfor %}
                         </ul>
                         {% endif %}
-                        <a href="{{ child.url | absolute_url }}" {% if child.target %} target="_blank" {% endif %}>
-                  {{ child.title }}
+                        <a href="{{ child.url | absolute_url }}" {% if child.target %} target="_blank" {% endif %}>{{ child.title }}
                   {% if child.childen %}
                     <i class='icon-right-dir-2'></i>
                   {% endif %}
@@ -34,12 +33,7 @@
                     {% endfor %}
                 </ul>
                 {% endif %}
-                <a href="{{ link.url | absolute_url }}" {% if link.target %} target="_blank" {% endif %}>
-                  {{ link.title }}
-                  {% if link.childen %}
-                    <i class='icon-chevron-down'></i>
-                  {% endif %}
-                </a>
+                <a href="{{ link.url | absolute_url }}" {% if link.target %} target="_blank" {% endif %}>{{ link.title }}{% if link.childen %}<i class='icon-chevron-down'></i>{% endif %}</a>
             </li>
             {% endfor %}
         </ul>

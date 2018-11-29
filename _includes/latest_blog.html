@@ -2,7 +2,7 @@
 
 <section>
 
-    <a class="kill-underlines latest-post-link" href="{{ "/blog/" | absolute_url }}">
+    <a class="kill-underlines latest-post-link" href="{{ "/blog" | absolute_url }}">
         <h3>Le Blog</h3>
     </a>
 
@@ -18,7 +18,9 @@
             </date>
         </div>
 
-        <h4 class="h2">{{ post.title }}</h4>
+        <a class="kill-underlines" href="{{ post.url }}" aria-hidden="true">
+            <h4 class="h2">{{ post.title }}</h4>
+        </a>
 
         <div class="content">
             <p class="excerpt">
