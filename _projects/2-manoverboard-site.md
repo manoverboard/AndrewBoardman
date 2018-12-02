@@ -10,25 +10,15 @@ project-excerpt: 'Project Excerpt. Consectetuer adipiscing elit. Donec odio. Qui
 meta-description: ''
 
 ---
-![the manoverboard homepage in 2004](/uploads/uploads/project.png)
+![](/uploads/uploads/site-at-mob-home.jpg)
 
-{% include image-caption.html caption="New Obs, 2004" %}
+{% include image-caption.html caption="Soup Magazine, cover from Volume 8: Pleasure, Ltd." %}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
+text text text
 
-Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+<section class="project" markdown="1">
 
-<section class="project-column-one" markdown="1">
-
-![Kitten](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
-
-{% include image-caption.html caption="A Kitten" %}
-
-</section>
-
-<section class="project-column-two" markdown="1">
-
-![Kitten](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
+![](/uploads/uploads/site-at-mob-isabela-basombrio.jpg)
 
 {% include image-caption.html caption="A Kitten" %}
 
@@ -36,16 +26,48 @@ Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit ame
 
 <section class="project-column-one" markdown="1">
 
-![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
+![](/uploads/uploads/site-at-mob-maciej-toporowicz.jpg)
 
-{% include image-caption.html caption="A Kitten" %}
+{% include image-caption.html caption="<i>Soup Magazine</i>" %}
 
 </section>
 
 <section class="project-column-two" markdown="1">
 
-![](/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg)
+![](/uploads/uploads/site-at-mob-mandy-keifitz.jpg)
 
-{% include image-caption.html caption="A Kitten" %}
+{% include image-caption.html caption="<i>Soup Magazine</i>" %}
+
+</section>
+
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/site-at-mob-victor-sparrow.jpg)
+
+{% include image-caption.html caption="<i>Soup Magazine</i>, 1994" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![](/uploads/uploads/site-at-mob-paintings.jpg)
+
+{% include image-caption.html caption="<i>Soup Magazine</i>" %}
+
+</section>
+
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/site-at-mob-gifs.jpg)
+
+{% include image-caption.html caption="<i>Soup Magazine</i>" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![](/uploads/uploads/site-at-mob-archive.jpg)
+
+{% include image-caption.html caption="<i>Soup Magazine</i>" %}
 
 </section>
