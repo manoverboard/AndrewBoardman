@@ -42,7 +42,7 @@ text text text
 
 <section class="project-column-one" markdown="1">
 
-![](/uploads/uploads/site-at-mob-victor-sparrow.jpg)
+![](/uploads/uploads/site-at-victor-sparrow-1.jpg)
 
 {% include image-caption.html caption="Paintings by Victor Sparrow" %}
 
