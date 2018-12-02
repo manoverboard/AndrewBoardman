@@ -13,7 +13,7 @@ published: false
 ---
 ![](/uploads/uploads/site-at-mob-home.jpg)
 
-{% include image-caption.html caption="Soup Magazine, cover from Volume 8: Pleasure, Ltd." %}
+{% include image-caption.html caption="Soup Magazine, cover from Volume 8: Pleasure, Ltd" %}
 
 text text text
 
