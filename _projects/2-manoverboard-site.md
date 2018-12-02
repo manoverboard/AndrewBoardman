@@ -12,7 +12,7 @@ meta-description: ''
 ---
 ![](/uploads/uploads/site-at-mob-home.jpg)
 
-{% include image-caption.html caption="Soup Magazine, cover from Volume 8: Pleasure, Ltd" %}
+{% include image-caption.html caption="Soup Magazine, cover from Volume 8: Pleasure" %}
 
 text text text
 
