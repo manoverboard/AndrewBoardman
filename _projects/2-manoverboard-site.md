@@ -3,7 +3,7 @@ title: The Site at Manoverboard
 layout: single-project
 date: 2018-07-27 19:06:12 +0000
 main-title: The Site at Manoverboard — 2004
-main-image: "/uploads/uploads/project.png"
+main-image: "/uploads/uploads/site-at-mob-home.jpg"
 project-excerpt: 'Project Excerpt. Consectetuer adipiscing elit. Donec odio. Quisquessfsdfasd
   arguably volutpat mattis eros. is. Suspendisse urna nibh, viverra non, semper suscipit,
   posuere a, pede. '
