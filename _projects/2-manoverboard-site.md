@@ -10,25 +10,25 @@ project-excerpt: 'Project Excerpt. Consectetuer adipiscing elit. Donec odio. Qui
 meta-description: ''
 
 ---
-![](/uploads/uploads/site-at-mob-home.jpg)
+![screenshot of the site at manoverboard](/uploads/uploads/site-at-mob-home.jpg)
 
-{% include image-caption.html caption="Soup Magazine, cover from Volume 8: Pleasure" %}
+{% include image-caption.html caption="Homepage of The Site at Manoverboard" %}
 
 text text text
 
 <section class="project" markdown="1">
 
-![](/uploads/uploads/site-at-mob-isabela-basombrio.jpg)
+![screenshot isabela basombrio](/uploads/uploads/site-at-mob-isabela-basombrio.jpg)
 
-{% include image-caption.html caption="A Kitten" %}
+{% include image-caption.html caption="Work by Isabela Basombrio" %}
 
 </section>
 
 <section class="project-column-one" markdown="1">
 
-![](/uploads/uploads/site-at-mob-maciej-toporowicz.jpg)
+![screenshot maciej toporowicz](/uploads/uploads/site-at-mob-maciej-toporowicz.jpg)
 
-{% include image-caption.html caption="<i>Soup Magazine</i>" %}
+{% include image-caption.html caption="Work by Maciej Toporowicz" %}
 
 </section>
 
@@ -36,7 +36,7 @@ text text text
 
 ![](/uploads/uploads/site-at-mob-mandy-keifitz.jpg)
 
-{% include image-caption.html caption="<i>Soup Magazine</i>" %}
+{% include image-caption.html caption="Book by Mandy Keifetz with cover by Eric Drooker" %}
 
 </section>
 
@@ -44,30 +44,31 @@ text text text
 
 ![](/uploads/uploads/site-at-mob-victor-sparrow.jpg)
 
-{% include image-caption.html caption="<i>Soup Magazine</i>, 1994" %}
+{% include image-caption.html caption="Paintings by Victor Sparrow" %}
 
 </section>
 
 <section class="project-column-two" markdown="1">
 
-![](/uploads/uploads/site-at-mob-paintings.jpg)
+![screenshot of the site at manoverboard](/uploads/uploads/site-at-mob-paintings.jpg)
 
-{% include image-caption.html caption="<i>Soup Magazine</i>" %}
+{% include image-caption.html caption="Paintings by me" %}
 
 </section>
 
 <section class="project-column-one" markdown="1">
 
-![](/uploads/uploads/site-at-mob-gifs.jpg)
+  
+![screenshot of gifs on the site at manoverboard](/uploads/uploads/site-at-mob-gifs.jpg)
 
-{% include image-caption.html caption="<i>Soup Magazine</i>" %}
+{% include image-caption.html caption="GIFs by me" %}
 
 </section>
 
 <section class="project-column-two" markdown="1">
 
-![](/uploads/uploads/site-at-mob-archive.jpg)
+![screenshot of archives on the site at manoverboard](/uploads/uploads/site-at-mob-archive.jpg)
 
-{% include image-caption.html caption="<i>Soup Magazine</i>" %}
+{% include image-caption.html caption="The Archives" %}
 
 </section>
