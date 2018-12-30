@@ -26,6 +26,7 @@ sidebar_content: <h4>A few who have influenced the making of this site:</h4><ul>
   title="">Philip Guston</a> (painter)</p></li><li><p><a href="http://www.cytwombly.org/artworks"
   title="">Cy Twombly</a> (painter)</p></li></ul>
 main_image: "/uploads/uploads/sonic-youth.png"
+meta-description: ''
 menu:
   footer:
     weight: 1
@@ -39,7 +40,7 @@ I'm also including a list of software and tools. This is a different site than m
 
 * [Nikki Wolfe](http://nikkitaylor.ca/) (developer)
 * [Daniel Lamb](http://www.quicksheep.com/) (developer)
-* [Maeve Boardman](https://twitter.com/maevebrave) (daughter)
+* [Maeve Boardman](https://www.instagram.com/maevebrave/) (daughter)
 * [Me](https://twitter.com/deckchairs) (myself and I)
 
 #### Software and tools used for this site:

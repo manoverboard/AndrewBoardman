@@ -39,5 +39,5 @@ fields:
   name: sidebar_content
   description: This goes under the right aligned photo. Optional.
 pages:
-- 404.md
 - colophon.md
+- 404.md
