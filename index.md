@@ -5,7 +5,7 @@ type: text
 name: timing-pre
 title: Home
 main-title: Andrew Boardman is a designer, writer and evolutionary finalist.
-main-image: "/uploads/uploads/sun-god.jpg"
+main-image: "/uploads/uploads/andy-maevedrawing.jpg"
 sub-title: This is my site. It has words and pictures. And it took about fifty years
   to make.
 timing-pre: At this very moment, he is
