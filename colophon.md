@@ -29,7 +29,7 @@ main_image: "/uploads/uploads/sonic-youth.png"
 meta-description: ''
 menu:
   footer:
-    weight: 1
+    weight: 2
 
 ---
 Nothing comes easy — even when those things that are easy. There are thousands of people that have directly and indirectly helped make this site, from elementary school teachers to recent friends. Putting a value and weight on the causality of any production is difficult. But, what the hell, and here's a list.
