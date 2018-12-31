@@ -54,6 +54,8 @@ list2:
   link: ''
 list_3_title: A few talks I gave.
 list3:
+- item: 'Sustainability Insights: Towards a Cleaner, Greener UX'
+  link: https://newmediamanitoba.com/events/394/sustainability-insights-green-ux-and-a-greener-web
 - item: Serving Green
   link: http://www.sustainableux.com/talks/2017/boardman/
 - item: The Bonsai Web (Red River College)
@@ -76,21 +78,20 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   triumphs and abominable tragedies? What does it mean to design answers? And how
   do we make our connections and commentaries matter?</p><p>These are some of the
   questions that challenge me and cut across my work and practice. I call this site
-  "A to B" because it's what I know. I'm leaving "C to Z" to others.</p><p>Who is
-  Andrew Boardman? I am a designer, managing a studio in Canada called <a href="https://manoverboard.com"
+  "A to B" because it's what I know. (I'm leaving "C to Z" to others.)</p><p>I am
+  a designer and artist who runs a studio in Canada called <a href="https://manoverboard.com"
   title="">Manoverboard</a>. Our focus is on helping organizations drive social change
-  through human-centered design and long-term digital strategy. The company began
-  in 2002 out of my apartment in Brooklyn. My objective is to advance a more humane
-  and sustainable web that is accessible, equitable and durable. I send a lot of emails.</p><p>I
-  also draw and write. I'm developing a book on design responsibility. I recently
-  taught design at Red River College. And I write articles and speak on subjects such
-  as technology, authoritarianism, UX and sustainability.</p><p>What else? I cut my
-  teeth designing Barneys New York’s first e-commerce site. I hold a B.A. from Brown
-  University and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship and
-  a NYFA Fellowship. I worked at The Rockefeller Foundation for many years. Today,
-  I live in Winnipeg, Canada with my wife, daughter, and three black cats.</p><p>It
-  took about 13.8 billion years for me to get to this sentence. If you desire, please
-  go ahead and <a href="mailto:andrew@manoverboard.com" title="email andrew boardman">email
+  through human-centered design and long-term digital strategy. Manoverboard began
+  in 2002 out of my Brooklyn apartment. My objective is to advance a more humane and
+  sustainable web that is accessible, equitable and durable.</p><p>I also draw and
+  write. I'm working on a book on design responsibility. I teach at the University
+  of Manitoba and recently taught at Red River College. My primary interest is in
+  subjects such as consciousness, history and visualization.</p><p>What else? I cut
+  my teeth designing Barneys New York’s first e-commerce site. I hold a B.A. from
+  Brown University and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship
+  and a NYFA Fellowship. I worked at The Rockefeller Foundation for many years.</p><p>It
+  took about 13.8 billion years for me to get to this sentence. In this next sentence,
+  you might <a href="mailto:andrew@manoverboard.com" title="email andrew boardman">email
   me</a>.</p>
 meta-description: This is the site of Andrew Boardman. Actually, this is the meta
   description for the about page. Designer, writer. Founder of studio Manoverboard.
