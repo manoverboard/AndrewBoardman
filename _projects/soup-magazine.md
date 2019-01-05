@@ -14,7 +14,7 @@ meta-description: Published ten volumes of nationally-distributed Soup Magazine 
 
 {% include image-caption.html caption="<i>Soup Magazine</i>, Volume 8: Pleasure, Ltd." %}
 
-Desktop publishing was became a viable means of disseminating new ideas and images around 1990. Towards the end of graduate school, I edited and published a semi-regular zine called <i>Soup Magazine</i> that combined the work of professional artists with that of emerging ones. Along with a number of irrationally committed editors, Soup Magazine published about ten issues with themes like pleasure, politics, and reality. At that time, it wasn't hard to get established artists like Robert Longo, Barbara Ess and Vito Acconci to participate in our project. This was an entirely self-funded effort and the magazine was sold at A/C Project Room (New York), Printed Matter (New York) and Tower Books (throughout the United States).
+Desktop publishing was became a viable means of disseminating new ideas and images around 1990. Towards the end of graduate school, I edited and published a semi-regular zine called <i>Soup Magazine</i> that combined the work of professional artists with that of emerging ones. Along with a number of irrationally committed editors, including Tara Fracalossi, Tom Lail and Chelly Rock, <i>Soup Magazine</i> published about nine issues with themes like pleasure, politics, and reality. At that time, it wasn't hard to get established artists like Robert Longo, Barbara Ess and Vito Acconci to participate in our project. This was an entirely self-funded effort and the magazine was sold at A/C Project Room (New York), Printed Matter (New York) and Tower Books (throughout the United States).
 
 <section class="project" markdown="1">
 
