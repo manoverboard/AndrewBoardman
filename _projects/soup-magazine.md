@@ -20,7 +20,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 ![soup magazine cover](/uploads/uploads/soup-2.jpg)
 
-{% include image-caption.html caption="<i>Soup Magazine</i> Volume 7: Faks" %}
+{% include image-caption.html caption="Robert Seals: Me and Mommy and the Cat/Caroline, <i>Soup Magazine</i> Volume 7: Faks" %}
 
 </section>
 
@@ -36,7 +36,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 ![soup magazine interior spread](/uploads/uploads/soup-4.jpg)
 
-{% include image-caption.html caption="<i>Robert Longo: White Cross on Black Square/White Cross with Red Edges + Michael Oatman: Xero 7023 Facsimile Terminal User Handbook, <i>Soup Magazine</i> Volume 7, 1993</i>" %}
+{% include image-caption.html caption="Robert Longo: White Cross on Black Square/White Cross with Red Edges + Michael Oatman: Xero 7023 Facsimile Terminal User Handbook, <i>Soup Magazine</i> Volume 7, 1993</i>" %}
 
 </section>
 
@@ -60,7 +60,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 ![](/uploads/uploads/soup-7.jpg)
 
-{% include image-caption.html caption="Jessica Loy + Tara Fracalossi, <i>Soup Magazine</i> Volume 2" %}
+{% include image-caption.html caption="Tara Fracalossi: Well, I can't remember any joks about Ronald Reagan, <i>Soup Magazine</i> Volume 2" %}
 
 </section>
 
