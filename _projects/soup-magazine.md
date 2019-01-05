@@ -26,7 +26,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 <section class="project-column-one" markdown="1">
 
-![soup magazine interior spread](/uploads/uploads/soup-3.jpg)
+![soup magazine interior spread](/uploads/uploads/new-observations-inside-2.jpg)
 
 {% include image-caption.html caption="Editors's Notes + Mark Schaming: Collage, <i>Soup Magazine</i>, Volume 3, 1994" %}
 
