@@ -42,6 +42,12 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 <section class="project-column-one" markdown="1">
 
+![soup magazine cover](/uploads/uploads/soup-cover-no9.jpg)
+
+{% include image-caption.html caption="Cover, <i>Soup Magazine</i>, Volume 9, 1995" %}
+
+</section>
+
 ![soup magazine cover](/uploads/uploads/soup-5.jpg)
 
 {% include image-caption.html caption="Cover, <i>Soup Magazine, Volume 2</i>, 1994" %}
@@ -58,7 +64,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 <section class="project-column-one" markdown="1">
 
-![](/uploads/uploads/soup-7.jpg)
+![soup magazine interior spread](/uploads/uploads/soup-7.jpg)
 
 {% include image-caption.html caption="Tara Fracalossi: Well, I can't remember any jokes about Ronald Reagan, <i>Soup Magazine</i>, Volume 2, 1992" %}
 
@@ -69,5 +75,15 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 ![soup magazine interior spread](/uploads/uploads/soup-8.jpg)
 
 {% include image-caption.html caption="Corinna Schaming: Practice Sheet, <i>Soup Magazine</i>, Volume 3, 1992" %}
+
+</section>
+
+</section>
+
+<section class="project-column-one" markdown="1">
+
+![soup magazine interior spread](/uploads/uploads/soup-10.jpg)
+
+{% include image-caption.html caption="Andrew Boardman: Released, <i>Soup Magazine</i>, Volume 7, 1993" %}
 
 </section>
