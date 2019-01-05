@@ -84,7 +84,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 <section class="project-column-one" markdown="1">
 
-![soup magazine interior spread](/uploads/uploads/soup-10.jpg)
+![soup magazine interior spread](/uploads/uploads/soup-10-1.jpg)
 
 {% include image-caption.html caption="Andrew Boardman: Released, <i>Soup Magazine</i>, Volume 7, 1993" %}
 
@@ -92,8 +92,8 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 <section class="project-column-two" markdown="1">
 
-![soup magazine interior spread](/uploads/uploads/soup-10.jpg)
+![soup magazine interior spread](/uploads/uploads/soup-11.jpg)
 
-{% include image-caption.html caption="Andrew Boardman: Released, <i>Soup Magazine</i>, Volume 7, 1993" %}
+{% include image-caption.html caption="Dawn Clements: drawing, <i>Soup Magazine</i>, Volume 8, 1994" %}
 
 </section>
