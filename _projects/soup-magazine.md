@@ -28,7 +28,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 ![soup magazine interior spread](/uploads/uploads/soup-3.jpg)
 
-{% include image-caption.html caption="Editors's Notes + Mark Schaming: Collage, <i>Soup Magazine</i> Volume 3, 1994" %}
+{% include image-caption.html caption="Editors's Notes + Mark Schaming: Collage, <i>Soup Magazine</i>, Volume 3, 1994" %}
 
 </section>
 
@@ -36,7 +36,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 ![soup magazine interior spread](/uploads/uploads/soup-4.jpg)
 
-{% include image-caption.html caption="Robert Longo: White Cross on Black Square/White Cross with Red Edges + Michael Oatman: Xero 7023 Facsimile Terminal User Handbook, <i>Soup Magazine</i> Volume 7, 1993" %}
+{% include image-caption.html caption="Robert Longo: White Cross on Black Square/White Cross with Red Edges + Michael Oatman: Xero 7023 Facsimile Terminal User Handbook, <i>Soup Magazine</i>, Volume 7, 1993" %}
 
 </section>
 
@@ -60,7 +60,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 ![](/uploads/uploads/soup-7.jpg)
 
-{% include image-caption.html caption="Tara Fracalossi: Well, I can't remember any jokes about Ronald Reagan, <i>Soup Magazine</i> Volume 2" %}
+{% include image-caption.html caption="Tara Fracalossi: Well, I can't remember any jokes about Ronald Reagan, <i>Soup Magazine</i>, Volume 2" %}
 
 </section>
 
@@ -68,6 +68,6 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 ![soup magazine interior spread](/uploads/uploads/soup-8.jpg)
 
-{% include image-caption.html caption="Corinna Schaming: Practice Sheet, <i>Soup Magazine</i> Volume 3" %}
+{% include image-caption.html caption="Corinna Schaming: Practice Sheet, <i>Soup Magazine</i>, Volume 3" %}
 
 </section>
