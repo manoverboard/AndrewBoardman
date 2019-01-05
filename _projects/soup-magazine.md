@@ -46,6 +46,8 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 {% include image-caption.html caption="Cover, <i>Soup Magazine</i>, Volume 9: Art/Culture, 1995" %}
 
+</section>
+
 <section class="project-column-one" markdown="1">
 
 ![soup magazine interior spread](/uploads/uploads/soup-10-1.jpg)
@@ -59,8 +61,6 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 ![soup magazine interior spread](/uploads/uploads/soup-11.jpg)
 
 {% include image-caption.html caption="Dawn Clements: drawing, <i>Soup Magazine</i>, Volume 8, 1994" %}
-
-</section>
 
 </section>
 
