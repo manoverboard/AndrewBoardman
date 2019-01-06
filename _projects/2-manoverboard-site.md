@@ -14,7 +14,7 @@ meta-description: ''
 
 {% include image-caption.html caption="Homepage of The Site at Manoverboard, 1998-2005" %}
 
-text text text
+I designed my first website around 1996 but this was the first one that took hold. The Site at Manoverboard, which still oddly [exists](http://manoverboard.net/archives/), was an online gallery to show artists "of extreme vision." I acted as designer, curator and publisher of The Site and sought out artists whose ideas, imagery or methodologies were fundamentally new and undiscovered at the time. Many of these artists were friends or they became friends. I even featured and had a chance to meet the great [Jason Kottke](https://kottke.org/). I miss those heady, pre-viral and pre-video days of the internet. There was a deep humility about showing and making art online. Perhaps there is still is. 
 
 <section class="project" markdown="1">
 
