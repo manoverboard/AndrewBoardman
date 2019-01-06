@@ -4,10 +4,8 @@ layout: single-project
 date: 2018-10-07 18:06:37 +0000
 main-image: "/uploads/uploads/transparencies-1.jpg"
 project-excerpt: These are a series of ink drawings on tracing paper completed between
-  1994 and 1995. The drawings show an amalgamation of tracings of cartoons, corporate
-  identities, and product manuals and ephemera published prior to the Second World
-  War. I made these to see how some of the Jewish, Polish, German and American visual
-  vernacular might work together assuredly and anxiously.
+  1994 and 1995. The drawings show an amalgamation of my tracings of cartoons, corporate
+  identities, and ephemera published prior to the Second World War.
 meta-description: A series of drawing on tracing paper about the collision of Jewish
   ephemeral culture that itself becomes ephemeral in the collision with commercial
   culture.
