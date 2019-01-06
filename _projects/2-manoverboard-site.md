@@ -12,7 +12,7 @@ meta-description: ''
 ---
 ![screenshot of the site at manoverboard](/uploads/uploads/site-at-mob-home.jpg)
 
-{% include image-caption.html caption="Homepage of The Site at Manoverboard" %}
+{% include image-caption.html caption="Homepage of The Site at Manoverboard, 1998-2005" %}
 
 text text text
 
@@ -36,7 +36,7 @@ text text text
 
 ![](/uploads/uploads/site-at-mob-mandy-keifitz.jpg)
 
-{% include image-caption.html caption="Book by Mandy Keifetz with cover by Eric Drooker" %}
+{% include image-caption.html caption="Book by Mandy Keifetz with a book cover by Eric Drooker" %}
 
 </section>
 
@@ -58,7 +58,6 @@ text text text
 
 <section class="project-column-one" markdown="1">
 
-  
 ![screenshot of gifs on the site at manoverboard](/uploads/uploads/site-at-mob-gifs.jpg)
 
 {% include image-caption.html caption="GIFs by me" %}
@@ -69,6 +68,6 @@ text text text
 
 ![screenshot of archives on the site at manoverboard](/uploads/uploads/site-at-mob-archive.jpg)
 
-{% include image-caption.html caption="The Archives" %}
+{% include image-caption.html caption="The Archives (with about 33 artists)" %}
 
 </section>
