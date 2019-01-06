@@ -50,3 +50,19 @@ A series of drawing on tracing paper about the collision of Jewish ephemeral cul
 {% include image-caption.html caption="<i>A—Z</i>, ink on tracing paper, 1995" %}
 
 </section>
+
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/transparencies-7.jpg)
+
+{% include image-caption.html caption="<i>G-d</i>, ink on tracing paper, 1995" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![](/uploads/uploads/transparencies-8.jpg)
+
+{% include image-caption.html caption="<i>A—Z</i>, ink on tracing paper, 1995" %}
+
+</section>
