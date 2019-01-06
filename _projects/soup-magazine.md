@@ -2,7 +2,7 @@
 title: Soup Magazine
 layout: single-project
 date: 2018-10-07 18:58:20 +0000
-main-image: "/uploads/uploads/soup-1.jpg"
+main-image: "/uploads/uploads/soup-cover-no9.jpg"
 project-excerpt: I founded <i>Soup Magazine</i> and published about nine issues of
   this rebellious zine distributed throughout the U.S. between 1991 and 1994. Printed
   and distributed in Albany, New York.
