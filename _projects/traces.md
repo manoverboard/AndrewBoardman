@@ -55,7 +55,7 @@ A series of drawing on tracing paper about the collision of Jewish ephemeral cul
 
 ![](/uploads/uploads/transparencies-7.jpg)
 
-{% include image-caption.html caption="<i>G-d</i>, ink on tracing paper, 1995" %}
+{% include image-caption.html caption="<i>Okrąg</i>, ink on tracing paper, 1995" %}
 
 </section>
 
@@ -63,6 +63,6 @@ A series of drawing on tracing paper about the collision of Jewish ephemeral cul
 
 ![](/uploads/uploads/transparencies-8.jpg)
 
-{% include image-caption.html caption="<i>A—Z</i>, ink on tracing paper, 1995" %}
+{% include image-caption.html caption="<i>Andy Boy</i>, ink on tracing paper, 1995" %}
 
 </section>
