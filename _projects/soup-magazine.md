@@ -3,9 +3,9 @@ title: Soup Magazine
 layout: single-project
 date: 2018-10-07 18:58:20 +0000
 main-image: "/uploads/uploads/soup-1.jpg"
-project-excerpt: Publisher of ten volumes of <i>Soup Magazine</i>, a rebellious zine
-  distributed throughout the U.S. between 1991 and 1994. Printed and distributed in
-  Albany, New York.
+project-excerpt: I founded <i>Soup Magazine</i> and published about nine issues of
+  this rebellious zine distributed throughout the U.S. between 1991 and 1994. Printed
+  and distributed in Albany, New York.
 meta-description: Published ten volumes of nationally-distributed Soup Magazine between
   1991 and 1994.
 
@@ -14,7 +14,7 @@ meta-description: Published ten volumes of nationally-distributed Soup Magazine 
 
 {% include image-caption.html caption="Cover, <i>Soup Magazine</i>, Volume 8: Pleasure, Ltd., 1994" %}
 
-Desktop publishing was became a viable means of disseminating new ideas and images around 1990. Towards the end of graduate school, I edited and published a semi-regular zine called <i>Soup Magazine</i> that combined the work of professional artists with that of emerging ones. Along with a number of irrationally committed editors, including Tara Fracalossi, Tom Lail and Chelly Rock, <i>Soup Magazine</i> published about nine issues with themes like pleasure, politics, and reality. At that time, it wasn't hard to get established artists like Robert Longo, Barbara Ess and Vito Acconci to participate in our project. This was an entirely self-funded effort and the magazine was sold at A/C Project Room (New York), Printed Matter (New York) and Tower Books (throughout the United States).
+Desktop publishing  became a viable means of disseminating new ideas and images around 1990. Towards the end of graduate school, I edited and published a semi-regular zine called <i>Soup Magazine</i> that combined the work of professional artists with that of emerging ones. Along with a number of editors, including Tara Fracalossi, Tom Lail and Chelly Rock, <i>Soup Magazine</i> published about nine issues with themes like pleasure, politics, and reality. At that time, it wasn't so hard to get established artists like Robert Longo, Barbara Ess and Vito Acconci to participate in our project. This was an entirely self-funded effort and the magazine was sold at A/C Project Room (New York), Printed Matter (New York) and Tower Books (throughout the United States). I think it might still be at Printer Matter.
 
 <section class="project" markdown="1">
 
@@ -60,7 +60,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 ![soup magazine interior spread](/uploads/uploads/soup-11.jpg)
 
-{% include image-caption.html caption="Dawn Clements: drawing, <i>Soup Magazine</i>, Volume 8, 1994" %}
+{% include image-caption.html caption="Dawn Clements: drawing + Rob Reuss: Pet the Cat, <i>Soup Magazine</i>, Volume 8, 1994" %}
 
 </section>
 
@@ -68,7 +68,7 @@ Desktop publishing was became a viable means of disseminating new ideas and imag
 
 ![soup magazine cover](/uploads/uploads/soup-5.jpg)
 
-{% include image-caption.html caption="Cover, <i>Soup Magazine, Volume 2</i>, 1994" %}
+{% include image-caption.html caption="Cover, <i>Soup Magazine</i>: Post-Election Realities, Volume 2, 1994" %}
 
 </section>
 
