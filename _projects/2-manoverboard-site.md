@@ -6,7 +6,7 @@ main-title: The Site at Manoverboard — 2004
 main-image: "/uploads/uploads/site-at-mob-home.jpg"
 project-excerpt: Between 1998 and 2005, I published an online art gallery featuring
   artists and writers "of extreme vision". The Site grew to show the work of about
-  33 individuals, including my own drawings, paintings and animated gifs.
+  33 individuals, including my own work.
 meta-description: An online art gallery featuring artists and writers "of extreme
   vision". The Site grew to show the work of about 33 individuals between 1998 and
   2005.
