@@ -33,7 +33,9 @@ menu:
     weight: 2
 
 ---
-Nothing comes easy. There are thousands of people that have directly and indirectly helped make this site, from my elementary school teachers to recent friends. Putting a value and weight on the causality and agency of any production is difficult. But, what the hell, and here's a short list.
+Nothing comes easy.
+
+There are thousands of people that have directly and indirectly helped make this site, from my elementary school teachers to recent friends. Putting a value and weight on the causality and agency of any production is difficult. But, what the heck; below is a short list.
 
 I'm also including a list of some software and tools. This is a different site than most, in part because of the technologies behind it.
 
