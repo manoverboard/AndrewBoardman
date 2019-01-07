@@ -10,16 +10,16 @@ published: false
 ---
 <section class="project-column-one" markdown="1">
 
-![screenshot maciej toporowicz](/uploads/uploads/animal.gif)
+![frog becomes man](/uploads/uploads/animal.gif)
 
-{% include image-caption.html caption="Work by Maciej Toporowicz" %}
+{% include image-caption.html caption="Frog-Man" %}
 
 </section>
 
 <section class="project-column-two" markdown="1">
 
-![](/uploads/uploads/cldanim.gif)
+![cloud crying rain](/uploads/uploads/cldanim.gif)
 
-{% include image-caption.html caption="Book by Mandy Keifetz with a great cover by Eric Drooker" %}
+{% include image-caption.html caption="Cloud" %}
 
 </section>
