@@ -31,7 +31,7 @@ list1:
   link: https://serving.green/
 - item: Ducks Unlimited Canada
   link: http://iwwr.ducks.ca/
-list_2_title: A few pieces I wrote.
+list_2_title: A few pieces that I wrote.
 fields:
 - label: Item
   type: text
@@ -52,7 +52,7 @@ list2:
   link: https://medium.com/ecosystem-monkeys/daddy-how-were-websites-made-b0b324e35bf7
 - item: Xu Bing’s Square Words and the Fragility of Language
   link: ''
-list_3_title: A few talks I gave.
+list_3_title: A few talks that I gave.
 list3:
 - item: 'Sustainability Insights: Towards a Cleaner, Greener UX'
   link: https://newmediamanitoba.com/events/394/sustainability-insights-green-ux-and-a-greener-web
@@ -79,23 +79,21 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   do we make our connections and commentaries matter?</p><p>These are some of the
   questions that challenge me and cut across my work and practice. I call this site
   "A to B" because it's what I know. (I'm leaving "C to Z" to others.)</p><p>I am
-  a designer and artist who runs a studio in Canada called <a href="https://manoverboard.com"
+  a designer who runs a studio in Canada called <a href="https://manoverboard.com"
   title="">Manoverboard</a>. Our focus is on helping organizations drive social change
-  through human-centered design and long-term digital strategy. Manoverboard began
-  in 2002 out of my Brooklyn apartment. My objective is to advance a more humane and
-  sustainable web that is accessible, equitable and durable.</p><p>I also draw and
-  write. I'm working on a book on design responsibility. I teach at the University
-  of Manitoba and recently taught at Red River College. My primary interest is in
-  subjects such as consciousness, history and visualization.</p><p>What else? I cut
-  my teeth designing Barneys New York’s first e-commerce site. I hold a B.A. from
-  Brown University and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship
-  and a NYFA Fellowship. I worked at The Rockefeller Foundation for many years.</p><p>It
-  took about 13.8 billion years for me to get to this sentence. In this next sentence,
-  you might <a href="mailto:andrew@manoverboard.com" title="email andrew boardman">email
-  me</a>.</p>
-meta-description: This is the site of Andrew Boardman. Actually, this is the meta
-  description for the about page. Designer, writer. Founder of studio Manoverboard.
-  There are posts and projects.
+  through human-centered design. Manoverboard began in 2002 out of my Brooklyn apartment.</p><p>In
+  addition to managing the studio, I draw and write. I am slowly working on a book
+  on design responsibility. I teach at the University of Manitoba and recently taught
+  at Red River College in Winnipeg. My primary interests like in subjects such as
+  consciousness, history and critical theory.</p><p>What else? I cut my design teeth
+  creating Barneys New York’s first e-commerce site. I hold a B.A. from Brown University
+  and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship and a NYFA Fellowship.
+  I worked at The Rockefeller Foundation for many years.</p><p>It took about 13.8
+  billion years for me to get to this sentence. In this next sentence, you might <a
+  href="mailto:andrew@manoverboard.com" title="email andrew boardman">email me</a>.</p>
+meta-description: This is the About page about Andrew Boardman. I design, draw, write
+  and teach. Plus I read books. Mostly on graphic design, history, consciousness,
+  theory.
 menu:
   navigation:
     identifier: _about
