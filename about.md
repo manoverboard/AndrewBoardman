@@ -84,7 +84,7 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   through human-centered design. Manoverboard began in 2002 out of my Brooklyn apartment.</p><p>In
   addition to managing the studio, I draw and write. I am slowly working on a book
   on design responsibility. I teach at the University of Manitoba and recently taught
-  at Red River College in Winnipeg. My primary interests like in subjects such as
+  at Red River College in Winnipeg. My interests outside of graphic design include
   consciousness, history and critical theory.</p><p>What else? I cut my design teeth
   creating Barneys New York’s first e-commerce site. I hold a B.A. from Brown University
   and an M.F.A. from SUNY Albany. I received a Fulbright Fellowship and a NYFA Fellowship.
