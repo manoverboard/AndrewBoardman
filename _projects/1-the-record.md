@@ -45,3 +45,19 @@ This was a very productive time for me in the land of drawing. I found that goua
 {% include image-caption.html caption="<i>Pyramids</i>, gouache on paper, 1997" %}
 
 </section>
+
+<section class="project-column-one" markdown="1">
+
+![interior of catalogue](/uploads/uploads/factory-direct-top.jpg)
+
+{% include image-caption.html caption="<i>Pyramids</i>, gouache on paper, 1997" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![interior of catalogue](/uploads/uploads/factory-direct-bottom.jpg)
+
+{% include image-caption.html caption="<i>Pyramids</i>, gouache on paper, 1997" %}
+
+</section>
