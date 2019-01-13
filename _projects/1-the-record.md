@@ -8,7 +8,7 @@ project-excerpt: Project remembering 9/11 about the front page of September 10, 
 meta-description: ''
 
 ---
-![drawing on paper](/uploads/uploads/factory-direct-cover.jpg)
+![drawing on paper](/uploads/uploads/factory-direct-inside-2.jpg)
 
 {% include image-caption.html caption="<i>Sun</i>, gouache on paper, 1997" %}
 
@@ -16,7 +16,7 @@ This was a very productive time for me in the land of drawing. I found that goua
 
 <section class="project-column-one" markdown="1">
 
-![drawing on paper](/uploads/uploads/factory-direct-toc.jpg)
+![drawing on paper](/uploads/uploads/factory-direct-cover.jpg)
 
 {% include image-caption.html caption="<i>Pyramids</i>, gouache on paper, 1997" %}
 
@@ -24,7 +24,7 @@ This was a very productive time for me in the land of drawing. I found that goua
 
 <section class="project-column-two" markdown="1">
 
-![drawing on paper](/uploads/uploads/factory-direct-inside.jpg)
+![drawing on paper](/uploads/uploads/factory-direct-toc.jpg)
 
 {% include image-caption.html caption="<i>G-d</i>, gouache on paper, 1997" %}
 
@@ -32,7 +32,7 @@ This was a very productive time for me in the land of drawing. I found that goua
 
 <section class="project" markdown="1">
 
-![drawing on paper](/uploads/uploads/factory-direct-inside-2.jpg)
+![drawing on paper](/uploads/uploads/factory-direct-inside.jpg)
 
 {% include image-caption.html caption="<i>Pyramids</i>, gouache on paper, 1997" %}
 
