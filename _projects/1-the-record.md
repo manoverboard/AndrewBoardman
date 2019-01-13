@@ -30,9 +30,17 @@ This was a very productive time for me in the land of drawing. I found that goua
 
 </section>
 
-<section class="project" markdown="1">
+<section class="project-column-one" markdown="1">
 
 ![interior of catalogue](/uploads/uploads/factory-direct-inside.jpg)
+
+{% include image-caption.html caption="<i>Pyramids</i>, gouache on paper, 1997" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![interior of catalogue](/uploads/uploads/factory-direct-inside-2.jpg)
 
 {% include image-caption.html caption="<i>Pyramids</i>, gouache on paper, 1997" %}
 
