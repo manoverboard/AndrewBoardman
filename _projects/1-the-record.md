@@ -3,16 +3,17 @@ title: The Record
 layout: single-project
 date: 2018-10-07 19:04:57 +0000
 main-image: "/uploads/uploads/factory-direct-closeup.jpg"
-project-excerpt: Project remembering 9/11 about the front page of September 10, 2001,
-  from a show called Factory Direct in April 2002.
-meta-description: ''
+project-excerpt: Commissioned project in which the front page of a newspaper from
+  September 11, 2001, is enlarged for an exhibit called Factory Direct.
+meta-description: The front page of a newspaper from September 11, 2001, is enlarged
+  to show what our lives looked like prior to the tragedy.
 
 ---
 ![interior of catalogue](/uploads/uploads/factory-direct-closeup.jpg)
 
 {% include image-caption.html caption="<i>Sun</i>, gouache on paper, 1997" %}
 
-This was a very productive time for me in the land of drawing. I found that gouache and pen and ink (and sometimes in combination) could provide a substitute for oil on canvas and was way to more quickly explore new subject matter. Part of the project here is to call into question the concept and activity of painting, with the ultimate motive of "hanging" and all that that entails. The works here reference G-d, history and the intimate narratives that take place between the two, consciously and covertly. These drawings are very personal but also are an attempt at connecting up with and floating on a deep stream of Jewish visual history.
+In 2003, I was asked by three artist curators from Troy, New York to create a new work for an exhibition called Factory Direct. Two years in the making, the show's project was to match fourteen individual artists with companies and industries in the Capital Region and to exhibit the various results. Having experienced the 9/11 tragedy in Manhattan, I worked with <i>The Troy Record</i>, a highly respected newspaper founded in 1896, and examined the front page of the paper as it appeared on September 11, 2001. I enlarged this full-color page to approximately 12 x 6 feet in size and had it mounted on a stand. It was a means to imagine what someone in the sky (perhaps G-d or passengers on American Airlines Flight 11, which flew near Troy on that fateful day) might have seen on that day. Nothing of substance happened on September 10, 2001. The piece is a kind of record, writ large, of our innocence. The catalogue, designed by Paul Miyamoto, captured the essence of the entire exhibition beautifully.
 
 <section class="project-column-one" markdown="1">
 
