@@ -48,7 +48,7 @@ This was a very productive time for me in the land of drawing. I found that goua
 
 <section class="project-column-one" markdown="1">
 
-![interior of catalogue](/uploads/uploads/factory-direct-top.jpg)
+![top of newspaper from september 11, 2001](/uploads/uploads/factory-direct-top.jpg)
 
 {% include image-caption.html caption="<i>Pyramids</i>, gouache on paper, 1997" %}
 
@@ -56,7 +56,7 @@ This was a very productive time for me in the land of drawing. I found that goua
 
 <section class="project-column-two" markdown="1">
 
-![interior of catalogue](/uploads/uploads/factory-direct-bottom.jpg)
+![top of newspaper from september 11, 2001](/uploads/uploads/factory-direct-bottom.jpg)
 
 {% include image-caption.html caption="<i>Pyramids</i>, gouache on paper, 1997" %}
 
