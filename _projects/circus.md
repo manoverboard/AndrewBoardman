@@ -16,7 +16,7 @@ XYZ
 
 <section class="project" markdown="1">
 
-![screenshot isabela basombrio](/uploads/uploads/grad-school-painting-s.jpg)
+![screenshot isabela basombrio](/uploads/uploads/grad-school-painting-ring.jpg)
 
 {% include image-caption.html caption="Work by Isabela Basombrio" %}
 
@@ -24,7 +24,7 @@ XYZ
 
 <section class="project-column-one" markdown="1">
 
-![screenshot maciej toporowicz](/uploads/uploads/grad-school-painting-ring.jpg)
+![screenshot maciej toporowicz](/uploads/uploads/grad-school-painting-s.jpg)
 
 {% include image-caption.html caption="Work by Maciej Toporowicz" %}
 
@@ -49,6 +49,54 @@ XYZ
 <section class="project-column-two" markdown="1">
 
 ![](/uploads/uploads/grad-school-painting-twins.jpg)
+
+{% include image-caption.html caption="Book by Mandy Keifetz with a great cover by Eric Drooker" %}
+
+</section>
+
+<section class="project-column-one" markdown="1">
+
+![screenshot maciej toporowicz](/uploads/uploads/grad-school-painting-sky.jpg)
+
+{% include image-caption.html caption="Work by Maciej Toporowicz" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![](/uploads/uploads/grad-school-painting-z.jpg)
+
+{% include image-caption.html caption="Book by Mandy Keifetz with a great cover by Eric Drooker" %}
+
+</section>
+
+<section class="project-column-one" markdown="1">
+
+![screenshot maciej toporowicz](/uploads/uploads/grad-school-painting-b.jpg)
+
+{% include image-caption.html caption="Work by Maciej Toporowicz" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![](/uploads/uploads/grad-school-painting-down.jpg)
+
+{% include image-caption.html caption="Book by Mandy Keifetz with a great cover by Eric Drooker" %}
+
+</section>
+
+<section class="project-column-one" markdown="1">
+
+![screenshot maciej toporowicz](/uploads/uploads/grad-school-painting-empire.jpg)
+
+{% include image-caption.html caption="Work by Maciej Toporowicz" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![](/uploads/uploads/grad-school-painting-cross-whole.jpg)
 
 {% include image-caption.html caption="Book by Mandy Keifetz with a great cover by Eric Drooker" %}
 
