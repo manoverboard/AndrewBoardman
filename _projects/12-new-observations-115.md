@@ -46,3 +46,19 @@ In 1997, when I was living in Brooklyn, I was asked to guest edit Volume 115 of 
 {% include image-caption.html caption="Michael Oatman + Carol Shadford" %}
 
 </section>
+
+<section class="project-column-one" markdown="1">
+
+![](/uploads/uploads/new-observations-6.jpg)
+
+{% include image-caption.html caption="Mellissa Gould + Ditti Almog" %}
+
+</section>
+
+<section class="project-column-two" markdown="1">
+
+![](/uploads/uploads/new-observations-7.jpg)
+
+{% include image-caption.html caption="Michael Oatman + Carol Shadford" %}
+
+</section>
