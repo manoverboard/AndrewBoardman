@@ -3,8 +3,9 @@ title: Grad School
 layout: single-project
 date: 2018-10-07 18:56:52 +0000
 main-image: "/uploads/uploads/grad-school-painting-double-crossed.jpg"
-project-excerpt: Paintings from graduate school between 1991 and 1993. Circles and
-  circuses that connect various types of camps with the fantasy playgrounds of youth.
+project-excerpt: These are paintings from graduate school completed between 1991 and
+  1993. I was mostly exploring how 1930s culture announced the conclusion of modernity
+  through a new and highly personal visual language.
 meta-description: ''
 
 ---
@@ -12,7 +13,7 @@ meta-description: ''
 
 {% include image-caption.html caption="Double Crossed", 1992 %}
 
-XYZ
+Most of my work in graduate school at SUNY Albany in the 1990s was fuelled by twin jet engines of 1930s popular visual culture and the machinations of war that were announced by that culture, all of this processed through my own very personal fears and fantasies. Specifically, I was trying to finding new ways to combine the signs of American and European imagery — cartoons and comics, films and forums — with the signals of modernity that were blinking red. Shown is a subset of stretched and unstretched paintings, drawings and sculpture exhibited a number of times in Upstate New York.
 
 <section class="project" markdown="1">
 
