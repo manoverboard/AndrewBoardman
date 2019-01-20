@@ -10,7 +10,7 @@ meta-description: ''
 ---
 ![screenshot of the site at manoverboard](/uploads/uploads/grad-school-painting-double-crossed.jpg)
 
-{% include image-caption.html caption="Homepage of The Site at Manoverboard, 1998-2005" %}
+{% include image-caption.html caption="Double Crossed", 1992 %}
 
 XYZ
 
@@ -18,7 +18,7 @@ XYZ
 
 ![screenshot isabela basombrio](/uploads/uploads/grad-school-painting-ring.jpg)
 
-{% include image-caption.html caption="Work by Isabela Basombrio" %}
+{% include image-caption.html caption="Ring", 1992 %}
 
 </section>
 
@@ -26,7 +26,7 @@ XYZ
 
 ![screenshot maciej toporowicz](/uploads/uploads/grad-school-painting-s.jpg)
 
-{% include image-caption.html caption="Work by Maciej Toporowicz" %}
+{% include image-caption.html caption="S", 1992 %}
 
 </section>
 
@@ -34,7 +34,7 @@ XYZ
 
 ![](/uploads/uploads/grad-school-painting-cross.jpg)
 
-{% include image-caption.html caption="Book by Mandy Keifetz with a great cover by Eric Drooker" %}
+{% include image-caption.html caption="Cross", 1992 %}
 
 </section>
 
