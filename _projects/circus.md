@@ -11,7 +11,7 @@ meta-description: ''
 ---
 ![painting on unstretched canvas](/uploads/uploads/grad-school-painting-double-crossed.jpg)
 
-{% include image-caption.html caption="Double Crossed", 1992 %} 
+{% include image-caption.html caption="Double Crossed, 1992" %}
 
 Most of my work in graduate school at SUNY Albany in the 1990s was fuelled by twin jet engines of 1930s popular visual culture and the machinations of war that were announced by that culture, all of this processed through my own very personal fears and fantasies. Specifically, I was trying to finding new ways to combine the signs of American and European imagery — cartoons and comics, films and forums — with the signals of modernity that were blinking red. Shown is a subset of stretched and unstretched paintings, drawings and sculpture exhibited a number of times in Upstate New York.
 
