@@ -19,7 +19,7 @@ Most of my work in graduate school at SUNY Albany in the 1990s was fuelled by tw
 
 ![painting on unstretched canvas](/uploads/uploads/grad-school-painting-ring.jpg)
 
-{% include image-caption.html caption="Ring", 1992 %}
+{% include image-caption.html caption="Ring, 1992" %}
 
 </section>
 
@@ -27,7 +27,7 @@ Most of my work in graduate school at SUNY Albany in the 1990s was fuelled by tw
 
 ![painting on unstretched canvas](/uploads/uploads/grad-school-painting-s.jpg)
 
-{% include image-caption.html caption="S", 1992 %}
+{% include image-caption.html caption="S, 1992" %}
 
 </section>
 
@@ -35,7 +35,7 @@ Most of my work in graduate school at SUNY Albany in the 1990s was fuelled by tw
 
 ![painting on unstretched canvas](/uploads/uploads/grad-school-painting-cross.jpg)
 
-{% include image-caption.html caption="Cross", 1992 %}
+{% include image-caption.html caption="Cross, 1992" %}
 
 </section>
 
