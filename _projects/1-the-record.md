@@ -11,7 +11,7 @@ meta-description: The front page of a newspaper from September 11, 2001, is enla
 ---
 ![interior of catalogue](/uploads/uploads/factory-direct-closeup.jpg)
 
-{% include image-caption.html caption="<i>September 11, 2001</i>, paper on board", 2002 %}
+{% include image-caption.html caption="<i>September 11, 2001</i>, paper on board, 2002" %}
 
 In 2003, I was asked by three artist curators from Troy, New York to create a new work for an exhibition called Factory Direct. Two years in the making, the show's project was to match fourteen individual artists with companies and industries in the Capital Region and to exhibit the various results. Having experienced the 9/11 tragedy in Manhattan, I worked with <i>The Troy Record</i>, a highly respected newspaper founded in 1896, and examined the front page of the paper as it appeared on September 11, 2001. I enlarged this full-color page to approximately 12 x 6 feet in size and had it mounted on a stand. It was a means to imagine what someone in the sky (perhaps G-d or passengers on American Airlines Flight 11, which flew near Troy on that fateful day) might have seen on that day. Nothing of substance happened on September 10, 2001. The piece is a kind of record, writ large, of our innocence. The catalogue, designed by Paul Miyamoto, captured the essence of the entire exhibition beautifully.
 
