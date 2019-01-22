@@ -8,6 +8,8 @@ date: 2019-01-06 21:24:12 -0600
 published: false
 
 ---
+![](/uploads/uploads/animal.gif)
+
 <section class="project-column-one" markdown="1">
 
 ![frog becomes man](/uploads/uploads/animal.gif)
