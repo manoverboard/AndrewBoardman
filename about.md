@@ -82,9 +82,9 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   who runs a studio in Canada called <a href="https://manoverboard.com" title="">Manoverboard</a>
   whose focus is on helping organizations drive social change through human-centered
   design. Manoverboard is a Certified B Corporation. The whole shebang began in 2002
-  out of my small Brooklyn apartment.</p><p>In addition to managing the studio, I
-  draw and write. I am slowly working on a book on design responsibility. I teach
-  at the University of Manitoba and recently taught at Red River College in Winnipeg.
+  out of my Brooklyn apartment.</p><p>In addition to managing the studio, I draw and
+  write. I am slowly working on a book on design responsibility. I teach design at
+  the University of Manitoba and recently taught at Red River College in Winnipeg.
   Outside of graphic design, my interests include consciousness, history and critical
   theory.</p><p>What else? I cut my design teeth creating Barneys New York’s first
   e-commerce site. I hold a B.A. from Brown University and an M.F.A. from SUNY Albany.
