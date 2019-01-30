@@ -1710,6 +1710,10 @@ footer .copyright a {
     .main-image-h {
         top: 95px !important;
     }
+    
+    #latestProject, #latestPost, #Twitter {
+        padding-top: 60px;
+    }
 
     /* ------------------ post/blog */
     #latestPost .latest-post-date,
@@ -1737,6 +1741,10 @@ footer .copyright a {
 
     main.about {
         margin-top: 62vw !important;
+    }
+    
+    .about .description {
+        margin-top: 0;
     }
 
     /* ------------------ default page */
