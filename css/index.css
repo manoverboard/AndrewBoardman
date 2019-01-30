@@ -396,9 +396,9 @@ h3 {
 
 h3.project {
     font-family: 'GT Sectra Display-bold', sans-serif;
-    font-size: 720%;
+    font-size: 400%;
     margin-top: -13px;
-    margin-bottom: 65px;
+    margin-bottom: 25px;
 }
 
 .project h3,
@@ -412,10 +412,10 @@ h3.project {
 
 #latestPost h3 {
     font-family: 'GT Haptik', sans-serif;
-    font-size: 720%;
+    font-size: 400%;
     line-height: 1.25;
     margin-top: -13px;
-    margin-bottom: 65px;
+    margin-bottom: 25px;
 }
 
 .about h3 {
@@ -757,7 +757,7 @@ article.project {
     float: right;
     display: block;
     clear: both;
-    margin-top: -140px;
+    margin-top: -80px;
 }
 
 #latestPost .excerpt {
@@ -769,6 +769,10 @@ article.project {
     width: 48%;
     margin-top: 2em;
     float: right;
+}
+
+#latestPost .h2 {
+    font-size: 300% !important;
 }
 
 /* --------------------- Twitter */
@@ -844,7 +848,7 @@ h3.project a {
     width: 100%;
     max-width: 100%;
     padding-bottom: 90px;
-    padding-top: 100px;
+    padding-top: 58px;
 }
 
 .project-wrapper .project:nth-child(1) .image img,
@@ -977,11 +981,13 @@ section.project-column-one {
     display: inline-block;
     clear: none;
     margin-right: 3%;
+    vertical-align: top;
 }
 
 section.project-column-two {
     width: 48%;
     display: inline-block;
+    vertical-align: top;
 }
 
 /* --------------------------------------------------------- */
