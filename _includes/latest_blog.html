@@ -9,11 +9,13 @@
     <article>
         {% for post in site.posts limit:1 %}
 
+<!--
         <div class="latest-post-date">
             <date class="post-date">
                 {{ post.date | date_to_string | date: "%B %-d, %Y" }}
             </date>
         </div>
+-->
 
         <a class="kill-underlines" href="{{ post.url }}" aria-hidden="true">
             <h4 class="h2">{{ post.title }}</h4>
