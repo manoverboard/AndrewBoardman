@@ -11,7 +11,7 @@ sub-title: This is my site. It has words and pictures. It took about fifty years
 timing-pre: At this very moment, he is
 show_latest_blog: true
 show_latest_project: true
-show_twitter: true
+show_twitter: false
 custom-time-message: ''
 meta-description: This is the site of Andrew Boardman. Actually, this is the meta
   description. A designer, artist, founder of Manoverboard. There are posts and projects.
