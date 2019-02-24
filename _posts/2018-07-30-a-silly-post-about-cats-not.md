@@ -1,16 +1,18 @@
 ---
 title: A silly post about cats (not).
 layout: single-post
-date: 2018-07-30 00:00:00 +0000
-number: 3
-excerpt: This is the excerpt so make it really good, man.
+date: 2019-02-24 19:00:00 -0600
+number: 1
+excerpt: An introduction about the blog (by me, Andrew Boardman), as well as information
+  about where this site comes from and why I'm writing about graphic design, design
+  education, design consciousness and the presentation of ideas.
 main-image: "/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg"
 caption: ''
-main-title: A silly post about cats (not)
+main-title: "“Welcome to my blog.”"
 meta-description: ''
 
 ---
-# “Welcome to my blog.”
+## “Welcome to my blog.”
 
 Early bloggers like me used to say things like that. And late bloggers like me do, too, apparently.
 
@@ -24,7 +26,7 @@ Anyway, my deckchairs blog ended in 2012. Steve Jobs passed away and I somehow l
 
 So, I have started writing again. Let me outline what you’re in for. Or what I’m in for. I’ll do this in two big steps: the purpose of this site more generally and then the goals for the blog itself.
 
-## Why do I deserve my own site?
+### Why do I deserve my own site?
 
 I started and maintained an artist-focused/gallery website in the mid-1990s called The Site at Manoverboard. It eventually featured a few dozen artists and writers as well as some of my own work. But I’ve never had a project site of my own — and I’ve been making art and writing on and off for nearly 30 years.
 
@@ -36,7 +38,7 @@ In the biggest of pictures, this site sets out to do the following:
 
 3\. To have a free textual space where I can be honest about what it means for me to be a designer in the world — a place that is confused about the object of design. For me, design is built on a radical social concept: that we can do better — and that we must do better. This notion seems to have largely gone missing.
 
-## Sure. But what’s the point of having a blog?
+### Sure. But what’s the point of having a blog?
 
 Right. So, let’s expand on this last item. Why even have a blog these days? Haven’t you heard of Facebook? And, dude, couldn’t you just use Medium instead of this precious little website that you custom developed?
 
