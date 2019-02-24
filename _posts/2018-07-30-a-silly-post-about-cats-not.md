@@ -33,11 +33,9 @@ I started and maintained an artist-focused/gallery website in the mid-1990s call
 
 In the biggest of pictures, this site sets out to do the following:
 
-1\. To share a digital archive of the various and miscellaneous projects I’ve developed, or helped to develop, over the past twenty-five years. Bringing these projects under one roof provides some semblance of order to my own past and helps establish a framework for ongoing work. I expect it to take a little while until all of my old work is up.
-
-2\. To build out a digital sandbox where I can release and test new ideas, projects, tools, code and media. Some of these will be more experimental, such as a typeface (!!) that I’d like to develop. Others will be video or visual artifacts that can be filed under art.
-
-3\. To have a free textual space where I can be honest about what it means for me to be a designer in the world — a place that is confused about the object of design. For me, design is built on a radical social concept: that we can do better — and that we must do better. This notion seems to have largely gone missing.
+1. To share a digital archive of the various and miscellaneous projects I’ve developed, or helped to develop, over the past twenty-five years. Bringing these projects under one roof provides some semblance of order to my own past and helps establish a framework for ongoing work. I expect it to take a little while until all of my old work is up.
+2. To build out a digital sandbox where I can release and test new ideas, projects, tools, code and media. Some of these will be more experimental, such as a typeface (!!) that I’d like to develop. Others will be video or visual artifacts that can be filed under art.
+3. To have a free textual space where I can be honest about what it means for me to be a designer in the world — a place that is confused about the object of design. For me, design is built on a radical social concept: that we can do better — and that we must do better. This notion seems to have largely gone missing.
 
 ### Sure. But what’s the point of having a blog?
 
