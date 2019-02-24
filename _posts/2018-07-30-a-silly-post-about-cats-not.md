@@ -9,7 +9,8 @@ excerpt: An introduction about the blog (by me, Andrew Boardman), as well as inf
 main-image: "/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg"
 caption: ''
 main-title: "“Welcome to my blog.”"
-meta-description: ''
+meta-description: An introduction about the blog (by me, Andrew Boardman), and why
+  I'm writing about graphic design, design education, design consciousness.
 
 ---
 ## “Welcome to my blog.”
