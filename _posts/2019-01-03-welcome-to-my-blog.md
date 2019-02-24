@@ -6,7 +6,7 @@ number: 1
 excerpt: An introduction about the blog (by me, Andrew Boardman), as well as information
   about where this site comes from and why I'm writing about graphic design, design
   education, design consciousness and the presentation of ideas.
-main-image: "/uploads/uploads/4-ways-cheer-up-depressed-cat.jpg"
+main-image: "/uploads/uploads/a-b-warhol-post-1.jpg"
 caption: ''
 main-title: "“Welcome to my blog.” (Post 1)"
 meta-description: An introduction about the blog (by me, Andrew Boardman), and why
