@@ -3,7 +3,7 @@ layout: single-post
 label: Excerpt Content
 type: textarea
 name: excerpt
-main-title: Welcome to the Forestry Demo Site!
+main-title: Welcome to the Forestry Demo Site! (Post 2)
 config:
   date_format: YYYY/MM/DD
   time_format: HH:MM:SS
