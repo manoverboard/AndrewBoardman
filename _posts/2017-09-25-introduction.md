@@ -15,7 +15,7 @@ excerpt: If you haven’t read an article about creating for the web, well, you�
   to. It’s not going to be very long but you might actually enjoy it. In fact, I’m
   willing to bet that this will be the best piece about the web that you’ve read in
   a few years. Another sentence
-number: 1
+number: 2
 title: Another Post
 meta-description: ''
 
