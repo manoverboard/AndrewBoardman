@@ -19,17 +19,17 @@ Early bloggers like me used to say things like that. And late bloggers like me d
 
 But I really mean it. This blog will house thoughts and meditations on design and its correspondence with history, environment, consciousness and critical theory. I will write about the state of design, the direction of design education, the opportunities for design research, and the language of design thinking.
 
-The last regular blog I kept, and which lasted for about ten years, was under the domain deckchairs.net. “Deckchairs” was a nice metaphorical compliment to the design studio I run, Manoverboard, as well as a reference to the ongoing personal project of redeeming some of the anxiety with which I have been blessed.
+The last regular blog I kept, and which lasted for about ten years, was under the domain [deckchairs.net](http://www.deckchairs.net/ "Deckchairs, nothing"). “Deckchairs” was a nice metaphorical compliment to the design studio I run, Manoverboard, as well as a reference to the ongoing personal project of redeeming some of the anxiety with which I have been blessed.
 
 You’ve seen a deckchair, right? Deckchairs are long lounges of comfort that are often be arranged on a ship when everything is smooth sailing. But deckchairs are also objects of slipperiness and indeterminable motion when nothing is going as planned.
 
-Anyway, my deckchairs blog ended in 2012. Steve Jobs passed away and I somehow lost the capacity to write regularly. And my last post was a goodbye to him.
+Anyway, my Deckchairs blog ended in 2012. Steve Jobs passed away and I somehow lost the capacity to write regularly. And my last post was a goodbye to him.
 
 So, I have started writing again. Let me outline what you’re in for. Or what I’m in for. I’ll do this in two big steps: the purpose of this site more generally and then the goals for the blog itself.
 
 ### Why do I deserve my own site?
 
-I started and maintained an artist-focused/gallery website in the mid-1990s called The Site at Manoverboard. It eventually featured a few dozen artists and writers as well as some of my own work. But I’ve never had a project site of my own — and I’ve been making art and writing on and off for nearly 30 years.
+I started and maintained an artist-focused/gallery website in the mid-1990s called [The Site at Manoverboard](http://manoverboard.net/ "Visit this site (it's old)"). It eventually featured a few dozen artists and writers as well as some of my own work. But I’ve never had a project site of my own — and I’ve been making art and writing on and off for nearly 30 years.
 
 In the biggest of pictures, this site sets out to do the following:
 
