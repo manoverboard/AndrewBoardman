@@ -75,23 +75,24 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   an hour.” <br>—William Blake, <a href="https://www.poetryfoundation.org/poems/43650/auguries-of-innocence"
   title="">Augeries of Innocence</a> (c. 1803)</p></blockquote><p>What exists beyond
   our mere shadows? How can we grasp our place in the continuum of history's unfolding
-  triumphs and abominable tragedies? What does it mean to design answers? And how
-  do we make our connections and commentaries matter?</p><p>These are some of the
-  questions that challenge me and cut across my work and practice. I call this site
-  "A—B" because it's what I know. (I'm leaving "C—Z" to others.)</p><p>I am a designer
-  who runs a studio in Canada called <a href="https://manoverboard.com" title="">Manoverboard</a>
-  whose focus is on helping organizations drive social change through human-centered
-  design. Manoverboard is a Certified B Corporation. The whole shebang began in 2002
-  out of my Brooklyn apartment.</p><p>In addition to managing the studio, I draw and
-  write. I am slowly working on a book on design responsibility. I teach design at
-  the University of Manitoba and recently taught at Red River College in Winnipeg.
-  Outside of graphic design, my interests include consciousness, history and critical
-  theory.</p><p>What else? I cut my design teeth creating Barneys New York’s first
-  e-commerce site. I hold a B.A. from Brown University and an M.F.A. from SUNY Albany.
-  I received a Fulbright Fellowship and a NYFA Fellowship. I worked at The Rockefeller
-  Foundation for many years.</p><p>It took about 13.8 billion years for me to get
-  to this sentence. In this next sentence, you might <a href="mailto:andrew@manoverboard.com"
-  title="email andrew boardman">email me</a>.</p>
+  triumphs and abominable tragedies? What does it mean to design and present answers?
+  And how do we make our connections and commentaries matter?</p><p>These are some
+  of the questions that challenge me and cut across my work and practice. I call this
+  site "A—B" because it's what I know. (I'm leaving "C—Z" to others.) This website
+  houses some of my work and meditations on design and its correspondence with history,
+  environment, consciousness and theory.</p><p>I am a designer who runs a studio in
+  Canada called <a href="https://manoverboard.com" title="">Manoverboard</a> whose
+  focus is on helping organizations drive social change through human-centered design.
+  Manoverboard is a Certified B Corporation. The whole shebang began in 2002 out of
+  my Brooklyn apartment.</p><p>In addition to managing the studio, I draw and write.
+  I am slowly working on a book on design consciousness. I teach design at the University
+  of Manitoba and recently taught at Red River College in Winnipeg.</p><p>What else?
+  I cut my design teeth creating Barneys New York’s first e-commerce site. I hold
+  a B.A. from Brown University and an M.F.A. from SUNY Albany. I received a Fulbright
+  Fellowship and a NYFA Fellowship. I worked at The Rockefeller Foundation for a while.</p><p>It
+  took about 13.8 billion years for me to get to this sentence. In this next sentence,
+  you might <a href="mailto:andrew@manoverboard.com" title="email andrew boardman">email
+  me</a>.</p>
 meta-description: This is the About page about Andrew Boardman. I design, draw, write
   and teach. Plus I read books. Mostly on graphic design, history, consciousness,
   theory.
