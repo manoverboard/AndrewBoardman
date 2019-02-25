@@ -62,5 +62,4 @@ fields:
   default: ''
   description: Optional // Shows below the Main Image on the Single Post.
 pages:
-- _posts/3-mr-rogers.md
-- _posts/4-post-one.md
+- _posts/1-post-one.md
