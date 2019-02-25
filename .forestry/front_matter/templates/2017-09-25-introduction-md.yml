@@ -61,5 +61,3 @@ fields:
   hidden: false
   default: ''
   description: Optional // Shows below the Main Image on the Single Post.
-pages:
-- _posts/1-post-one.md
