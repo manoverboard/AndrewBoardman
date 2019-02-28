@@ -10,7 +10,8 @@ excerpt: I grew up with Mr. Rogers. Nearly every morning, I would turn the dial 
   to PBS and there he was, welcoming me into his neighbourhood. His show was designed
   for the world we need now.
 main-image: "/uploads/uploads/a-b-seals-post-2.jpg"
-caption: ''
+caption: Elephant seals at Elephant Seal Vista Point in San Simeon, California. Slow
+  when they need to be.
 
 ---
 I grew up with Mr. Rogers. Nearly every morning, I would turn the dial (literally) to PBS and there he was, welcoming me into his neighbourhood. Nearly all of the characters, human and puppet, resonated with me. But I remember being fascinated with two characters in particular: Elaine, the scary aunt that had too much blush on her face (or was permanently flushed), and Kitty, the genderless personification of Fred Rogers himself.
