@@ -62,6 +62,6 @@ fields:
   default: ''
   description: Optional // Shows below the Main Image on the Single Post.
 pages:
-- _posts/3-why-design-students-should-watch-films.md
-- _posts/2-mr-rogers-mediating-technology.md
-- _posts/1-welcome-to-my-blog.md
+- _posts/2019-03-01-3-why-design-students-should-watch-films.md
+- _posts/2019-02-01-2-mr-rogers-mediating-technology.md
+- _posts/2019-01-04-1-welcome-to-my-blog.md
