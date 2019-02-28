@@ -12,8 +12,6 @@ main-image: "/uploads/uploads/a-b-warhol-post-1.jpg"
 caption: ''
 
 ---
-## “Welcome to my blog.”
-
 Early bloggers like me used to say things like that. And late bloggers like me do, too, apparently.
 
 But I really mean it. This blog will house thoughts and meditations on design and its correspondence with history, environment, consciousness and critical theory. I will write about the state of design, the direction of design education, the opportunities for design research, and the language of design thinking.
