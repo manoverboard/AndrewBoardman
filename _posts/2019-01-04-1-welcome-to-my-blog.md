@@ -4,7 +4,7 @@ meta-description: An introduction to the site (by me, Andrew Boardman), and why 
   writing about graphic design, design education, design consciousness.
 number: 1
 main-title: "“Welcome to my blog.”"
-date: 2019-01-04 00:00:00 -0600
+date: 2019-01-04 06:00:00 +0000
 excerpt: An introduction to the site (by me, Andrew Boardman), information about where
   this site comes from, and why I'm writing about graphic design, design education,
   design consciousness and the presentation of knowledge.
@@ -24,7 +24,7 @@ Anyway, my Deckchairs blog ended in 2012. Steve Jobs passed away and I somehow l
 
 So, I have started writing again. Let me outline what you’re in for. Or what I’m in for. I’ll do this in two big steps: the purpose of this site more generally and then the goals for the blog itself.
 
-### Why do I deserve my own site?
+### And the point of having a site is?
 
 I started and maintained an artist-focused/gallery website in the mid-1990s called The Site at Manoverboard. It eventually featured a few dozen artists and writers as well as some of my own work. But I’ve never had a project site of my own — and I’ve been making art and writing on and off for nearly 30 years.
 
