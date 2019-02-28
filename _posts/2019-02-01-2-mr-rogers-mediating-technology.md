@@ -26,8 +26,8 @@ With children first, the largest issues that we confront today — climate chang
 
 If we put children first, there is always already a promise of a bountiful future. Our adult lives must be lived because of them and not in spite of us. If the needs of children are placed before that of adults, our consumption habits change and we collectively work on building resilient economies, communities, and networks. If we put children at the forefront of our minds, we shore up our work around kindness, empathy, and critical thinking. If we put children above all else, we also demonstrate our commitments to reducing violence, despair, exploitation, and all forms of physical and psychological slavery.
 
-## Medium Meets Message
+### Medium Meets Message
 
-Along with Marshall McLuhan, Fred Rogers recognized in the 1960s that the medium is the message. He took the new technology of television and defined its boundaries in a very deliberate way — slow, thoughtful, quiet, calm and magical. The visual and narrative systems he created for television supported the idea of putting children first. No quick cutaways, lots of silence, and the dramatic narrative unfolds slowly and gently even when there is no resolution. 
+Along with Marshall McLuhan, Fred Rogers recognized in the 1960s that the medium is the message. He took the new technology of television and defined its boundaries in a very deliberate way — slow, thoughtful, quiet, calm and magical. The visual and narrative systems he created for television supported the idea of putting children first. No quick cutaways, lots of silence, and the dramatic narrative unfolds slowly and gently even when there is no resolution.
 
 How fortunate was I was to grow up on this kind of television? Very. Perhaps it’s why, to this day, I still prefer slow, even grinding emotional dramas and minimal visual spaces. And visually, I connect with  coherent, slow-moving systems over fast, action-packed, or decorative ones. Rogers’ minimalism in sound and image is one of the keys to my own work and, I would argue, the key to our putting children first.
