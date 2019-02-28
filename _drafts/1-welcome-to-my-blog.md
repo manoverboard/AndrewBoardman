@@ -9,7 +9,7 @@ excerpt: An introduction to the site (by me, Andrew Boardman), information about
   this site comes from, and why I'm writing about graphic design, design education,
   design consciousness and the presentation of knowledge.
 main-image: "/uploads/uploads/a-b-warhol-post-1.jpg"
-caption: ''
+caption: 'Me in front of one of Warhol''s disaster paintings. The red avoids disaster. '
 
 ---
 Early bloggers like me used to say things like that. And late bloggers like me do, too, apparently.
