@@ -28,70 +28,7 @@
             </h3>
             <p class="h3">
                 {{ page.timing-pre }}
-                <span class="time-message">
-                {% assign hour = 'now' | date: '%H' %}
-                {% if page.custom-time-message != "" %}
-                    {{ page.custom-time-message }}
-                    
-               {% elsif hour == '0' or hour == '1' or hour == '2' or hour == '3' or hour == '4' or hour == '5' %}
-                    sleeping away. 
-
-                {% elsif hour == '6' %}
-                    eating breakfast.
-
-                {% elsif hour == '7' %}
-                    on a run.
-
-                {% elsif hour == '8' %}
-                    meditating.
-
-                {% elsif hour == '9' %}
-                    writing.
-
-                {% elsif hour == '10' %}
-                    reading something or other.
-
-                {% elsif hour == '11' %}
-                    working on a project.
-
-                {% elsif hour == '12' %}
-                    eating some kind of lunch.
-
-                {% elsif hour == '13' %}
-                    talking briefly on the phone.
-
-                {% elsif hour == '14' %}
-                    developing a plan.
-
-                {% elsif hour == '15' %}
-                    somehow managing.
-
-                {% elsif hour == '16' %}
-                    writing.
-
-                {% elsif hour == '17' %}
-                    solving some sort of problem.
-
-                {% elsif hour == '18' %}
-                    eating dinner.
-
-                {% elsif hour == '19' %}
-                    avoiding the Twitter.
-
-                {% elsif hour == '20' %}
-                    washing dishes/doing nothing.
-
-                {% elsif hour == '21' %}
-                    working on tomorrow.
-
-                {% elsif hour == '22' %}
-                    reading a book.
-
-                {% else hour == '23' %}
-                    reading a magazine.
-                
-                {% endif %}
-                </span>
+                <span id="timeMessage" class="time-message"></span>
             </p>
         </div>
     </main>
