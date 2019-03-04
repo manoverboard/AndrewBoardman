@@ -12,7 +12,7 @@ timing-pre: At this very moment, he is
 show_latest_blog: true
 show_latest_project: true
 show_twitter: false
-custom-time-message: In a meeting
+custom-time-message: ''
 meta-description: This is the site of Andrew Boardman. Actually, this is the meta
   description. A designer, artist, founder of Manoverboard. There are posts and projects.
 
