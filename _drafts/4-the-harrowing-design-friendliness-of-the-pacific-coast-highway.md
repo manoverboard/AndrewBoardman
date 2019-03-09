@@ -1,12 +1,15 @@
 ---
 layout: single-post
-meta-description: meta
+meta-description: A drive along California's PCH brings up hair raising thoughts about
+  social behavior, even for a guy with little hair.
 number: 4
 main-title: The Harrowing Design and Friendliness of the Pacific Coast Highway
 date: 2019-03-08 00:00:00 -0600
-excerpt: excerpt
-main-image: ''
-caption: ''
+excerpt: Pacific Coast Highway has all of the markings of a hair raising fiasco. But
+  it many ways, it provides an uncodified standard for social behaviour even in the
+  midst of potentially harrowing outcomes.
+main-image: "/uploads/uploads/IMG_2285.jpeg"
+caption: A not so lonely stretch of the PCH somewhere near Cambria, California.
 
 ---
 I’m a pretty experienced driver. Growing up on the East Coast means that you learn to navigate the highways and byways of the region with a bit of panache and more than a little bit of respect for sometimes maniacal drivers and crappy road conditions.
@@ -35,4 +38,4 @@ Along the three hour drive on the PCH, it’s common to get out of your car and 
 
 The point is that these drivers of 4,000 pound steel vehicles navigating the death-defying roadways of the Pacific Coast Highway were calm, patient, and respectful. I did not expect this.
 
-In a culture that is increasingly designed for speed, in which rules for courteousness are often disregarded, and in which sensory experience is devalued, the PCH provides an uncodified standard for social behaviour. Despite our reliance on petroleum-based transportation, that stretch of precarious highway in car-centric California, at least for me, represents a model for how we can get somewhere together, separately, while also not running each other off a cliff.
+Yes, there is a bit of self-selection in who drives and does not drive the PCH. But in a culture that is increasingly designed for speed, in which rules for courteousness are often disregarded, and in which sensory experience is devalued, the PCH provides an uncodified standard for social behaviour even in the midst of potentially harrowing outcomes. Despite our reliance on petroleum-based transportation, that stretch of precarious highway in car-centric California, at least for me, represents a model for how we can get somewhere together, separately, while also not running each other off a cliff.
