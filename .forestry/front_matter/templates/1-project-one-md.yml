@@ -1,7 +1,6 @@
 ---
 label: Single Project
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: layout
