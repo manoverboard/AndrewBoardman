@@ -1,14 +1,14 @@
 ---
 layout: single-post
-meta-description: A drive along California's PCH brings up hair raising thoughts about
+meta-description: A drive along California's PCH brings up hair-raising thoughts about
   social behavior, even for a guy with little hair.
 number: 4
 main-title: The Harrowing Design and Friendliness of the Pacific Coast Highway
 date: 2019-03-08 00:00:00 -0600
-excerpt: Pacific Coast Highway has all of the markings of a hair raising fiasco. But
+excerpt: Pacific Coast Highway has all of the markings of a hair-raising fiasco. But
   it many ways, it provides an uncodified standard for social behaviour even in the
   midst of potentially harrowing outcomes.
-main-image: "/uploads/uploads/IMG_2285.jpeg"
+main-image: ''
 caption: A not so lonely stretch of the PCH somewhere near Cambria, California.
 
 ---
