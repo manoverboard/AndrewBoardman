@@ -8,7 +8,7 @@ date: 2019-03-08 00:00:00 -0600
 excerpt: Pacific Coast Highway has all of the markings of a hair-raising fiasco. But
   it many ways, it provides an uncodified standard for social behaviour even in the
   midst of potentially harrowing outcomes.
-main-image: ''
+main-image: "/uploads/uploads/pch-2018.jpeg"
 caption: A not so lonely stretch of the PCH somewhere near Cambria, California.
 
 ---
