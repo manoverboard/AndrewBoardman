@@ -8,7 +8,7 @@ fields:
   config:
     required: true
   default: single-post
-  description: Do not change this unless you're sure.
+  description: 'Do not change this unless you''re sure. Should read: single-post'
 - type: textarea
   name: meta-description
   label: Meta Description
