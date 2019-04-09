@@ -6,10 +6,10 @@ meta-description: Maddin’s work — dark, enigmatic, kind of mossy and fantast
 number: 5
 main-title: Designing Guy Maddin’s Big Brain
 date: 2019-04-08 00:00:00 -0500
-excerpt: Maddin’s work — dark, enigmatic, mossy and fantastical — is often maddeningly
-  difficult to understand as prose alone. His Brand Upon the Brain is designed filmic
-  art. The performance was the most coherently incoherent and gorgeous aesthetic spectacle
-  I’ve ever seen.
+excerpt: Maddin’s work — dark, enigmatic, fantastical and a bit mossy — is often maddeningly
+  difficult to understand as prose alone. His <i>Brand Upon the Brain</i> is designed
+  filmic art. The performance was the most coherently incoherent and gorgeous aesthetic
+  spectacle I’ve ever seen.
 main-image: "/uploads/brand-upon-brain.jpg"
 caption: Tim Hortons is coterminous with Guy Maddin when it comes to brands on brains.
 
@@ -22,7 +22,7 @@ Below is a heavily edited piece that I wrote a little over ten years ago about [
 
 Tonight, I saw Guy Maddin’s <a href="https://www.criterion.com/films/746-brand-upon-the-brain">Brand Upon the Brain</a>. (Update: this film is the director’s eighth feature and the middle film in what Maddin calls the “Me Trilogy”.) As an old school rapper like me might say, I’m going to break it down because it was the most coherently incoherent and gorgeous aesthetic spectacle I’ve ever seen.
 
-First, let’s try to describe it. Maddin’s work — dark, enigmatic, kind of mossy and fantastical — is often maddeningly difficult to understand as prose alone.
+First, let’s try to describe it. Maddin’s work — dark, enigmatic, kind of mossy and fully fantastical — is often maddeningly difficult to understand as prose alone.
 
 <em>Brand Upon the Brain</em> was performed as part of the annual and renowned New Music Festival at the WSO. \[Update: the film premiered at TIFF in 2006 with a full orchestra, a “castrato”, and Foley artists.\] On the huge screen was a guy named Guy who lives in a lighthouse and pines after his sister’s lesbian friend, despite the fact that that friend plays a man, who also goes by the name of Chance and who is not as lovely, but is more loving, than the sister of Guy who is the character. Chance, who seems miscast at first, turns out to be a key figure in the distraught, anxious, and very unhappy young life of the orphan Guy who, as we watch all twelve chapters begin and end, comes back to visit his once and future home — an island with a lighthouse not far from the mainland which also feels very, very, very isolated.
 
