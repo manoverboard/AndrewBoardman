@@ -8,8 +8,8 @@ main-title: Designing Guy Maddin’s Big Brain
 date: 2019-04-08 00:00:00 -0500
 excerpt: Maddin’s work — dark, enigmatic, fantastical and a bit mossy — is often maddeningly
   difficult to understand as prose alone. His <i>Brand Upon the Brain</i> is designed
-  filmic art. The performance was the most coherently incoherent and gorgeous aesthetic
-  spectacle I’ve ever seen.
+  filmic art. The performance was perhaps the most coherently incoherent and gorgeous
+  aesthetic spectacle I’ve ever seen.
 main-image: "/uploads/brand-upon-brain.jpg"
 caption: Tim Hortons is coterminous with Guy Maddin when it comes to brands on brains.
 
