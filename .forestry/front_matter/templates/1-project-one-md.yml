@@ -37,6 +37,7 @@ fields:
   description: Less than 200 characters // This shows up on the Projects Page, and
     on the Home Page feature box.
 pages:
+- _projects/pechakucha-night-posters-and-materials.md
 - _projects/deckchairs-on-the-titanic.md
 - _projects/the-spiritual-activist.md
 - _projects/drawings-1996-2000.md
