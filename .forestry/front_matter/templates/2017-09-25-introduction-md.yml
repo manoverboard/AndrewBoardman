@@ -61,6 +61,7 @@ fields:
   default: ''
   description: Optional // Shows below the Main Image on the Single Post.
 pages:
+- _posts/7-mind-the-gap-design-inquiry-contemplative-practice.md
 - _posts/2019-06-18-6-modernists-mechanization-momentousness.md
 - _posts/2019-04-08-5-designing-guy-maddins-big-brain.md
 - _posts/2019-03-01-3-why-design-students-should-watch-films.md

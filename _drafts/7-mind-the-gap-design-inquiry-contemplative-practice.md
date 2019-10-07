@@ -1,0 +1,34 @@
+---
+layout: single-post
+meta-description: ''
+number: 7
+main-title: 'Mind the Gap: Design, Inquiry and Contemplative Practice'
+date: 2019-10-07 00:00:00 -0500
+excerpt: 'The next stage of human development, if we get there, will be fuelled by
+  a combination of these three things: social action, technological inquiry, and active
+  mindfulness.'
+main-image: ''
+caption: ''
+
+---
+The London Underground, the oldest and one of the most thoughtfully designed metro systems in the world, features an audible warning to customers leaving and entering its metro cars: “Mind the Gap”. These three tiny words, first unveiled in 1968, emanate from speakers on the train and on the platform, conveying the primacy and the urgency of paying attention to where one is stepping prior to that next stage of the journey.
+
+The “Mind the Gap” warning, despite its mix of brevity, British formality, and commandment, is only unconsciously minded by the traveler. It is an exercise in modern English kindness, a moment of bureaucratic gentility, a phrase articulated by a hired studio actor to assuage and assure our harrowed commuter souls. We urban travellers take for granted the speed of the massive machineries (subway, bus, tram, automobile, plane) that carry us godspeed to wherever and whatnot; within minutes we are, improbably, at a new destination. But we also take for granted the real hazard that these instruments of modernity pose to our fleshy primate bodies. The “Mind the Gap” announcement reminds us in the present that our bodies are fundamentally fragile in the everyday confrontation with a heavily mechanized and carefully regulated social environment.
+
+In so many ways, design is exactly this today. Design is that all important marginal conduit — visual, aural, experiential — between our desires and our actions, between our needs and the built environment’s capacity to fulfill them. It is that intangible reminder to us to pay attention, even in the automaticity of our everyday thoughts. On the Underground, and on other rapid transit systems, “Minding the Gap” is the official voice that asks us attend to what might consciously trip us up. It is the second price of entry on a physical system that carries us to destinations both known and unknown. By stepping over the yellow line from station to car or car to station, we authorize the systematic hurdling of our bodies and souls through modernity’s wormholes.
+
+“Mind the Gap” is both a warning and an assurance. It holds a deep ambiguity that is worth heeding and exploring. Ferdinand de Saussure, the Swiss linguist, philosopher, and inventor of semiology, demonstrated in his _Course in General Linguistics_ that every sign (whether a sound, image, word or expression) carries two component parts with very different signatures: a signifier that is the structural form and a signified that is the concept. Like most couples, the signifier and signified have a complicated relationship. A given signified can have multiple and abstracted meanings. And to make matters worse, a signifier can have multiple relationships to a signified.
+
+For instance, the word “sadness” is in itself the signifier. The signified (or concept) might be the image of a child crying, a photo of an elephant shot through, or an illustration of a lone tree on the plains. Meaning is constructed through the Petri dish of lived experience. “Sadness” has a potentially infinite number of matching and momentary signifieds; however, within any given cultural substrate (received languages, cultural circumstance, formal and informal human communications), that same word can show up as a number of concrete visual or linguistic forms. And, if we reverse the elements, an image of a child crying (the signified) might have multiple potential signifiers, including “sadness”, but also “lost”, “hungry”, and “loneliness”.
+
+Many theorists have come and gone in reinterpreting the dyadic relationship of signifier and signified. But what interests me most about the dyad is the line drawn between the signified and the signifier. For Saussure, this line represents the arbitrary relationship between the two sides of the sign — a slippery and arbitrary ford. This line is that which is not known until it can be known. The line exists in what might be called liminal space, a place that is neither here nor there but assuredly is. It is the gap that we are constantly minding.
+
+To date, designers had many categories of exploration in which to pour their ideas, work, and research. The vast majority of design interventions can be accounted for by the demands of commercial marketing and communications; we mostly tend to work in advertising and communications to support ourselves and the market. But the 20th century also saw the early roots of design emerge from the angst of social foment and the aspirations of revolution. In this way, social action is built into the very precepts of design. Meanwhile, in the past 20 years, we have seen design co-opted by digital patriots who are prone to technological utopianism. The result has been the emergence of the field of user experience, information architecture, and web and application design. For the most part, these endeavours are about helping people use digital products with the added bonus that those people can be spied upon.
+
+But there is a different way forward for design, a space for investigation that has been there all along and which deserves our attention: contemplative practice. Mindfulness, despite its sometimes wacky gift wrappings, helps us examine the underlying  connection between us and among all being. If we are to achieve substantial change in the way that we collectively receive, appreciate, and act in the world, I suggest that large scale contemplative practice is critical. The next stage of human development, if we get there, will be fuelled by a combination of these three things: social action, technological inquiry, and active mindfulness. And design and designers are most poised to lead the way.
+
+This is the real gap — the space of critical affirmation or critical engagement — that we designers need to consider minding.  “Minding the Gap” is an all too appropriate term for the next wave of design responsibility and investigation.
+
+***
+
+Next up: “Find the Gap”.
