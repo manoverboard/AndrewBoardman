@@ -7,8 +7,8 @@ date: 2019-10-07 00:00:00 -0500
 excerpt: 'The next stage of human development, if we get there, will be fuelled by
   a combination of these three things: social action, technological inquiry, and active
   mindfulness.'
-main-image: ''
-caption: ''
+main-image: "/uploads/uploads/london-underground-2016.jpg"
+caption: Down, down, down we go. London Underground, 2016.
 
 ---
 The London Underground, the oldest and one of the most thoughtfully designed metro systems in the world, features an audible warning to customers leaving and entering its metro cars: “Mind the Gap”. These three tiny words, first unveiled in 1968, emanate from speakers on the train and on the platform, conveying the primacy and the urgency of paying attention to where one is stepping prior to that next stage of the journey.
