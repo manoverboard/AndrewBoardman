@@ -27,8 +27,6 @@ To date, designers had many categories of exploration in which to pour their ide
 
 But there is a different way forward for design, a space for investigation that has been there all along and which deserves our attention: contemplative practice. Mindfulness, despite its sometimes wacky gift wrappings, helps us examine the underlying  connection between us and among all being. If we are to achieve substantial change in the way that we collectively receive, appreciate, and act in the world, I suggest that large scale contemplative practice is critical. The next stage of human development, if we get there, will be fuelled by a combination of these three things: social action, technological inquiry, and active mindfulness. And design and designers are most poised to lead the way.
 
-This is the real gap — the space of critical affirmation or critical engagement — that we designers need to consider minding.  “Minding the Gap” is an all too appropriate term for the next wave of design responsibility and investigation.
+This is the real gap — the space of critical affirmation and critical engagement — that we designers need to consider minding.  “Minding the Gap” is an all too appropriate term for the next wave of design responsibility and investigation.
 
-***
-
-Next up: “Find the Gap”.
+Next up (you guessed it): “Find the Gap”.
