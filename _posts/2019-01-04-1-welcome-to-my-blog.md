@@ -14,7 +14,7 @@ caption: 'Me in front of one of Warhol''s disaster paintings. The red avoids dis
 ---
 Early bloggers like me used to say things like that. And late bloggers like me do, too, apparently.
 
-But I really mean it. This blog will house thoughts and meditations on design and its correspondence with history, environment, consciousness and critical theory. I will write about the state of design, the direction of design education, the opportunities for design research, and the language of design thinking. 
+But I really mean it. This blog will house thoughts and meditations on design and its correspondence with history, environment, consciousness and critical theory. I will write about the state of design, the direction of design education, the opportunities for design research, and the language of design thinking.
 
 The last regular blog I kept, and which lasted for about ten years, was under the domain deckchairs.net. “Deckchairs” was a nice metaphorical compliment to the design studio I run, Manoverboard, as well as a reference to the ongoing personal project of redeeming some of the anxiety with which I have been blessed.
 
