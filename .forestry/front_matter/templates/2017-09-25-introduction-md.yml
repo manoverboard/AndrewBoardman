@@ -61,10 +61,10 @@ fields:
   default: ''
   description: Optional // Shows below the Main Image on the Single Post.
 pages:
-- _posts/2019-10-07-7-mind-the-gap-design-inquiry-contemplative-practice.md
-- _posts/2019-06-18-6-modernists-mechanization-momentousness.md
-- _posts/2019-04-08-5-designing-guy-maddins-big-brain.md
-- _posts/2019-03-01-3-why-design-students-should-watch-films.md
 - _posts/2019-03-08-4-the-harrowing-design-friendliness-of-the-pacific-coast-highway.md
+- _posts/2019-04-08-5-designing-guy-maddins-big-brain.md
+- _posts/2019-06-18-6-modernists-mechanization-momentousness.md
+- _posts/2019-10-07-7-mind-the-gap-design-inquiry-contemplative-practice.md
+- _posts/2019-03-01-3-why-design-students-should-watch-films.md
 - _posts/2019-02-01-2-mr-rogers-mediating-technology.md
 - _posts/2019-01-04-1-welcome-to-my-blog.md
