@@ -3,7 +3,7 @@ short_title: A — B
 description: Andrew Boardman is a designer, artist, writer and evolutionary finalist.
 baseurl:
 markdown: kramdown
-include: [".htaccess", "img-size-guide.jpg, map2-test.html"]
+include: [".htaccess", "img-size-guide.jpg, /maps/map2-test.html"]
 permalink: /:title/
 defaults:
   - scope:
