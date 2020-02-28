@@ -30,4 +30,4 @@ But there is a different way forward for design, a space for investigation that 
 
 This is the real gap — the space of critical affirmation and critical engagement — that we designers need to consider minding.  “Minding the Gap” is an all too appropriate term for the next wave of design responsibility and investigation.
 
-Next up (you guessed it): “Find the Gap”.
+Next up (you guessed it): [Find the Gap](https://andrewboardman.com/2020/02/28/8-find-the-gap-design-and-active-mindfulness/ "Find the Gap").
