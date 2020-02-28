@@ -1,9 +1,10 @@
 ---
 layout: single-post
-meta-description: ''
+meta-description: Design is that marginal conduit — visual, aural, experiential —
+  between our needs and the built environment’s capacity to fulfill them.
 number: 7
 main-title: 'Mind the Gap: Design, Inquiry and Contemplative Practice'
-date: 2019-10-07 00:00:00 -0500
+date: 2019-10-07T05:00:00.000+00:00
 excerpt: 'The next stage of human development, if we get there, will be fuelled by
   a combination of these three things: social action, technological inquiry, and active
   mindfulness.'
