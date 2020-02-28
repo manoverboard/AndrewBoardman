@@ -1,6 +1,8 @@
 ---
 layout: single-post
-meta-description: ''
+meta-description: How do we examine the gap through the lens of design inquiry? We
+  need to be present to our indifferences, our insecurities, our mild shrugs and wild
+  moves.
 number: 8
 main-title: Find the Gap
 date: 2020-02-28 00:00:00 -0600
@@ -29,7 +31,7 @@ Blake acknowledges the gap in our persistent reception of reality and, in a sing
 
 For designers, when it comes to systems change and inquiry, we can use our experience of the gap to open us up to possibility.
 
-How do we examine the gap through the lens of design inquiry? I think we need to take on the mantle of active mindfulness. We need to be present to our indifferences, to our insecurities, to our mild shrugs and our wild moves. We need to acknowledge our own misdeeds and our misapprehensions. We need to slough off the sloughing off of responsibilities (like accusing our clients of bad faith or blaming our tools for bringing the harm to the world that we have done).
+How do we examine the gap through the lens of design inquiry? I think we need to take on the mantle of active mindfulness. We need to be present to our indifferences, our insecurities, our mild shrugs and wild moves. We need to acknowledge our own misdeeds and our misapprehensions. We need to slough off the sloughing off of responsibilities (like accusing our clients of bad faith or blaming our tools for bringing the harm to the world that we have done).
 
 Active mindfulness is about creating new spaces for dialogue, for engaging with those with whom we disagree, and for calling on the carpet those who are damaging our planet and our relationships.
 
