@@ -4,7 +4,7 @@ meta-description: How do we examine the gap through the lens of design inquiry? 
   need to be present to our indifferences, our insecurities, our mild shrugs and wild
   moves.
 number: 8
-main-title: 'Find the Gap: Active Mindfulness as Design Inquiry 2'
+main-title: 'Find the Gap: Active Mindfulness as Design Inquiry'
 date: 2020-02-28 00:00:00 -0600
 excerpt: What is the gap? Yes, it is a jeans retailer started in San Francisco in
   1969. But for designers and for those seeking to critically engage with the world,
