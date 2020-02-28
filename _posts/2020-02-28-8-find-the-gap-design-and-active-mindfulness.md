@@ -4,7 +4,7 @@ meta-description: How do we examine the gap through the lens of design inquiry? 
   need to be present to our indifferences, our insecurities, our mild shrugs and wild
   moves.
 number: 8
-main-title: Find the Gap
+main-title: 'Find the Gap: Active Mindfulness as Design Inquiry'
 date: 2020-02-28 00:00:00 -0600
 excerpt: What is the gap? Yes, it is a jeans retailer started in San Francisco in
   1969. But for designers and for those seeking to critically engage with the world,
@@ -23,7 +23,7 @@ The gap is that strange feeling of difference between bodily wellness and discom
 
 The gap is not just an intangibility or a purely psychic phenomenon. It is an object in consciousness to be examined. A gap is a graspable moment in time, or perhaps a physical crease in space, where we can also exert our agency and examine those armoured contingencies of everyday life. The gap is something not just worth noting and then going about our own business. The gap is worth knowing and questioning. It is an acknowledgement of our closed-mindedness to possibility. The artist and poet William Blake once wrote this (oft quoted and misquoted):
 
-> “If the doors of perception were cleansed every thing would appear to man as it is, Infinite. For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.”
+> If the doors of perception were cleansed every thing would appear to man as it is, Infinite. For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.”
 >
 > ― William Blake, The Marriage of Heaven and Hell (1793)
 
