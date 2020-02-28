@@ -11,8 +11,8 @@ excerpt: What is the gap? Yes, it is a jeans retailer started in San Francisco i
   the gap is also something else, an epiphenomenon and a socially contracted moment
   that needs both examination and contemplation.
 main-image: "/uploads/uploads/flower-home.jpg"
-caption: 'An illusion: the gap between photograph and photographer, between subject
-  and object.'
+caption: 'A pretty illusion: the gap between photograph and photographer, object and
+  subject.'
 
 ---
 What is the gap? Yes, it is a jeans retailer started in San Francisco in 1969, the short name a reference to the large social chasm between boomers and that greatest generation. How can we ever forget that! But for designers and for those seeking to critically engage with the world, the gap is also something else, an epiphenomenon and a socially contracted moment that needs both examination and contemplation.
@@ -31,7 +31,7 @@ Blake acknowledges the gap in our persistent reception of reality and, in a sing
 
 For designers, when it comes to systems change and inquiry, we can use our experience of the gap to open us up to possibility.
 
-How do we examine the gap through the lens of design inquiry? I think we need to take on the mantle of active mindfulness. We need to be present to our indifferences, our insecurities, our mild shrugs and wild moves. We need to acknowledge our own misdeeds and our misapprehensions. We need to slough off the sloughing off of responsibilities (like accusing our clients of bad faith or blaming our tools for bringing the harm to the world that we have done).
+How do we examine the gap through the [lens of design inquiry](https://andrewboardman.com/2019/10/07/7-mind-the-gap-design-inquiry-contemplative-practice/ "Mind the Gap: Design, Inquiry and Contemplative Practice")? I think we need to take on the mantle of active mindfulness. We need to be present to our indifferences, our insecurities, our mild shrugs and wild moves. We need to acknowledge our own misdeeds and our misapprehensions. We need to slough off the sloughing off of responsibilities (like accusing our clients of bad faith or blaming our tools for bringing the harm to the world that we have done).
 
 Active mindfulness is about creating new spaces for dialogue, for engaging with those with whom we disagree, and for calling on the carpet those who are damaging our planet and our relationships.
 
