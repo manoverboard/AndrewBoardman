@@ -16,7 +16,7 @@ A meditation on the phantasmagoria and glorious spectacle that was the 1939 New 
 Directed by Andrew Boardman.  
 Production assistance by Maeve Boardman.
 
-Archival footage supplied by Internet Archive (at archive.org) in association with Prelinger Archives. Sound recordings by Andrew Boardman, Felix Blume and Jacek Książek.
+Archival footage supplied by Internet Archive (at archive.org) in association with Prelinger Archives. Sound recordings by Andrew Boardman, Felix Blume and Jacek Książek. 
 
 <section class="project-column-one" markdown="1">
 
