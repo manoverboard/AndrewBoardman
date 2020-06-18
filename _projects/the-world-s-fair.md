@@ -18,11 +18,7 @@ Production assistance by Maeve Boardman.
 
 Archival footage supplied by Internet Archive (at archive.org) in association with Prelinger Archives. Sound recordings by Andrew Boardman, Felix Blume and Jacek Książek.
 
-<section>
-
-![clown driving on top of car](/uploads/the-worlds-fair-general.jpg)
-
-{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+<section class="project-column-one" markdown="1">
 
 ![clown driving on top of car](/uploads/the-worlds-fair-general.jpg)
 
@@ -31,6 +27,34 @@ Archival footage supplied by Internet Archive (at archive.org) in association wi
 <section class="project-column-two" markdown="1">
 
 ![polish pavilion world's fair 1939](/uploads/the-worlds-fair-poland.jpg)
+
+{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+
+</section>
+
+<section class="project-column-one" markdown="1">
+
+![people loading onto train](/uploads/the-worlds-fair-trains.jpg)
+
+{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+
+<section class="project-column-two" markdown="1">
+
+![children walking](/uploads/the-worlds-fair-planes.jpg)
+
+{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+
+</section>
+
+<section class="project-column-one" markdown="1">
+
+![trains: the future of transport in our time!](/uploads/the-worlds-fair-loading.jpg)
+
+{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+
+<section class="project-column-two" markdown="1">
+
+![children walking](/uploads/the-worlds-fair-children.jpg)
 
 {% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
 
