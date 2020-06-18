@@ -16,11 +16,15 @@ A meditation on the phantasmagoria and glorious spectacle that was the 1939 New 
 Directed by Andrew Boardman.  
 Production assistance by Maeve Boardman.
 
-Archival footage supplied by Internet Archive (at archive.org) in association with Prelinger Archives. Sound recordings by Andrew Boardman, Felix Blume and Jacek Książek. 
+Archival footage supplied by Internet Archive (at archive.org) in association with Prelinger Archives. Sound recordings by Andrew Boardman, Felix Blume and Jacek Książek.
 
-<section class="project-column-one" markdown="1">
+<section>
 
-![clown driving on car](/uploads/the-worlds-fair-general.jpg)
+![clown driving on top of car](/uploads/the-worlds-fair-general.jpg)
+
+{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+
+![clown driving on top of car](/uploads/the-worlds-fair-general.jpg)
 
 {% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
 
