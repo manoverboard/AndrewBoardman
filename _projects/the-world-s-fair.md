@@ -5,7 +5,6 @@ title: The World's Fair
 main-image: ''
 project-excerpt: A meditation on the phantasmagoria and glorious spectacle that was
   the 1939 New York World’s Fair.
-published: false
 
 ---
 <iframe src="https://player.vimeo.com/video/419998380" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
