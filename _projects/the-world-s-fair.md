@@ -22,13 +22,13 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 ![clown driving on top of car](/uploads/the-worlds-fair-general.jpg)
 
-{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+{% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
 <section class="project-column-two" markdown="1">
 
 ![polish pavilion world's fair 1939](/uploads/the-worlds-fair-poland.jpg)
 
-{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+{% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
 </section>
 
@@ -36,13 +36,13 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 ![people loading onto train](/uploads/the-worlds-fair-trains.jpg)
 
-{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+{% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
 <section class="project-column-two" markdown="1">
 
 ![children walking](/uploads/the-worlds-fair-planes.jpg)
 
-{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+{% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
 </section>
 
@@ -50,12 +50,12 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 ![trains: the future of transport in our time!](/uploads/the-worlds-fair-loading.jpg)
 
-{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+{% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
 <section class="project-column-two" markdown="1">
 
 ![children walking](/uploads/the-worlds-fair-children.jpg)
 
-{% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+{% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
 </section>
