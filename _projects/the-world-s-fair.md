@@ -20,6 +20,14 @@ Archival footage supplied by Internet Archive (at archive.org) in association wi
 
 <section class="project-column-one" markdown="1">
 
+![clown driving on car](/uploads/the-worlds-fair-general.jpg)
+
 {% include image-caption.html caption="<I>Still from The World's Fair</i>, video, 2020" %}
+
+<section class="project-column-two" markdown="1">
+
+![polish pavilion world's fair 1939](/uploads/the-worlds-fair-poland.jpg)
+
+{% include image-caption.html caption="Factory Direct catalogue, participants, 2002" %}
 
 </section>
