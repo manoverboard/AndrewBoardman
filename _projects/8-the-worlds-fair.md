@@ -11,7 +11,7 @@ date: 2020-06-18T00:00:00.000-05:00
 main-title: The World's Fair
 
 ---
-<iframe src="https://player.vimeo.com/video/419998380" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/419998380" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <br>
 
