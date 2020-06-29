@@ -7,7 +7,7 @@ main-image: "/uploads/uploads/the-worlds-fair-title.jpg"
 project-excerpt: A meditation on the phantasmagoria and glorious spectacle that was
   the 1939 New York World’s Fair and its visual prognostications about possible futures
   — both utopian and dystopian.
-date: 2020-06-18T00:00:00.000-05:00
+date: 2020-06-18 00:00:00 -0500
 main-title: The World's Fair
 
 ---
