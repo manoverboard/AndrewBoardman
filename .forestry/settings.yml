@@ -19,7 +19,7 @@ upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
 use_front_matter_path: true
-file_template: 'uploads/:filename:'
+file_template: 'uploads/uploads/:filename:'
 build:
   preview_env:
   - JEKYLL_ENV=staging
