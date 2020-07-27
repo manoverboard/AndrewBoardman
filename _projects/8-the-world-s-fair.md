@@ -6,6 +6,7 @@ title: The World's Fair
 main-image: "/uploads/uploads/the-worlds-fair-title.jpg"
 project-excerpt: A meditation on the phantasmagoria and glorious spectacle that was
   the 1939 New York World’s Fair.
+published: false
 
 ---
 <iframe src="https://player.vimeo.com/video/419998380" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -23,6 +24,8 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
+</section>
+
 <section class="project-column-two" markdown="1">
 
 ![polish pavilion world's fair 1939](/uploads/the-worlds-fair-poland.jpg)
@@ -37,6 +40,8 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
+</section>
+
 <section class="project-column-two" markdown="1">
 
 ![children walking](/uploads/the-worlds-fair-planes.jpg)
@@ -50,6 +55,8 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 ![trains: the future of transport in our time!](/uploads/the-worlds-fair-loading.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
+
+</section>
 
 <section class="project-column-two" markdown="1">
 

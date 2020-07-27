@@ -1,5 +1,6 @@
 ---
 layout: single-project
+<<<<<<< Updated upstream
 meta-description: 'A short video about the 1939 New York World’s Fair and its depiction
   of possible futures: utopian and dystopian.'
 title: The World's Fair
@@ -16,6 +17,21 @@ main-title: The World's Fair
 <br>
 
 Opening on April 30, 1939, on nearly 1,200 acres of land in Queens, the fair foretold “The World of Tomorrow”, in which countries, companies, and civic organizations depicted their future of peace, global cooperation and technological fruition. At a cost of $160 million, over 44 million people would visit the fair, taking with them memories of the marvels they beheld. The fair would also foretell much of how the Second World War unfolded, from the roll out of mass transportation of humans to the introduction of computation and the mechanics of murder. This work of montage boils down the optimism, joyfulness and sense of cooperation that transpired during the heady, extraordinary days of that World’s Fair.
+=======
+meta-description: A meditation on the phantasmagoria and glorious spectacle that was
+  the 1939 New York World’s Fair.
+title: The World's Fair
+main-image: "/uploads/uploads/the-worlds-fair-title.jpg"
+project-excerpt: A meditation on the phantasmagoria and glorious spectacle that was
+  the 1939 New York World’s Fair.
+date: 2020-06-18T00:00:00.000-05:00
+main-title: The World's Fair
+
+---
+<iframe src="https://player.vimeo.com/video/419998380" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Opening on April 30, 1939, on nearly 1,200 acres of land in Queens, the fair foretold “The World of Tomorrow”, in which countries, companies, and civic organizations depicted their future of peace, global cooperation and technological fruition. At a cost of $160 million, over 44 million people would visit the fair, taking with them memories of the marvels they beheld. The fair would also foretell much of how the Second World War unfolded, from the roll out of mass transportation of humans to the introduction of computation and the mechanics of murder. This work of montage boils down the optimism, joyfulness and sense of cooperation that transpired during the heady days of that World’s Fair.
+>>>>>>> Stashed changes
 
 Directed by Andrew Boardman Production assistance by Maeve Boardman
 
