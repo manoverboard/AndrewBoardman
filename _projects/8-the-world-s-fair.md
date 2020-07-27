@@ -10,7 +10,11 @@ date: 2020-07-27 00:00:00 -0500
 main-title: The World's Fair
 
 ---
+<div class="video-container">
+
 <iframe src="https://player.vimeo.com/video/419998380" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+</div>
 
 Opening on April 30, 1939, on nearly 1,200 acres of land in Queens, the fair foretold “The World of Tomorrow”, in which countries, companies, and civic organizations depicted their future of peace, global cooperation and technological fruition. At a cost of $160 million, over 44 million people would visit the fair, taking with them memories of the marvels they beheld. The fair would also foretell much of how the Second World War unfolded, from the roll out of mass transportation of humans to the introduction of computation and the mechanics of murder. This work of montage boils down the optimism, joyfulness and sense of cooperation that transpired during the heady days of that World’s Fair.
 
