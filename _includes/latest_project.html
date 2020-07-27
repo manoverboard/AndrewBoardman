@@ -5,20 +5,18 @@
     </a>
 
     <article class="project">
-        <a href="{{ project.url }}">
+        <a href="{{ site.projects.last.url }}">
             <div class="image">
                 <img src="{{ site.projects.last.main-image | absolute_url }}" alt="{{ site.projects.last.title }}">
             </div>
         </a>
 
         <div class="content">
-            <h3>
+            <h3><a href="{{ site.projects.last.url }}">
                 {{ site.projects.last.main-title }}
-            </h3>
+            </a></h3>
             <p class="excerpt">
                 {{ site.projects.last.project-excerpt}}
-                <!-- Read more link -->
-                <a href="{{ site.projects.last.url }}">Read more<span class="hidden">on {{ site.projects.last.main-title }}</span></a>
             </p>
         </div>
     </article>
