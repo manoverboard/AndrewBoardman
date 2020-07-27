@@ -1,7 +1,7 @@
 ---
 title: Traces
 layout: single-project
-date: 2018-10-07 18:06:37 +0000
+date: 2018-10-07T18:06:37.000+00:00
 main-image: "/uploads/uploads/transparencies-1.jpg"
 project-excerpt: These are a series of ink drawings on tracing paper completed between
   1994 and 1995. The drawings show an amalgamation of my tracings of cartoons, corporate
@@ -9,6 +9,7 @@ project-excerpt: These are a series of ink drawings on tracing paper completed b
 meta-description: A series of drawing on tracing paper about the collision of Jewish
   ephemeral culture that itself becomes ephemeral in the collision with commercial
   culture.
+main-title: Traces
 
 ---
 ![drawing on tracing paper](/uploads/uploads/transparencies-1.jpg)
