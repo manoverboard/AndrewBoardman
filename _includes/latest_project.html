@@ -1,33 +1,26 @@
 {% if page.show_latest_project %}
 <section>
-
     <a class="kill-underlines" href="{{ "/projects/" | absolute_url }}">
         <h3 class="project">Projects</h3>
     </a>
 
-
     <article class="project">
-        {% for project in site.projects limit:1 %}
-
         <a href="{{ project.url }}">
             <div class="image">
-                <img src="{{ project.main-image | absolute_url }}" alt="{{ project.title }}">
+                <img src="{{ site.projects.last.main-image | absolute_url }}" alt="{{ site.projects.last.title }}">
             </div>
         </a>
 
         <div class="content">
             <h3>
-                {{ project.title }}
+                {{ site.projects.last.main-title }}
             </h3>
             <p class="excerpt">
-                {{ project.project-excerpt}}
+                {{ site.projects.last.project-excerpt}}
                 <!-- Read more link -->
-                <a href="{{ project.url }}">Read more<span class="hidden">on {{ project.main-title }}</span></a>
+                <a href="{{ site.projects.last.url }}">Read more<span class="hidden">on {{ site.projects.last.main-title }}</span></a>
             </p>
         </div>
-
-        {% endfor %}
     </article>
-
 </section>
 {% endif %}
