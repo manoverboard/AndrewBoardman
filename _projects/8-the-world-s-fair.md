@@ -8,7 +8,6 @@ project-excerpt: A meditation on the phantasmagoria and glorious spectacle that 
   the 1939 New York World’s Fair.
 date: 2020-07-27 00:00:00 -0500
 main-title: The World's Fair
-published: false
 
 ---
 <iframe src="https://player.vimeo.com/video/419998380" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
