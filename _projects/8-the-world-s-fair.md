@@ -25,7 +25,7 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 <section class="project-column-one" markdown="1">
 
-![clown driving on top of car](/uploads/the-worlds-fair-general.jpg)
+![clown driving on top of car](/uploads/uploads/the-worlds-fair-general.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
@@ -33,7 +33,7 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 <section class="project-column-two" markdown="1">
 
-![polish pavilion world's fair 1939](/uploads/the-worlds-fair-poland.jpg)
+![polish pavilion world's fair 1939](/uploads/uploads/the-worlds-fair-poland.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
@@ -41,7 +41,7 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 <section class="project-column-one" markdown="1">
 
-![people loading onto train](/uploads/the-worlds-fair-trains.jpg)
+![people loading onto train](/uploads/uploads/the-worlds-fair-trains.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
@@ -49,7 +49,7 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 <section class="project-column-two" markdown="1">
 
-![children walking](/uploads/the-worlds-fair-planes.jpg)
+![children walking](/uploads/uploads/the-worlds-fair-planes.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
@@ -57,7 +57,7 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 <section class="project-column-one" markdown="1">
 
-![trains: the future of transport in our time!](/uploads/the-worlds-fair-loading.jpg)
+![trains: the future of transport in our time!](/uploads/uploads/the-worlds-fair-loading.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
@@ -65,7 +65,7 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 <section class="project-column-two" markdown="1">
 
-![children walking](/uploads/the-worlds-fair-children.jpg)
+![children walking](/uploads/uploads/the-worlds-fair-children.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
