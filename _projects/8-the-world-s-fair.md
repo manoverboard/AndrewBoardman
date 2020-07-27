@@ -6,6 +6,8 @@ title: The World's Fair
 main-image: "/uploads/uploads/the-worlds-fair-title.jpg"
 project-excerpt: A meditation on the phantasmagoria and glorious spectacle that was
   the 1939 New York World’s Fair.
+date: 2020-07-27 00:00:00 -0500
+main-title: The World's Fair
 published: false
 
 ---
