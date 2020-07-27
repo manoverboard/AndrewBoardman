@@ -40,8 +40,7 @@ window.onload = function timeMessage() {
         document.getElementById("timeMessage").innerHTML = "working on tomorrow.";
     } else if (time == 22) {
         document.getElementById("timeMessage").innerHTML = " reading a book.";
-    }
-    else if (time == 23) {
+    } else if (time == 23) {
         document.getElementById("timeMessage").innerHTML = "reading a magazine.";
     }
 };
@@ -52,11 +51,30 @@ window.onload = function timeMessage() {
 
 
 $(document).ready(function () {
+    // ------------------------------------------------------
+    // home page animation
+    // ------------------------------------------------------
+    // time-out
+    $(".home-animation-wrapper").delay(2000).fadeOut("slow");
+
+    // check cookie
+    var visited = GetCookie("visited")
+    // if first time visitor display animation
+    if (visited == null) {
+        $('.home-animation-wrapper').css("display", "none");
+    }
+    // it not, keep it hidden
+    else {
+        $('.home-animation-wrapper').show().css("display", "");
+    }
+    // set the cookie
+    var expire = new Date();
+    expire = new Date(expire.getTime() + 7776000000);
+    document.cookie = "visited=here; expires=" + expire;
 
     // ------------------------------------------------------
     // back to top hide/show 
     // ------------------------------------------------------
-
     var prevScrollpos = window.pageYOffset;
     window.onscroll = function () {
         var currentScrollPos = window.pageYOffset;
@@ -66,15 +84,6 @@ $(document).ready(function () {
             document.getElementById("top-button").style.bottom = "-120px"
         }
         prevScrollpos = currentScrollPos
-    }
-
-    // ------------------------------------------------------
-    // restrict hovers to non-touch devices 
-    // ------------------------------------------------------
-
-    var touchsupport = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0);
-    if (!touchsupport) { // browser doesn't support touch
-        document.documentElement.className += " non-touch";
     }
 
     // ------------------------------------------------------
@@ -112,41 +121,12 @@ $(document).ready(function () {
     }
 
     // ------------------------------------------------------
-    // home page animation
-    // ------------------------------------------------------
-    // time-out
-    $(".home-animation-wrapper").delay(3000).fadeOut("slow");
-
-    // check cookie
-    var visited = Cookies("visited")
-    // if first time visitor display animation
-    if (visited == null) {
-        $('.home-animation-wrapper').show().css("display", "");
-    }
-    // it not, keep it hidden
-    else {
-        $('.home-animation-wrapper').hide().css("display", "none");
-    }
-    // set the cookie
-    Cookies('visited', 'yes', {
-        expires: 1,
-        path: '/'
-    });
-
-
-
-
-    // ------------------------------------------------------
     // post transition time-out
     // ------------------------------------------------------
     $(".post-transition").delay(500).fadeOut("slow");
-
 
     // ------------------------------------------------------
     // project image size fix
     // ------------------------------------------------------
     $(".single-project .project-content p img").parent().addClass("project-image");
-
-
-
 });

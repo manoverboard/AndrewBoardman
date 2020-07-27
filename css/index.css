@@ -1214,6 +1214,7 @@ footer .copyright a {
 
 .post-transition,
 .home-animation-wrapper {
+    display: block;
     background-color: #1b1b1b;
     z-index: 1000;
     position: absolute;
