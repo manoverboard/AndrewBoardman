@@ -36,7 +36,7 @@ textarea:focus,
 radio:focus,
 checkbox:focus,
 button:focus a:focus {
-    outline: solid #0033A0 2px !important;
+    outline: solid #EB5959 2px !important;
 }
 
 button:hover {
@@ -91,7 +91,7 @@ section {
 }
 
 .blue-hover {
-    color: #0033A0 !important;
+    color: #EB5959 !important;
 }
 
 /* --------------------- Image Effects */
@@ -301,7 +301,7 @@ a.kill-underlines:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover {
-    color: #0033A0 !important;
+    color: #EB5959 !important;
     transition: color .3s ease-in-out;
 }
 
@@ -620,7 +620,7 @@ li p {
 }
 
 .button-small:hover {
-    color: #0033A0 !important;
+    color: #EB5959 !important;
 }
 
 /* prevent font-size compounding */
@@ -1214,7 +1214,7 @@ footer .copyright a {
 
 .post-transition,
 .home-animation-wrapper {
-    display: block;
+    display: none;
     background-color: #1b1b1b;
     z-index: 1000;
     position: absolute;

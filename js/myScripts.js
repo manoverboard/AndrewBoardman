@@ -54,18 +54,33 @@ $(document).ready(function () {
     // ------------------------------------------------------
     // home page animation
     // ------------------------------------------------------
+    function GetCookie(name) {
+        var arg = name + "=";
+        var alen = arg.length;
+        var clen = document.cookie.length;
+        var i = 0;
+
+        while (i < clen) {
+            var j = i + alen;
+            if (document.cookie.substring(i, j) == arg)
+                return "here";
+            i = document.cookie.indexOf(" ", i) + 1;
+            if (i == 0)
+                break;
+        }
+        return null;
+    }
+
     // time-out
     $(".home-animation-wrapper").delay(2000).fadeOut("slow");
 
     // check cookie
     var visited = GetCookie("visited")
-    // if first time visitor display animation
     if (visited == null) {
-        $('.home-animation-wrapper').css("display", "none");
+        $('.home-animation-wrapper').css("display", "block");
     }
-    // it not, keep it hidden
     else {
-        $('.home-animation-wrapper').show().css("display", "");
+        $('.home-animation-wrapper').css("display", "none");
     }
     // set the cookie
     var expire = new Date();
