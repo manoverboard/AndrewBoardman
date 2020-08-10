@@ -36,7 +36,7 @@ textarea:focus,
 radio:focus,
 checkbox:focus,
 button:focus a:focus {
-    outline: solid #EB5959 2px !important;
+    outline: solid #E54242 2px !important;
 }
 
 button:hover {
@@ -91,7 +91,7 @@ section {
 }
 
 .blue-hover {
-    color: #EB5959 !important;
+    color: #E54242 !important;
 }
 
 /* --------------------- Image Effects */
@@ -301,7 +301,7 @@ a.kill-underlines:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover {
-    color: #EB5959 !important;
+    color: #E54242 !important;
     transition: color .3s ease-in-out;
 }
 
@@ -620,7 +620,7 @@ li p {
 }
 
 .button-small:hover {
-    color: #EB5959 !important;
+    color: #E54242 !important;
 }
 
 /* prevent font-size compounding */
