@@ -6,7 +6,7 @@ title: The World's Fair
 main-image: "/uploads/uploads/the-worlds-fair-title.jpg"
 project-excerpt: A meditation on the phantasmagoria and glorious spectacle that was
   the 1939 New York World’s Fair.
-date: 2020-07-27 00:00:00 -0500
+date: 2020-07-27T00:00:00.000-05:00
 main-title: The World's Fair
 
 ---
@@ -21,7 +21,7 @@ Opening on April 30, 1939, on nearly 1,200 acres of land in Queens, the fair for
 Directed by Andrew Boardman
 Production assistance by Maeve Boardman
 
-Archival footage supplied by [Internet Archive](https://archive.org) in association with Prelinger Archives. Sound recordings by Andrew Boardman, Felix Blume and Jacek Książek.
+Archival footage supplied by [Internet Archive](https://archive.org) in association with Prelinger Archives. Sound recordings by Andrew Boardman, with files from Felix Blume and Jacek Książek.
 
 <section class="project-column-one" markdown="1">
 
@@ -41,7 +41,7 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 <section class="project-column-one" markdown="1">
 
-![people loading onto train](/uploads/uploads/the-worlds-fair-trains.jpg)
+![trains: the future of transport in our time!](/uploads/uploads/the-worlds-fair-trains.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
@@ -49,7 +49,7 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 <section class="project-column-two" markdown="1">
 
-![children walking](/uploads/uploads/the-worlds-fair-planes.jpg)
+![airplanes flying in hanger](/uploads/uploads/the-worlds-fair-planes.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
@@ -57,7 +57,7 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 <section class="project-column-one" markdown="1">
 
-![trains: the future of transport in our time!](/uploads/uploads/the-worlds-fair-loading.jpg)
+![people boarding train](/uploads/uploads/the-worlds-fair-loading.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
@@ -65,7 +65,7 @@ Archival footage supplied by [Internet Archive](https://archive.org) in associat
 
 <section class="project-column-two" markdown="1">
 
-![children walking](/uploads/uploads/the-worlds-fair-children.jpg)
+![children walking in a line](/uploads/uploads/the-worlds-fair-children.jpg)
 
 {% include image-caption.html caption="Still from <i>The World's Fair</i>, video, 2020" %}
 
