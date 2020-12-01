@@ -5,43 +5,43 @@ window.onload = function timeMessage() {
     var time = new Date().getHours();
     
     if ((time == 0) || (time == 1) || (time == 2) || (time == 3) || (time == 4) || (time == 5)) {
-        document.getElementById("timeMessage").innerHTML = "sleeping away.";
+        document.getElementById("timeMessage").innerHTML = "sleeping (or trying).";
     } else if (time == 6) {
-        document.getElementById("timeMessage").innerHTML = "eating breakfast.";
+        document.getElementById("timeMessage").innerHTML = "feeding the cats.";
     } else if (time == 7) {
-        document.getElementById("timeMessage").innerHTML = "on a run.";
+        document.getElementById("timeMessage").innerHTML = "on the cushion.";
     } else if (time == 8) {
-        document.getElementById("timeMessage").innerHTML = "meditating.";
+        document.getElementById("timeMessage").innerHTML = "writing hard.";x
     } else if (time == 9) {
-        document.getElementById("timeMessage").innerHTML = "writing.";
+        document.getElementById("timeMessage").innerHTML = "still writing.";
     } else if (time == 10) {
-        document.getElementById("timeMessage").innerHTML = "reading something or other.";
+        document.getElementById("timeMessage").innerHTML = "sending a far too-long email.";
     } else if (time == 11) {
-        document.getElementById("timeMessage").innerHTML = " working on a project.";
+        document.getElementById("timeMessage").innerHTML = "projecting.";
     } else if (time == 12) {
-        document.getElementById("timeMessage").innerHTML = "eating some kind of lunch.";
+        document.getElementById("timeMessage").innerHTML = "having a nosh.";
     } else if (time == 13) {
-        document.getElementById("timeMessage").innerHTML = "talking briefly on the phone.";
+        document.getElementById("timeMessage").innerHTML = "running somewhere.";
     } else if (time == 14) {
-        document.getElementById("timeMessage").innerHTML = "developing a plan.";
+        document.getElementById("timeMessage").innerHTML = "talking type.";
     } else if (time == 15) {
-        document.getElementById("timeMessage").innerHTML = "somehow managing.";
+        document.getElementById("timeMessage").innerHTML = "avoiding supermarkets.";
     } else if (time == 16) {
-        document.getElementById("timeMessage").innerHTML = "writing.";
+        document.getElementById("timeMessage").innerHTML = "lesson planning.";
     } else if (time == 17) {
-        document.getElementById("timeMessage").innerHTML = "solving some sort of problem.";
+        document.getElementById("timeMessage").innerHTML = "solving for infinity.";
     } else if (time == 18) {
-        document.getElementById("timeMessage").innerHTML = "eating dinner.";
+        document.getElementById("timeMessage").innerHTML = "eating dinner (not supper).";
     } else if (time == 19) {
-        document.getElementById("timeMessage").innerHTML = "avoiding the Twitter.";
+        document.getElementById("timeMessage").innerHTML = "trying to call Jaron Lanier.";
     } else if (time == 20) {
-        document.getElementById("timeMessage").innerHTML = "washing dishes/doing nothing.";
+        document.getElementById("timeMessage").innerHTML = "scrubbing cat dishes.";
     } else if (time == 21) {
-        document.getElementById("timeMessage").innerHTML = "working on tomorrow.";
+        document.getElementById("timeMessage").innerHTML = "eating some old popcorn.";
     } else if (time == 22) {
-        document.getElementById("timeMessage").innerHTML = " reading a book.";
+        document.getElementById("timeMessage").innerHTML = "perennially half-way through a book.";
     } else if (time == 23) {
-        document.getElementById("timeMessage").innerHTML = "reading a magazine.";
+        document.getElementById("timeMessage").innerHTML = "trying to put away the phone.";
     }
 };
 
