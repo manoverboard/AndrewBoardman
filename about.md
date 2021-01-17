@@ -19,18 +19,14 @@ description: I founded Manoverboard, a design studio focused on driving social c
 resume-link: "/uploads/uploads/andrew-boardman-cv-1.pdf"
 list_1_title: A few clients at Manoverboard.
 list1:
+- item: Re-Code
+  link: https://re-code.ca
 - item: Innoweave
   link: https://innoweave.ca
 - item: Maestral
   link: http://maestral.org/
-- item: HeartShare
-  link: https://www.heartshare.org/
-- item: SJF Ventures
-  link: http://sjfventures.com/
 - item: Serving Green
   link: https://serving.green/
-- item: Ducks Unlimited Canada
-  link: http://iwwr.ducks.ca/
 list_2_title: A few pieces that I wrote.
 fields:
 - label: Item
