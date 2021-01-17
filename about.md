@@ -19,10 +19,12 @@ description: I founded Manoverboard, a design studio focused on driving social c
 resume-link: "/uploads/uploads/andrew-boardman-cv-1.pdf"
 list_1_title: A few Manoverboard client sites.
 list1:
-- item: Adjuvant Capital
-  link: https://adjuvantcapital.com
+- item: Mikva Challenge
+  link: https://mikvachallenge.org
 - item: Innoweave
   link: https://innoweave.ca
+- item: Adjuvant Capital
+  link: https://adjuvantcapital.com
 - item: Re-Code
   link: https://re-code.ca
 - item: Serving Green
