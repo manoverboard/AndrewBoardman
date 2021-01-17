@@ -17,16 +17,18 @@ description: I founded Manoverboard, a design studio focused on driving social c
   College and served as provincial chapter president of Graphic Designers of Canada.
   <br><br>Contact me at <a href="mailto:andrew@manoverboard.com" title="">andrew@manoverboard.com</a>
 resume-link: "/uploads/uploads/andrew-boardman-cv-1.pdf"
-list_1_title: A few clients at Manoverboard.
+list_1_title: A few Manoverboard client sites.
 list1:
-- item: Re-Code
-  link: https://re-code.ca
+- item: Adjuvant Capital
+  link: https://adjuvantcapital.com
 - item: Innoweave
   link: https://innoweave.ca
-- item: Maestral
-  link: http://maestral.org/
+- item: Re-Code
+  link: https://re-code.ca
 - item: Serving Green
   link: https://serving.green/
+- item: Maestral
+  link: http://maestral.org/
 list_2_title: A few pieces that I wrote.
 fields:
 - label: Item
