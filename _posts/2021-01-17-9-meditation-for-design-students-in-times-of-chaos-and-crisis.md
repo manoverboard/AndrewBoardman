@@ -30,9 +30,7 @@ That’s it. I used a ringing bell on an iPhone app to mark the beginning and th
 
 Over the next few weeks, I continued this mindful minute exercise at the start of every class. Midway through the class, I elongated it from one minute to two. Toward the end of the class, we sat for three minutes. Perhaps, for some, that felt like an eternity.
 
-\~\~\~
-
-## Meditation is Mediation, not Merriment
+### Meditation is Mediation, not Merriment
 
 I want to add that the purpose here is not just to have students “feel better” about themselves, or the classroom, or the instructor. It is also not about getting students to behave or to perform better. I am not interested in meditation as some form of performance drug. And I’m not interested in students being part of some corporatized happiness project, a subject that I will discuss later. Rather, the goal is to help students  realize that they are responsible for being fully in the class, that they are part of something larger, and that, by the law of transitive properties, they are also responsible for the immediate and greater world they inhabit.
 
