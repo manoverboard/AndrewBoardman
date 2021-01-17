@@ -1,12 +1,13 @@
 ---
 layout: single-post
-meta-description: A short guided meditation for design students helps students become
-  more conscious and connected to one another.
+meta-description: A short guided meditation for design students helps them become
+  more conscious and connected to the greater world.
 number: 9
 main-title: Meditation for Design Students in Times of Chaos and Crisis
 date: 2021-01-17 00:00:00 -0600
 excerpt: The toll of the pandemic on college and university students goes largely
-  unseen and underreported. A brief meditation may help.
+  unseen and underreported. It was the right time to elevate the introduction of quiet
+  meditation to my design class.
 main-image: "/uploads/uploads/uploads/twoflowers.jpg"
 caption: Two flowers in a field of grasses. The focus is on the grasses.
 
