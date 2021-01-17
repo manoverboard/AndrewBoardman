@@ -7,8 +7,8 @@ main-title: Meditation for Design Students in Times of Chaos and Crisis
 date: 2021-01-17 00:00:00 -0600
 excerpt: The toll of the pandemic on college and university students goes largely
   unseen and underreported. A brief meditation may help.
-main-image: ''
-caption: ''
+main-image: "/uploads/uploads/uploads/twoflowers.jpg"
+caption: Two flowers in a field of grasses. The focus is on the grasses.
 
 ---
 I have been introducing my design students to meditation in class over the past few years. When we were in person, in the classroom, I would begin by presenting a short series of slides and videos to address why paying closer attention to the particular moment is important and why the deliberate practice of meditation can be beneficial. During this last fall semester, this did not feel simply important. It felt critical.
