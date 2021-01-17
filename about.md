@@ -54,6 +54,8 @@ list2:
   link: ''
 list_3_title: A few talks that I gave.
 list3:
+- item: 'Design Educator Panel: The facilitation versus delivery debate'
+  link: https://www.rgd.ca/events-and-programs/past-webinars/news_post/6037.php
 - item: 'Sustainability Insights: Towards a Cleaner, Greener UX'
   link: https://newmediamanitoba.com/events/394/sustainability-insights-green-ux-and-a-greener-web
 - item: Serving Green
