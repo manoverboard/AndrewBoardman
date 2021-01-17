@@ -19,8 +19,8 @@ description: I founded Manoverboard, a design studio focused on driving social c
 resume-link: "/uploads/uploads/andrew-boardman-cv-1.pdf"
 list_1_title: A few clients at Manoverboard.
 list1:
-- item: Greyston
-  link: https://greyston.org/
+- item: Innoweave
+  link: https://innoweave.ca
 - item: Maestral
   link: http://maestral.org/
 - item: HeartShare
