@@ -76,24 +76,25 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   title="">Augeries of Innocence</a> (c. 1803)</p></blockquote><p>What exists beyond
   our mere shadows? How can we grasp our place in the continuum of history's unfolding
   triumphs and abominable tragedies? What does it mean to design and present new problems
-  and answers? How can we be better stewards of our planet as designers and make our
-  work more meaningful for the people and crises to come?</p><p>These are some of
-  the questions that challenge me and cut across my work and research. I call this
-  site "A—B" because it's what I know. (I am leaving "C—Z" to others.) This website
-  houses some of my work and meditations on design and its correspondence with history,
-  environment, consciousness and theory.</p><p>I am a designer who runs a studio in
-  Canada called <a href="https://manoverboard.com" title="">Manoverboard</a> whose
-  mission is to help organizations drive social change through design. Manoverboard
+  and new answers? How can we be better stewards of our planet as designers and make
+  our work more meaningful for the people and crises to come? How can we better educate
+  design students who will bring about and activate these transitions?</p><p>These
+  are some of the questions that challenge me and cut across my work and research.
+  I call this site "A—B" because it's what I know. (I am leaving "C—Z" to others.)
+  This website houses some of my work and meditations on design and its correspondence
+  with history, environment, consciousness and theory.</p><p>I am a designer who runs
+  a studio in Canada called <a href="https://manoverboard.com" title="">Manoverboard</a>
+  whose mission is to help organizations drive social change through design. Manoverboard
   is a Certified B Corporation and serves clients throughout the world. The whole
   shebang began in 2002 out of my Brooklyn apartment.</p><p>In addition to managing
   the studio, I design, draw and write. I am slowly working on a book on design consciousness.
   I teach design at the University of Manitoba and recently taught at Red River College
-  in Winnipeg.</p><p>What else? I cut my design teeth creating Barneys New York’s
-  first e-commerce site. I hold a B.A. from Brown University and an M.F.A. from SUNY
-  Albany. I received a Fulbright Fellowship and a NYFA Fellowship. I worked at The
-  Rockefeller Foundation for a while.</p><p>It took about 13.8 billion years for me
-  to get to this sentence. In this next sentence, you might <a href="mailto:andrew@manoverboard.com"
-  title="email andrew boardman">email me</a>.</p>
+  in Winnipeg.</p><p>What else? I cut my design teeth creating a website for (now
+  shuttered) Barneys New York. I hold a B.A. from Brown University and an M.F.A. from
+  SUNY Albany. I received a Fulbright Fellowship and a NYFA Fellowship. I worked at
+  The Rockefeller Foundation for a while.</p><p>It took about 13.8 billion years for
+  me to get to this sentence. After this next sentence, you might want to <a href="mailto:andrew@manoverboard.com"
+  title="email andrew boardman">email me</a>. Looking forward.</p>
 meta-description: This is the About page about Andrew Boardman. I design, draw, write
   and teach. Plus I read books. Mostly on graphic design, theory, history, consciousness.
 menu:
