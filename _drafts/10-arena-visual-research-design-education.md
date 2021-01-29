@@ -7,7 +7,7 @@ date: 2021-01-29 00:00:00 -0600
 excerpt: With classes being fully virtual in the fraught fall of 2020, I thought Are.na
   would be a perfect tool to inform and accompany the Design Theory and Criticism
   course I was teaching last semester.
-main-image: ''
+main-image: "/uploads/uploads/uploads/lamp.jpg"
 caption: ''
 
 ---
