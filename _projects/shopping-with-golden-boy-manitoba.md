@@ -4,7 +4,7 @@ date: 2021-02-04 21:50:43 -0600
 meta-description: An honest but cheeky look at how we might be able to support local
   businesses, if only we had the Golden Boy to help.
 main-title: Shopping with a Golden Boy in Manitoba
-main-image: ''
+main-image: "/uploads/uploads/uploads/shoplocal-v7a1-1400px.jpg"
 project-excerpt: This was an amazing project to showcase small businesses and organizations
   during a time of deep pandemic.
 published: false
