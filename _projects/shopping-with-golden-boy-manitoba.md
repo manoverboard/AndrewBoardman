@@ -8,7 +8,6 @@ main-title: Shopping with a Golden Boy in Manitoba
 main-image: "/uploads/uploads/uploads/shoplocal-v7a1-1400px.jpg"
 project-excerpt: 'A lighthearted project to support a serious challenge: the need
   to support small and local businesses and organizations during a time of deep pandemic.'
-published: false
 
 ---
 There is a golden boy who rests at the top of the provincial legislative building in downtown Winnipeg. He cheerfully looks out on the province of Manitoba, which covers 649,950 square kilometres, holds 1.4 million people (705,244 in the capital), and about -32 Celsius at the time of writing.
