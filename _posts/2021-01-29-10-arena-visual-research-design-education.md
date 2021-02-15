@@ -1,14 +1,16 @@
 ---
 layout: single-post
-meta-description: ''
+meta-description: The freeform structure and format of Are.na lends itself to design
+  process work and to student explorations and research. Here's how I used it for
+  a class on theory and criticism.
 number: 10
-main-title: 'Observing Are.na for Design Education: A Case'
+main-title: 'Observing Are.na for Design Education: A Case Study'
 date: 2021-01-29 00:00:00 -0600
 excerpt: With classes being fully virtual in the fraught fall of 2020, I thought Are.na
   would be a perfect tool to inform and accompany the Design Theory and Criticism
   course I was teaching last semester.
 main-image: "/uploads/uploads/uploads/lamp.jpg"
-caption: ''
+caption: The warm glow of futurity. Or the heat of the moment.
 
 ---
 I have been using Are.na for personal projects for a number of years. It is a unique and compelling digital apparatus — a kind of flatland mind map, freeform research tool and oddball publishing platform all in one. [Are.na](https://www.are.na "Are.na!") is also a curious system to behold and to experience (with the best use of Arial anywhere) and it is unlike other more “social” media tools like Twitter or Instagram. As solid and as performant as the overall product is, it also takes genuine time to become acquainted with the general architecture and the way it makes connections, or allows for connections to emerge. In fact, the platform at first feels ephemeral and insubstantial because of its decentralized approach to presenting ideas and because of its seemingly madcap mechanics.
