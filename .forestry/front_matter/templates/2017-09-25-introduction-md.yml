@@ -61,7 +61,6 @@ fields:
   default: ''
   description: Optional // Shows below the Main Image on the Single Post.
 pages:
-- _posts/10-arena-visual-research-design-education.md
 - _posts/2019-01-04-1-welcome-to-my-blog.md
 - _posts/2019-02-01-2-mr-rogers-mediating-technology.md
 - _posts/2019-03-01-3-why-design-students-should-watch-films.md
@@ -71,3 +70,4 @@ pages:
 - _posts/2019-10-07-7-mind-the-gap-design-inquiry-contemplative-practice.md
 - _posts/2020-02-28-8-find-the-gap-design-and-active-mindfulness.md
 - _posts/2021-01-17-9-meditation-for-design-students-in-times-of-chaos-and-crisis.md
+- _posts/2021-01-29-10-arena-visual-research-design-education.md
