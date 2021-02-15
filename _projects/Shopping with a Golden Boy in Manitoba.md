@@ -23,4 +23,8 @@ In came the Golden Boy, who at about 17 feet tall, is shown walking through my n
 
 The final animated GIF, which is about 18 seconds in length, is below.
 
+<div style="max-width: 1080px" markdown="1">
+
 ![shop local Manitoba gif little sister cafe](/uploads/uploads/uploads/shop-local-manitoba-boardman-1080-animation.gif "Shop Local Manitoba")
+
+</div>
