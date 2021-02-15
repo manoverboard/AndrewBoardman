@@ -19,7 +19,9 @@ When I was asked to create an image that would help Manitobans connect with busi
 
 I set about taking photos of all of the stores along South Osborne, which includes award-winning restaurants, delightful cafes, and independent booksellers. I then unified these storefronts by cropping them from their surroundings and standardizing their sizes.
 
-In came the Golden Boy, who at about 17 feet tall, would 
+In came the Golden Boy, who at about 17 feet tall, would be shown walking through the neighbourhood, sending his regards, and collecting goods for his golden family. Maskless, because he is metal, he is light of feet and excited to see what is dawning in the contactless coterie of enterprising shopkeepers.
+
+The final animated GIF is below
 
 ![shop local Manitoba gif little sister cafe ](/uploads/uploads/uploads/shop-local-manitoba-boardman-1080-animation.gif "Shop Local Manitoba")
 
