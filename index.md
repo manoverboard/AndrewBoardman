@@ -8,7 +8,7 @@ main-title: Andrew Boardman is a designer, artist and evolutionary finalist.
 main-image: "/uploads/uploads/andy-maevedrawing.jpg"
 sub-title: This is my site. It has words and pictures. It took about fifty years to
   make.
-timing-pre: At this very moment, he is
+timing-pre: At this very moment, I am
 show_latest_blog: true
 show_latest_project: true
 show_twitter: false
