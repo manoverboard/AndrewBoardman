@@ -6,8 +6,9 @@ meta-description: An visual exploration — using the power of animated GIFs —
   Boy and his fleet feet to help.
 main-title: Shopping with a Golden Boy in Manitoba
 main-image: "/uploads/uploads/uploads/shoplocal-v7a1-1400px.jpg"
-project-excerpt: 'A lighthearted project to support a serious challenge: the need
-  to support small and local businesses and organizations during a time of deep pandemic.'
+project-excerpt: 'A lighthearted project to support a serious challenge: supporting
+  small, independent and local businesses and organizations during a time of deep
+  pandemic.'
 
 ---
 There is a golden boy who rests at the top of the provincial legislative building in downtown Winnipeg. He cheerfully looks out on the province of Manitoba, which covers 649,950 square kilometres, holds 1.4 million people (705,244 in the capital), and about -32 Celsius at the time of writing.
@@ -22,4 +23,4 @@ In came the Golden Boy, who at about 17 feet tall, is shown walking through my n
 
 The final animated GIF, which is about 18 seconds in length, is below.
 
-![shop local Manitoba gif little sister cafe ] width="1080" (/uploads/uploads/uploads/shop-local-manitoba-boardman-1080-animation.gif "Shop Local Manitoba")
+![shop local Manitoba gif little sister cafe](/uploads/uploads/uploads/shop-local-manitoba-boardman-1080-animation.gif "Shop Local Manitoba")
