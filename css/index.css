@@ -3,7 +3,7 @@
 /* ------------------------ C O R E -------------------------*/
 
 /* --------------------------------------------------------- */
-/* last edited August 13 2020, 11:02am */
+/* last edited 2/16/21 9:10am */
 
 body {
     background-color: #F6F6F6 !important;
@@ -181,6 +181,10 @@ nav.main-nav ul li:last-child:after {
     -webkit-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     transform: rotate(180deg);
+}
+
+#top-button .image-caption {
+    display: none;
 }
 
 nav.main-nav ul li {
