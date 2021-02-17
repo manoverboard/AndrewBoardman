@@ -21,9 +21,7 @@ I set about taking photos of all of the stores along South Osborne, which includ
 
 In came the Golden Boy, who at about 17 feet tall, is shown walking through my neighbourhood, sending his regards, and collecting goods for his golden family. Maskless, because he is metal, he is light of feet and excited to see what is dawning in the contactless coterie of enterprising shopkeepers.
 
-The final animated GIF, which is about 18 seconds in length, is below.
-
-<div style="max-width: 700px" markdown="1">
+The final animated GIF, which is about 18 seconds in length, is below.<div style="max-width: 700px" markdown="1">
 
 ![shop local Manitoba gif little sister cafe](/uploads/uploads/uploads/shop-local-manitoba-boardman-1080-animation.gif "Shop Local Manitoba")
 
