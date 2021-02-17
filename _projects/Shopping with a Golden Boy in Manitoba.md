@@ -1,6 +1,6 @@
 ---
 layout: single-project
-date: 2021-02-04 21:50:43 -0600
+date: 2021-02-04T21:50:43.000-06:00
 meta-description: An visual exploration — using the power of animated GIFs — of how
   we might be able to support local businesses in Manitoba, if only we had the Golden
   Boy and his fleet feet to help.
@@ -23,7 +23,7 @@ In came the Golden Boy, who at about 17 feet tall, is shown walking through my n
 
 The final animated GIF, which is about 18 seconds in length, is below.
 
-<div style="max-width: 1080px" markdown="1">
+<div style="max-width: 700px" markdown="1">
 
 ![shop local Manitoba gif little sister cafe](/uploads/uploads/uploads/shop-local-manitoba-boardman-1080-animation.gif "Shop Local Manitoba")
 
