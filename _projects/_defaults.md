@@ -3,7 +3,7 @@ layout: single-project
 published: false
 title:
 meta-description:
-date: 
+date:
 main-title: 
 main_image:
 project-excerpt: 

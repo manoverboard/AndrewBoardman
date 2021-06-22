@@ -4,21 +4,26 @@
         <h3 class="project">Projects</h3>
     </a>
 
+    {% for project in site.projects limit:1 %}
     <article class="project">
-        <a href="{{ site.projects.last.url }}">
+        <a href="{{ project.url }}">
             <div class="image">
-                <img src="{{ site.projects.last.main-image | absolute_url }}" alt="{{ site.projects.last.title }}">
+                <img src="{{ project.main_image | absolute_url }}" alt="{{ project.title }}">
             </div>
         </a>
 
         <div class="content">
-            <h3><a href="{{ site.projects.last.url }}">
-                {{ site.projects.last.main-title }}
-            </a></h3>
+            <h3>
+                <a href="{{ project.url }}">
+                    {{ project.main-title }}
+                </a>
+            </h3>
             <p class="excerpt">
-                {{ site.projects.last.project-excerpt}}
+                {{ project.project-excerpt}}
             </p>
         </div>
     </article>
+    {% endfor %}
+
 </section>
 {% endif %}
