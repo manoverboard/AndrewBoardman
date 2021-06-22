@@ -1,8 +1,6 @@
 ---
 layout: about
-label: List Three
-type: field_group_list
-name: list3
+meta-description: This is the About page about Andrew Boardman. I design, draw, write and teach. Plus I read books. Mostly on graphic design, theory, history, consciousness.
 title: About
 main-image: "/uploads/uploads/ab-about.jpg"
 sub-title: Design spells destiny.
@@ -72,7 +70,7 @@ list3:
   link: https://newmediamanitoba.com/events/2/type-on-the-line
 - item: Responsive Web Design
   link: https://newmediamanitoba.com/events/205/responsive-web-design
-about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Heaven
+about_html: <blockquote><p>“To see a World in a Grain of Sand <br>And a Heaven
   in a Wild Flower, <br>Hold Infinity in the palm of your hand <br>And Eternity in
   an hour.” <br>—William Blake, <a href="https://www.poetryfoundation.org/poems/43650/auguries-of-innocence"
   title="">Augeries of Innocence</a> (c. 1803)</p></blockquote><p>What exists beyond
@@ -97,8 +95,6 @@ about-content: <blockquote><p>“To see a World in a Grain of Sand <br>And a Hea
   The Rockefeller Foundation for a while.</p><p>It took about 13.8 billion years for
   me to get to this sentence. After this next sentence, you might want to <a href="mailto:andrew@manoverboard.com"
   title="email andrew boardman">email me</a>. Looking forward.</p>
-meta-description: This is the About page about Andrew Boardman. I design, draw, write
-  and teach. Plus I read books. Mostly on graphic design, theory, history, consciousness.
 menu:
   navigation:
     identifier: _about
