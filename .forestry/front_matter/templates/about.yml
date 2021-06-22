@@ -139,5 +139,3 @@ fields:
   description: Third column list w/ links
   config:
     labelField: item
-pages:
-- about.md
