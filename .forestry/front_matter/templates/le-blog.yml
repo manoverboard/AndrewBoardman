@@ -27,5 +27,3 @@ fields:
   hidden: false
   default: ''
   description: Landscape photo ~860 x 539 // This only shows up on this page.
-pages:
-- blog.md

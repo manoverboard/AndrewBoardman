@@ -21,5 +21,3 @@ fields:
     title tag. '
   config:
     required: true
-pages:
-- projects.md
