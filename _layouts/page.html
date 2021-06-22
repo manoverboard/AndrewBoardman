@@ -2,7 +2,6 @@
 <!-- - - - - - - - - - - - - - P A G E - - - - - - - - - - - -->
 
 <div class="wo page">
-
     {% include nav.html %}
 
     <img class="main-image-v" src="{{ page.main-image | relative_url }}">
@@ -11,22 +10,17 @@
         <h1 class="h1">
             {{ page.title }}
         </h1>
-
         <h2>
             {{ page.sub-title }}
         </h2>
-
         <div class="content">
             {{ content }}
         </div>
-
     </main>
 
     <aside class="single-post inner">
         {{ page.sidebar_content }}
     </aside>
 
-
     {% include footer.html %}
-
 </div>

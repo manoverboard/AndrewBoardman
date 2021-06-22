@@ -1,22 +1,11 @@
 ---
 title: Colophon
+permalink: /colophon/
+meta-description: On this page, I thank some of the many people that made this website come together. I've grateful to have had their support.
 layout: page
 date: 2018-07-27 16:31:04 +0000
 main-image: "/uploads/uploads/sonic-youth.png"
 sub-title: Many have contributed to this site. This page reflects my thanks.
-description: ''
-resume-link: ''
-list_1_title: ''
-list1:
-- {}
-- {}
-- {}
-- {}
-- {}
-list_2_title: ''
-list2: []
-list_3_title: ''
-list3: []
 sidebar_content: <h4>A few who have influenced the making of this site:</h4><ul><li><p><a
   href="" title="">Sonic Youth</a> (long live them)</p></li><li><p><a href="https://www.tessparks.com/"
   title="">Tess Parks</a> and <a href="https://thebrianjonestownmassacre.com/" title="">Brian
@@ -25,9 +14,6 @@ sidebar_content: <h4>A few who have influenced the making of this site:</h4><ul>
   title="">Elliott Smith</a> (musician)</p></li><li><p><a href="https://www.artsy.net/artist/philip-guston"
   title="">Philip Guston</a> (painter)</p></li><li><p><a href="http://www.cytwombly.org/artworks"
   title="">Cy Twombly</a> (painter)</p></li></ul>
-main_image: "/uploads/uploads/sonic-youth.png"
-meta-description: On this page, I thank some of the many people that made this website
-  come together. I've grateful to have had their support.
 menu:
   footer:
     weight: 2
