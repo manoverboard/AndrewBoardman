@@ -6,7 +6,7 @@ layout: page
 date: 2018-07-27 16:31:04 +0000
 main-image: "/uploads/uploads/sonic-youth.png"
 sub-title: Many have contributed to this site. This page reflects my thanks.
-sidebar_content: <h4>A few who have influenced the making of this site:</h4><ul><li><p><a
+sidebar_html: <h4>A few who have influenced the making of this site:</h4><ul><li><p><a
   href="" title="">Sonic Youth</a> (long live them)</p></li><li><p><a href="https://www.tessparks.com/"
   title="">Tess Parks</a> and <a href="https://thebrianjonestownmassacre.com/" title="">Brian
   Jonestown Massacre</a> (right on)</p></li><li><p><a href="https://www.criterion.com/shop/collection/12-jean-luc-godard"
