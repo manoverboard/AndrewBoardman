@@ -1,5 +1,6 @@
 ---
 layout: single-project
+published: false
 title:
 meta-description: The front page of a newspaper from September 11, 2001, is enlarged to show what our lives looked like prior to the tragedy.
 date: 
