@@ -1,8 +1,8 @@
 ---
+layout: page
 title: Colophon
 permalink: /colophon/
 meta-description: On this page, I thank some of the many people that made this website come together. I've grateful to have had their support.
-layout: page
 date: 2018-07-27 16:31:04 +0000
 main-image: "/uploads/uploads/sonic-youth.png"
 sub-title: Many have contributed to this site. This page reflects my thanks.
