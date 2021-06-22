@@ -4,7 +4,7 @@ title: Colophon
 permalink: /colophon/
 meta-description: On this page, I thank some of the many people that made this website come together. I've grateful to have had their support.
 date: 2018-07-27 16:31:04 +0000
-main-image: "/uploads/uploads/sonic-youth.png"
+main_image: "/uploads/uploads/sonic-youth.png"
 sub-title: Many have contributed to this site. This page reflects my thanks.
 sidebar_html: <h4>A few who have influenced the making of this site:</h4><ul><li><p><a
   href="" title="">Sonic Youth</a> (long live them)</p></li><li><p><a href="https://www.tessparks.com/"

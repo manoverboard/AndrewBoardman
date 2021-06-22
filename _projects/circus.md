@@ -2,7 +2,7 @@
 title: Grad School
 layout: single-project
 date: 2018-10-07T18:56:52.000+00:00
-main-image: "/uploads/uploads/grad-school-painting-double-crossed.jpg"
+main_image: "/uploads/uploads/grad-school-painting-double-crossed.jpg"
 project-excerpt: These are paintings from graduate school completed between 1991 and
   1993. I was mostly exploring how 1930s culture announced the conclusion of modernity
   through a new and highly personal visual language.

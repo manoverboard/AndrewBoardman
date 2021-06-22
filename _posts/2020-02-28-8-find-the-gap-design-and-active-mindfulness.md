@@ -10,7 +10,7 @@ excerpt: What is the gap? Yes, it is a jeans retailer started in San Francisco i
   1969. But for designers and for those seeking to critically engage with the world,
   the gap is also something else, an epiphenomenon and a socially contracted moment
   that needs both examination and contemplation.
-main-image: "/uploads/uploads/flower-home.jpg"
+main_image: "/uploads/uploads/flower-home.jpg"
 caption: 'A pretty illusion: the gap between photograph and photographer, object and
   subject.'
 

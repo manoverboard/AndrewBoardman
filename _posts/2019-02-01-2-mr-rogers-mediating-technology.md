@@ -9,7 +9,7 @@ date: 2019-02-01 00:00:00 -0600
 excerpt: I grew up with Mr. Rogers. Nearly every morning, I would turn the dial (literally)
   to PBS and there he was, welcoming me into his neighbourhood. His show was designed
   for the world we need now.
-main-image: "/uploads/uploads/a-b-seals-post-2.jpg"
+main_image: "/uploads/uploads/a-b-seals-post-2.jpg"
 caption: Elephant seals at Elephant Seal Vista Point in San Simeon, California. Slow
   when they need to be.
 

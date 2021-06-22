@@ -8,7 +8,7 @@ date: 2019-01-04T06:00:00.000+00:00
 excerpt: An introduction to the site (by me, Andrew Boardman), information about where
   this site comes from, and why I'm writing about graphic design, design education,
   design consciousness and the presentation of knowledge.
-main-image: "/uploads/uploads/a-b-warhol-post-1.jpg"
+main_image: "/uploads/uploads/a-b-warhol-post-1.jpg"
 caption: 'Me in front of one of Warhol''s disaster paintings. The red avoids disaster. '
 
 ---

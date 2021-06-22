@@ -9,7 +9,7 @@ date: 2019-03-01 00:00:00 -0600
 excerpt: Last year, I had an opportunity to teach design and art history to first
   year students. I introduced them to a few historically important films that they
   would not ordinarily see otherwise. There are reasons why.
-main-image: "/uploads/uploads/a-b-caligari-post-3.jpg"
+main_image: "/uploads/uploads/a-b-caligari-post-3.jpg"
 caption: Card for The Cabinet of Dr. Caligari with Le sang d'un poète below. Via Wikimedia.
 
 ---

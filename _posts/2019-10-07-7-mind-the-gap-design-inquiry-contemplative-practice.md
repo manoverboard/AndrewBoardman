@@ -8,7 +8,7 @@ date: 2019-10-07T05:00:00.000+00:00
 excerpt: 'The next stage of human development, if we get there, will be fuelled by
   a combination of these three things: social action, technological inquiry, and active
   mindfulness.'
-main-image: "/uploads/uploads/london-underground-2016.jpg"
+main_image: "/uploads/uploads/london-underground-2016.jpg"
 caption: Down, down, down we go. London Underground, 2016.
 
 ---

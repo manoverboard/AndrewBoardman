@@ -3,7 +3,7 @@ layout: single-project
 meta-description: A meditation on the phantasmagoria and glorious spectacle that was
   the 1939 New York World’s Fair.
 title: The World's Fair
-main-image: "/uploads/uploads/the-worlds-fair-title.jpg"
+main_image: "/uploads/uploads/the-worlds-fair-title.jpg"
 project-excerpt: A meditation on the phantasmagoria and glorious spectacle that was
   the 1939 New York World’s Fair.
 date: 2020-07-27T00:00:00.000-05:00

@@ -3,7 +3,7 @@ title: The Site at Manoverboard
 layout: single-project
 date: 2018-07-27 19:06:12 +0000
 main-title: The Site at Manoverboard — 2004
-main-image: "/uploads/uploads/site-at-mob-home.jpg"
+main_image: "/uploads/uploads/site-at-mob-home.jpg"
 project-excerpt: Between 1998 and 2005, I published an online art gallery featuring
   artists and writers "of extreme vision". The Site grew to show the work of about
   33 individuals from around the globe.

@@ -9,7 +9,7 @@ date: 2019-06-18 00:00:00 -0500
 excerpt: Cézanne showed us that the world was not composed of a singular vantage point
   — that our environment is a panoply of times and spaces.  Despite massive mechanization
   and industrialization, we can still experience that landscape of shimmering possibility.
-main-image: "/uploads/uploads/cezanne-mont-sainte-victoire.jpg"
+main_image: "/uploads/uploads/cezanne-mont-sainte-victoire.jpg"
 caption: Paul Cezanne, La Montagne Sainte-Victoire (bet. 1892-1895) via Wikimedia.
 
 ---

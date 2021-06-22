@@ -5,7 +5,7 @@ meta-description: An visual exploration — using the power of animated GIFs —
   we might be able to support local businesses in Manitoba, if only we had the Golden
   Boy and his fleet feet to help.
 main-title: Shopping with a Golden Boy in Manitoba
-main-image: "/uploads/uploads/uploads/shoplocal-v7a1-1400px.jpg"
+main_image: "/uploads/uploads/uploads/shoplocal-v7a1-1400px.jpg"
 project-excerpt: 'A lighthearted project to support a serious challenge: supporting
   small, independent and local businesses and organizations during a time of deep
   pandemic.'

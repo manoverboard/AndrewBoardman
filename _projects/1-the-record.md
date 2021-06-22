@@ -2,7 +2,7 @@
 title: The Record
 layout: single-project
 date: 2018-10-07T19:04:57.000+00:00
-main-image: "/uploads/uploads/factory-direct-closeup.jpg"
+main_image: "/uploads/uploads/factory-direct-closeup.jpg"
 project-excerpt: Commissioned project in which the front page of a newspaper from
   September 11, 2001, is enlarged for an exhibit called Factory Direct.
 meta-description: The front page of a newspaper from September 11, 2001, is enlarged

@@ -2,7 +2,7 @@
 title: New Observations
 layout: single-project
 date: 2018-10-07T19:01:39.000+00:00
-main-image: "/uploads/uploads/new-observations-1.jpg"
+main_image: "/uploads/uploads/new-observations-1.jpg"
 project-excerpt: I guest edited <i>New Observations</i> magazine which was published
   in the summer of 1997. With work by Ken Johnson, Nigel Freeman, Xu Bing, Raymond
   Pettibon, Ruth Root, Lukasz Skąpski and Gary Simmons.

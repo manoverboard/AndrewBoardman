@@ -2,7 +2,7 @@
 title: Traces
 layout: single-project
 date: 2018-10-07T18:06:37.000+00:00
-main-image: "/uploads/uploads/transparencies-1.jpg"
+main_image: "/uploads/uploads/transparencies-1.jpg"
 project-excerpt: These are a series of ink drawings on tracing paper completed between
   1994 and 1995. The drawings show an amalgamation of my tracings of cartoons, corporate
   identities, and ephemera published prior to the Second World War.
