@@ -75,5 +75,3 @@ fields:
   hidden: false
   default: ''
   description: Turn this on to display the most recent tweet from your twitter feed.
-pages:
-- index.md
