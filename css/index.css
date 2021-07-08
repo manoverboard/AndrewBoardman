@@ -3,7 +3,6 @@
 /* ------------------------ C O R E -------------------------*/
 
 /* --------------------------------------------------------- */
-/* last edited 2/16/21 9:10am */
 
 body {
     background-color: #F6F6F6 !important;
@@ -1200,6 +1199,10 @@ footer .copyright a {
 #subForm {
     display: inline-block;
     margin-left: 30px;
+}
+
+#subForm html {
+  background-color: transparent;
 }
 
 #subForm p {
